@@ -1,0 +1,442 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": ""
+  },
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          -31
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Afrikaans",
+        "language": {
+          "markup_description": null,
+          "name": "Afrikaans",
+          "iso_codes": "afr",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 22,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "afrikaans",
+          "latitude": -31,
+          "pk": 1380,
+          "id": "afr",
+          "macroarea": "Africa",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "afr"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5,
+          48.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Elsässisch",
+        "language": {
+          "markup_description": null,
+          "name": "Elsässisch",
+          "iso_codes": "gsw",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 7.5,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "alsatian",
+          "latitude": 48.5,
+          "pk": 10,
+          "id": "alt",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "alt"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Dänisch",
+        "language": {
+          "markup_description": null,
+          "name": "Dänisch",
+          "iso_codes": "dan",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 10,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "danish",
+          "latitude": 56,
+          "pk": 2216,
+          "id": "dsh",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "dsh"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52.5
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Niederländisch",
+        "language": {
+          "markup_description": null,
+          "name": "Niederländisch",
+          "iso_codes": "nld",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 6,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "dutch",
+          "latitude": 52.5,
+          "pk": 2345,
+          "id": "dut",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "dut"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Englisch",
+        "language": {
+          "markup_description": null,
+          "name": "Englisch",
+          "iso_codes": "eng",
+          "samples_200": true,
+          "jsondata": {},
+          "longitude": 0,
+          "genus_pk": 181,
+          "samples_100": true,
+          "ascii_name": "english",
+          "latitude": 52,
+          "pk": 2551,
+          "id": "eng",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "eng"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7,
+          62
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Färöisch",
+        "language": {
+          "markup_description": null,
+          "name": "Färöisch",
+          "iso_codes": "fao",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": -7,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "faroese",
+          "latitude": 62,
+          "pk": 1113,
+          "id": "far",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "far"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Friesisch",
+        "language": {
+          "markup_description": null,
+          "name": "Friesisch",
+          "iso_codes": "frs",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 5,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "frisian",
+          "latitude": 53,
+          "pk": 1680,
+          "id": "fri",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "fri"
+    },    
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Deutsch",
+        "language": {
+          "markup_description": null,
+          "name": "Deutsch",
+          "iso_codes": "deu",
+          "samples_200": true,
+          "jsondata": {},
+          "longitude": 10,
+          "genus_pk": 181,
+          "samples_100": true,
+          "ascii_name": "german",
+          "latitude": 52,
+          "pk": 2539,
+          "id": "ger",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "ger"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17,
+          65
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Isländisch",
+        "language": {
+          "markup_description": null,
+          "name": "Isländisch",
+          "iso_codes": "isl",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": -17,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "icelandic",
+          "latitude": 65,
+          "pk": 2329,
+          "id": "ice",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "ice"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          53
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Niederdeutsch",
+        "language": {
+          "markup_description": null,
+          "name": "Niederdeutsch",
+          "iso_codes": "nds",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 10,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "lowgerman",
+          "latitude": 53,
+          "pk": 149,
+          "id": "lge",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "lge"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16666666667,
+          49.8333333333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Luxemburgisch",
+        "language": {
+          "markup_description": null,
+          "name": "Luxemburgisch",
+          "iso_codes": "ltz",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 6.16666666667,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "luxemburgeois",
+          "latitude": 49.8333333333,
+          "pk": 154,
+          "id": "lux",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "lux"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          61
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Norwegisch",
+        "language": {
+          "markup_description": null,
+          "name": "Norwegisch",
+          "iso_codes": "nob",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 8,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "norwegian",
+          "latitude": 61,
+          "pk": 2295,
+          "id": "nor",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "nor"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15,
+          60
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Schwedisch",
+        "language": {
+          "markup_description": null,
+          "name": "Schwedisch",
+          "iso_codes": "swe",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 15,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "swedish",
+          "latitude": 60,
+          "pk": 2341,
+          "id": "swe",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "swe"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23,
+          52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Jiddisch",
+        "language": {
+          "markup_description": null,
+          "name": "Jiddisch",
+          "iso_codes": "ydd, yih",
+          "samples_200": false,
+          "jsondata": {},
+          "longitude": 23,
+          "genus_pk": 181,
+          "samples_100": false,
+          "ascii_name": "yiddish",
+          "latitude": 52,
+          "pk": 490,
+          "id": "ydd",
+          "macroarea": "Eurasia",
+          "description": null
+        },
+        "icon": "http://wals.info/static/icons/cf40.png"
+      },
+      "id": "ydd"
+    }
+  ]
+}
