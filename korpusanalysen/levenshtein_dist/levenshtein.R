@@ -127,6 +127,10 @@ for(i in 1:(nrow(wenig)-1)) {
 }
 
 
-
+# Export
 write.table(wenig, "wenig_lev.csv", sep="\t", quote=F, row.names=F,
             fileEncoding = "UTF-8")
+
+# Vergleich Levenshtein und Damerau-Levenshtein
+stringdist("Kristin", "Kirstin", method="lv") 
+stringdist("Kristin", "Kirstin", method="dl") 
