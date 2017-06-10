@@ -1,0 +1,2823 @@
+Belegtext	Animacy_finegrained	Lemma	PoS	Ort	Jahr	upperCase	Sprachraum.ost.west	weiblich	Kompositum	Period	Animacy3	Animacy	Freq
+Abent	konkret	abend	NN	Alme	1630	TRUE	0		0	3	concrete	1	7
+Abent	abstrakt Maß	abend	NN	Alme	1630	TRUE	0		0	3	abstract	0	7
+Abent	abstrakt	abend	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	7
+abent	abstrakt	abend	NN	Jever	1592	FALSE	0		0	1	abstract	0	7
+auendt	abstrakt	abend	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	7
+abendt	abstrakt	abend	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	7
+abendts	abstrakt	abend	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	7
+Affgodt	übermenschlich Teufel	abgott	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	1
+Abschaidens	abstrakt	abscheiden	NN	München	1600	TRUE	1		0	1	abstract	0	1
+Abscheuch	abstrakt	abscheu	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+Abschid	abstrakt	abschied	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+abdritts	abstrakt	abtritt	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+abwegh	abstrakt	abweg	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+Achsel	konkret Körperteil	achsel	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	2
+Achsel	konkret Körperteil	achsel	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	2
+achßeln	konkret Körperteil	achseln	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	1
+Achten	abstrakt	achte	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+Achtel	abstrakt	achtel	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	1
+Adel	abstrakt	adel	NN	Alme	1630	TRUE	0		0	3	abstract	0	1
+edern	konkret Körperteil	ader	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	2
+ederen	konkret Körperteil	ader	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	2
+Alb	konkret Ort	alb	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	1
+Altar	konkret	altar	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	1
+Allte	menschlich	alte	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	1
+Alters	abstrakt	alter	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	2
+alters	abstrakt	alter	NN	München	1600	FALSE	1		0	1	abstract	0	2
+Amen	abstrakt	amen	NN	Güstrow	1615	TRUE	1		0	2	abstract	0	1
+Ammanß	menschlich	ammann	NB	Riedlingen	1596	TRUE	0	n	0	1	animate	4	3
+Ammanß	menschlich	ammann	NB	Riedlingen	1596	TRUE	0	n	0	1	animate	4	3
+Amman	menschlich	ammann	NB	Riedlingen	1596	TRUE	0	n	0	1	animate	4	3
+Ammen	menschlich	amme	NN	Gaugrehweiler	1610	TRUE	0	j	0	2	animate	3	4
+Ammen	menschlich	amme	NN	Gaugrehweiler	1610	TRUE	0	j	0	2	animate	3	4
+Ammen	menschlich	amme	NN	Gaugrehweiler	1610	TRUE	0	j	0	2	animate	3	4
+Ambt	konkret	amt	NN	Gaugrehweiler	1610	TRUE	0		0	2	concrete	1	7
+Ampt	abstrakt	amt	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	7
+Ambte	abstrakt	amt	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	7
+Ambte	abstrakt	amt	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	7
+Ambt	abstrakt	amt	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	7
+Ambte	abstrakt	amt	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	7
+Ambte	abstrakt	amt	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	7
+Ambtman	menschlich	amtmann	NB	Lemberg	1630	TRUE	0	n	1	3	animate	4	1
+Ambtschreiber	menschlich	amtschreiber	NB	Rosenburg	1618	TRUE	1	n	1	2	animate	4	1
+Amptsknechts	menschlich	amtsknecht	NB	Georgenthal	1597	TRUE	1	n	1	1	animate	4	1
+Anderen	menschlich	ander	NN	Alme	1630	TRUE	0		0	3	animate	2	10
+Ander	abstrakt	ander	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	10
+anderen	menschlich	ander	NN	Hamm	1592	FALSE	0		0	1	animate	2	10
+andern	menschlich	ander	NN	München	1600	FALSE	1		0	1	animate	2	10
+anderen	menschlich	ander	NN	München	1600	FALSE	1		0	1	animate	2	10
+Andern	abstrakt	ander	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	10
+Andern	abstrakt	ander	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	10
+an- fall	abstrakt	anfall	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	3
+anfall	abstrakt	anfall	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	3
+anfall	abstrakt	anfall	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	3
+anfang	abstrakt	anfang	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	3
+Anfang	abstrakt	anfang	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	3
+Anfangk	abstrakt	anfang	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	3
+Anfenglichen	abstrakt	anfänglich	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	1
+angesicht	konkret Körperteil	angesicht	NN	Alme	1630	FALSE	0		0	3	concrete	1	7
+angesicht	konkret Körperteil	angesicht	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	7
+angesicht	konkret Körperteil	angesicht	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	7
+ange- sicht	konkret Körperteil	angesicht	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	7
+angesicht	konkret Körperteil	angesicht	NN	Hamm	1592	FALSE	0		0	1	concrete	1	7
+angesicht	konkret Körperteil	angesicht	NN	Jever	1592	FALSE	0		0	1	concrete	1	7
+Ange- sichte	konkret Körperteil	angesicht	NN	Ostrau	1628	TRUE	1		0	3	concrete	1	7
+Anhallten	abstrakt	anhalten	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	1
+anhang	menschlich	anhang	NN	München	1600	FALSE	1		0	1	animate	2	1
+anclage	abstrakt	anklage	NN	Hamm	1592	FALSE	0		0	1	abstract	0	2
+Anklage	abstrakt	anklage	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	2
+anlaß	abstrakt	anlasz	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	1
+anraitzung	abstrakt	anreizung	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	2
+anreizungen	abstrakt	anreizung	NN	München	1600	FALSE	1		0	1	abstract	0	2
+anschlagen	abstrakt	anschlag	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+anstellungen	abstrakt	anstellung	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+antrib	abstrakt	antrieb	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	1
+antwort	abstrakt	antwort	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	3
+antwort	abstrakt	antwort	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	3
+antwortt	abstrakt	antwort	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	3
+anwesendten	menschlich	anwesend	NN	Bamberg	1628	FALSE	1		0	3	animate	2	2
+anwesendte	menschlich	anwesend	NN	Bamberg	1628	FALSE	1		0	3	animate	2	2
+anzahl	abstrakt	anzahl	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	2
+anzall	abstrakt	anzahl	NN	Hamm	1592	FALSE	0		0	1	abstract	0	2
+Anzaigen	abstrakt	anzeigen	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+anzeigung	abstrakt	anzeigung	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	1
+anziehung	abstrakt	anziehung	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	1
+Arbait	abstrakt	arbeit	NN	München	1600	TRUE	1		0	1	abstract	0	2
+Arbait	abstrakt	arbeit	NN	München	1600	TRUE	1		0	1	abstract	0	2
+Armen	konkret Körperteil	arm	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	2
+Arm	konkret Körperteil	arm	NN	Gaugrehweiler	1610	TRUE	0		0	2	concrete	1	2
+Ermel	konkret	ärmel	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	1
+Armueth	abstrakt	armut	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	3
+Armueth	abstrakt	armut	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	3
+Armutt	abstrakt	armut	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	3
+Arsch	konkret Körperteil	arsch	NN	Hamm	1592	TRUE	0		0	1	concrete	1	2
+Eschen	konkret	asche	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	2
+Eschen	konkret	asche	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	2
+aufenhalt	abstrakt	aufenthalt	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	1
+Auge	konkret Körperteil	auge	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	7
+Auge	konkret Körperteil	auge	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	7
+augen	konkret Körperteil	auge	NN	Hamm	1592	FALSE	0		0	1	concrete	1	7
+augenn	konkret Körperteil	auge	NN	Jever	1592	FALSE	0		0	1	concrete	1	7
+ogen	konkret Körperteil	auge	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	7
+augen	konkret Körperteil	auge	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	7
+Augen	konkret Körperteil	auge	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	7
+außlaßungh	abstrakt	auslassung	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+Außrhüren	abstrakt	ausrühren	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	1
+aussage	abstrakt	aussage	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	15
+Aussage	abstrakt	aussage	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	15
+Aussage	abstrakt	aussage	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	15
+Aussage	abstrakt	aussage	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	15
+Außage	abstrakt	aussage	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	15
+Auß- sage	abstrakt	aussage	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	15
+Ausßag	abstrakt	aussage	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	15
+Ausßag	abstrakt	aussage	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	15
+Ausßag	abstrakt	aussage	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	15
+Ausßag	abstrakt	aussage	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	15
+Ausßag	abstrakt	aussage	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	15
+Ausßag	abstrakt	aussage	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	15
+Ausßag	abstrakt	aussage	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	15
+Ausßag	abstrakt	aussage	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	15
+außage	abstrakt	aussage	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	15
+ausßage	abstrakt	aussagen	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+auererschen	menschlich	auszerirdisch	NN	Perleberg	1588	FALSE	1		0	1	animate	2	1
+Backhaus	konkret	backhaus	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	1
+Bade Magdt	menschlich	bademagd	NB	Georgenthal	1597	TRUE	1	j	0	1	animate	3	1
+banckh	konkret	bank	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	1
+Bencklein	konkret	bänkchen	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	1
+Barchet	konkret	barchet	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	1
+Barm	konkret	barm	NN	München	1600	TRUE	1		0	1	concrete	1	1
+barmherzigkait	abstrakt	barmherzigkeit	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	1
+Barrn	konkret	barre	NN	München	1600	TRUE	1		0	1	concrete	1	1
+Beürin	menschlich	bauer	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	9
+Beürin	menschlich	bauer	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	9
+Paurn	menschlich	bauer	NB	München	1600	TRUE	1	n	0	1	animate	4	9
+Paur	menschlich	bauer	NB	München	1600	TRUE	1	n	0	1	animate	4	9
+Paurn	menschlich	bauer	NB	München	1600	TRUE	1	n	0	1	animate	4	9
+Paur	menschlich	bauer	NB	München	1600	TRUE	1	n	0	1	animate	4	9
+Paur	menschlich	bauer	NB	München	1600	TRUE	1	n	0	1	animate	4	9
+Bawern	menschlich	bauer	NB	Rosenburg	1618	TRUE	1	n	0	2	animate	4	9
+Pauerknecht	menschlich	bauerknecht	NB	Ostrau	1628	TRUE	1	n	1	3	animate	4	1
+baumen	konkret	baum	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	1
+beAmbten	menschlich	beamte	NB	Rosenburg	1618	FALSE	1	n	0	2	animate	4	1
+becher	konkret	becher	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+bedenkhzeit	abstrakt	bedenkzeit	NN	Bamberg	1628	FALSE	1		1	3	abstract	0	3
+bedenkhzeit	abstrakt	bedenkzeit	NN	Bamberg	1628	FALSE	1		1	3	abstract	0	3
+bedenckzeitt	abstrakt	bedenkzeit	NN	Lemberg	1630	FALSE	0		1	3	abstract	0	3
+bedrawung	abstrakt	bedrohung	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	1
+bephelch	abstrakt	befehl	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	5
+bephelch	abstrakt	befehl	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	5
+beuelch	abstrakt	befehl	NN	Hamm	1592	FALSE	0		0	1	abstract	0	5
+beuelch	abstrakt	befehl	NN	Hamm	1592	FALSE	0		0	1	abstract	0	5
+beuelch	abstrakt	befehl	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+befragung	abstrakt	befragung	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	3
+befragung	abstrakt	befragung	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	3
+befragunge	abstrakt	befragung	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	3
+begehren	abstrakt	begehren	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	1
+behausung	abstrakt	behausung	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	4
+behaußung	konkret	behausung	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	4
+be heusung	konkret	behausung	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	4
+behausung	konkret	behausung	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	4
+beicht	abstrakt	beichten	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	1
+beine	konkret Körperteil	bein	NN	Alme	1630	FALSE	0		0	3	concrete	1	3
+Bein	konkret Körperteil	bein	NN	Hamm	1592	TRUE	0		0	1	concrete	1	3
+bain	konkret Körperteil	bein	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	3
+beisein	abstrakt	beisein	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	8
+beysein	abstrakt	beisein	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	8
+beysein	abstrakt	beisein	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	8
+beysein	abstrakt	beisein	NN	Hamm	1592	FALSE	0		0	1	abstract	0	8
+beysein	abstrakt	beisein	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	8
+beysein	abstrakt	beisein	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	8
+beisein	abstrakt	beisein	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	8
+bey- standt	abstrakt	beistand	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	2
+beystandt	abstrakt	beistand	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	2
+beiwesen	abstrakt	beiwesen	NN	Jever	1592	FALSE	0		0	1	abstract	0	2
+Beiwesen	abstrakt	beiwesen	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	2
+beywesente	menschlich	beiwesend	NN	Bamberg	1628	FALSE	1		0	3	animate	2	1
+bekhandte	menschlich	bekannte	NN	München	1600	FALSE	1		0	1	animate	2	1
+bekandtnus	abstrakt	bekanntnis	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	1
+bekendt- niße	abstrakt	bekenntnis	NN	Alme	1630	FALSE	0		0	3	abstract	0	20
+bekhandtnuß	abstrakt	bekenntnis	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	20
+bekhandt- nuß	abstrakt	bekenntnis	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	20
+bekandtnus	abstrakt	bekenntnis	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	20
+bekendtnus	abstrakt	bekenntnis	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	20
+bekhendtnuß	abstrakt	bekenntnis	NN	Hamm	1592	FALSE	0		0	1	abstract	0	20
+Bekentnus	abstrakt	bekenntnis	NN	Jever	1592	TRUE	0		0	1	abstract	0	20
+bekendtnus	abstrakt	bekenntnis	NN	Jever	1592	FALSE	0		0	1	abstract	0	20
+bekentnus	abstrakt	bekenntnis	NN	Jever	1592	FALSE	0		0	1	abstract	0	20
+bekenteniße	abstrakt	bekenntnis	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	20
+Bekentnus	abstrakt	bekenntnis	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	20
+Bekentnus	abstrakt	bekenntnis	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	20
+Bekentnus	abstrakt	bekenntnis	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	20
+bekantnuß	abstrakt	bekenntnis	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	20
+bekantnuß	abstrakt	bekenntnis	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	20
+bekentnuß	abstrakt	bekenntnis	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	20
+Bekhandtnuß	abstrakt	bekenntnis	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	20
+bekhandtnuß	abstrakt	bekenntnis	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	20
+bekhandtnuß	abstrakt	bekenntnis	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	20
+bekandtnus	abstrakt	bekenntnis	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	20
+Beclagtin	menschlich	beklagte	NN	Lemberg	1630	TRUE	0		0	3	animate	2	2
+Beclagtin	menschlich	beklagte	NN	Lemberg	1630	TRUE	0		0	3	animate	2	2
+berge	konkret	berg	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	3
+berge	konkret	berg	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	3
+berg	konkret Ort	berg	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	3
+bericht	abstrakt	bericht	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	1
+beschedigten	konkret	beschädigen	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	1
+beschaffenheit	abstrakt	beschaffenheit	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	1
+beschluß	abstrakt	beschlusz	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	1
+beschuldigung	abstrakt	beschuldigung	NN	Jever	1592	FALSE	0		0	1	abstract	0	2
+beschuldigung	abstrakt	beschuldigung	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	2
+beschwehrnus	abstrakt	beschwernis	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	1
+beßem	konkret	besem	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	1
+Päsen	konkret	besen	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	4
+Besen	konkret	besen	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	4
+Besens	konkret	besen	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	4
+beßen	konkret	besen	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	4
+beßerung	abstrakt	besserung	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	1
+betrachtung	abstrakt	betrachtung	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	1
+betrubnuß	abstrakt	betrübnis	NN	Hamm	1592	FALSE	0		0	1	abstract	0	2
+betrubnußen	abstrakt	betrübnis	NN	Hamm	1592	FALSE	0		0	1	abstract	0	2
+beth	konkret	bett	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	9
+bedt	konkret	bett	NN	Hamm	1592	FALSE	0		0	1	concrete	1	9
+bedt	konkret	bett	NN	Hamm	1592	FALSE	0		0	1	concrete	1	9
+bedde	konkret	bett	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	9
+bedde	konkret	bett	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	9
+bedde	konkret	bett	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	9
+bedde	konkret	bett	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	9
+bedde	konkret	bett	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	9
+bette	konkret	bett	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	9
+bettell frau	menschlich	bettelfrau	NN	Gaugrehweiler	1610	FALSE	0	j	1	2	animate	3	1
+betteljungen	menschlich	betteljunge	NN	Schweinfurt	1616	FALSE	1	n	1	2	animate	4	1
+Petler	menschlich	bettler	NB	München	1600	TRUE	1	n	0	1	animate	4	2
+bettler	menschlich	bettler	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	2
+beutelchen	konkret	beutelchen	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	2
+beutelchen	konkret	beutelchen	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	2
+beweiß	abstrakt	beweis	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	1
+Bier	konkret	bier	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	3
+Bier	konkret	bier	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	3
+bier	konkret	bier	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	3
+beest	menschlich	biest	NN	Meldorf	1618	FALSE	0		0	2	animate	2	1
+bildichen	konkret	bildchen	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	2
+bildichen	konkret	bildchen	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	2
+bitten	abstrakt	bitten	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	2
+bitten	abstrakt	bitten	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	2
+bliz	abstrakt	blitz	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+blumen	konkret	blume	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	1
+blueth	konkret	blut	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	5
+blode	konkret	blut	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	5
+blode	konkret	blut	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	5
+bluot	konkret	blut	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	5
+blutte	konkret Körperteil	blut	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	5
+bliuen	konkret	blüte	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	1
+blutt	konkret	blutt	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	1
+Bokhs	tierisch	bock	NN	Bamberg	1628	TRUE	1		0	3	animate	2	4
+bock	tierisch	bock	NN	Hamm	1592	FALSE	0		0	1	animate	2	4
+Bock	tierisch	bock	NN	Lemberg	1630	TRUE	0		0	3	animate	2	4
+boden	konkret	boden	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	2
+boden	konkret	boden	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	2
+boses	abstrakt	böse	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	8
+boses	abstrakt	böse	NN	Jever	1592	FALSE	0		0	1	abstract	0	8
+bößes	abstrakt	böse	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	8
+bo- ses	abstrakt	böse	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	8
+Bottschafft	abstrakt	botschaft	NN	Hamm	1592	TRUE	0		0	1	abstract	0	1
+brandt	abstrakt	brand	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	1
+brates	konkret	braten	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	2
+brates	konkret	braten	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	2
+brudt	menschlich	braut	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	1
+Braut-  schatzes	konkret	brautschatz	NN	Jever	1592	TRUE	0		1	1	concrete	1	1
+brodt	konkret	brot	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	5
+brodt	konkret	brot	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	5
+brodt	konkret	brot	NN	Hamm	1592	FALSE	0		0	1	concrete	1	5
+Brodt	konkret	brot	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	5
+brot	konkret	brot	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	5
+Bruders	menschlich	bruder	NN	Jever	1592	TRUE	0	n	0	1	animate	4	4
+Brodernn	menschlich	bruder	NN	Jever	1592	TRUE	0	n	0	1	animate	4	4
+Bruder	menschlich	bruder	NN	Jever	1592	TRUE	0	n	0	1	animate	4	4
+Brueder	menschlich	bruder	NN	Stralsund	1630	TRUE	1	n	0	3	animate	4	4
+brust	konkret Körperteil	brust	NN	Alme	1630	FALSE	0		0	3	concrete	1	3
+Bruste	konkret Körperteil	brust	NN	Jever	1592	TRUE	0		0	1	concrete	1	3
+brust	konkret Körperteil	brust	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	3
+Pueb	menschlich	bub	NN	München	1600	TRUE	1	n	0	1	animate	4	2
+Pueb	menschlich	bub	NN	München	1600	TRUE	1	n	0	1	animate	4	2
+Pueben	menschlich	bube	NN	München	1600	TRUE	1	n	0	1	animate	4	3
+Pueben	menschlich	bube	NN	München	1600	TRUE	1	n	0	1	animate	4	3
+Pueben	menschlich	bube	NN	München	1600	TRUE	1	n	0	1	animate	4	3
+bixlin	konkret	büchse	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	2
+büchße	konkret	büchse	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	2
+Buhl	übermenschlich Teufel	buhle	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	45
+Buhl	übermenschlich Teufel	buhle	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	45
+Buhlen	übermenschlich Teufel	buhle	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	45
+Buhlen	übermenschlich Teufel	buhle	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	45
+Buhlen	übermenschlich Teufel	buhle	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	45
+Buhlen	übermenschlich Teufel	buhle	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	45
+Buel	übermenschlich Teufel	buhle	NN	Baden-Baden	1628	TRUE	0	n	0	3	animate	4	45
+Puhlin	übermenschlich Teufel	buhle	NN	Bamberg	1628	TRUE	1	j	0	3	animate	3	45
+Puhlin	übermenschlich Teufel	buhle	NN	Bamberg	1628	TRUE	1	j	0	3	animate	3	45
+Puhlin	übermenschlich Teufel	buhle	NN	Bamberg	1628	TRUE	1	j	0	3	animate	3	45
+Puhlin	menschlich	buhle	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	45
+Puhlin	übermenschlich Teufel	buhle	NN	Bamberg	1628	TRUE	1	j	0	3	animate	3	45
+Puhlin	übermenschlich Teufel	buhle	NN	Bamberg	1628	TRUE	1	j	0	3	animate	3	45
+Bule	übermenschlich Teufel	buhle	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	45
+Bule	menschlich	buhle	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	45
+Bulen	übermenschlich Teufel	buhle	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	45
+bull	übermenschlich Teufel	buhle	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	45
+bullen	übermenschlich Teufel	buhle	NN	Hamm	1592	FALSE	0		0	1	animate	2	45
+Bull	übermenschlich Teufel	buhle	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	45
+Bullen	übermenschlich Teufel	buhle	NN	Hamm	1592	TRUE	0		0	1	animate	2	45
+bull	übermenschlich Teufel	buhle	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	45
+bullen	übermenschlich Teufel	buhle	NN	Hamm	1592	FALSE	0		0	1	animate	2	45
+Bullen	übermenschlich Teufel	buhle	NN	Hamm	1592	TRUE	0		0	1	animate	2	45
+bull	übermenschlich Teufel	buhle	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	45
+Bule	übermenschlich Teufel	buhle	NN	Jever	1592	TRUE	0		0	1	animate	2	45
+Bule	übermenschlich Teufel	buhle	NN	Jever	1592	TRUE	0		0	1	animate	2	45
+Bulen	übermenschlich Teufel	buhle	NN	Jever	1592	TRUE	0		0	1	animate	2	45
+Bolen	übermenschlich Teufel	buhle	NN	Jever	1592	TRUE	0		0	1	animate	2	45
+Bole	übermenschlich Teufel	buhle	NN	Jever	1592	TRUE	0		0	1	animate	2	45
+Buhl	übermenschlich Teufel	buhle	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	45
+Buhlen	übermenschlich Teufel	buhle	NN	Ostrau	1628	TRUE	1		0	3	animate	2	45
+Buhle	übermenschlich Teufel	buhle	NN	Ostrau	1628	TRUE	1		0	3	animate	2	45
+Buhle	übermenschlich Teufel	buhle	NN	Ostrau	1628	TRUE	1		0	3	animate	2	45
+Buhlen	übermenschlich Teufel	buhle	NN	Ostrau	1628	TRUE	1		0	3	animate	2	45
+Buhlen	übermenschlich Teufel	buhle	NN	Ostrau	1628	TRUE	1		0	3	animate	2	45
+Buhlen	übermenschlich Teufel	buhle	NN	Ostrau	1628	TRUE	1		0	3	animate	2	45
+Buhlen	übermenschlich Teufel	buhle	NN	Ostrau	1628	TRUE	1		0	3	animate	2	45
+Buhlen	übermenschlich Teufel	buhle	NN	Ostrau	1628	TRUE	1		0	3	animate	2	45
+Buol	menschlich	buhle	NN	Riedlingen	1596	TRUE	0	n	0	1	animate	4	45
+Buol	übermenschlich Teufel	buhle	NN	Riedlingen	1596	TRUE	0	n	0	1	animate	4	45
+buol	übermenschlich Teufel	buhle	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	45
+buolen	übermenschlich Teufel	buhle	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	45
+Buol	übermenschlich Teufel	buhle	NN	Riedlingen	1596	TRUE	0	n	0	1	animate	4	45
+buol	übermenschlich Teufel	buhle	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	45
+Bolin	übermenschlich Teufel	buhlin	NN	Jever	1592	TRUE	0	j	0	1	animate	3	1
+bulschafft	abstrakt	buhlschaft	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	1
+Burgermeister	menschlich	burgermeister	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	5
+Burgermeister	menschlich	burgermeister	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	5
+Burgermeister	menschlich	burgermeister	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	5
+Burgermeister	menschlich	burgermeister	NB	Güstrow	1615	TRUE	1	n	0	2	animate	4	5
+Burgermeister	menschlich	burgermeister	NB	Güstrow	1615	TRUE	1	n	0	2	animate	4	5
+burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	10
+burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	10
+burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	10
+burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	10
+burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	10
+burgk- mans	menschlich	burgmann	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	10
+burgk- mans	menschlich	burgmann	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	10
+burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	10
+Burgkmans	menschlich	burgmann	NB	Güstrow	1615	TRUE	1	n	0	2	animate	4	10
+burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	10
+busche	konkret	busch	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	2
+Pösch	konkret	busch	NN	Hamm	1592	TRUE	0		0	1	concrete	1	2
+busch	konkret	buschen	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+bueße	abstrakt	busze	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	1
+bueße	abstrakt	buszfahrt	NN	Güstrow	1615	FALSE	1		1	2	abstract	0	1
+botter	konkret	butter	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	2
+bottter	konkret	butter	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	2
+Putterfaß	konkret	butterfasz	NN	Schweinfurt	1616	TRUE	1		1	2	concrete	1	2
+Butterfaß	konkret	butterfasz	NN	Schweinfurt	1616	TRUE	1		1	2	concrete	1	2
+Pütner	menschlich	büttner	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	1
+Conuent	abstrakt	convent	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	1
+dache	konkret	dach	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	1
+der- men	konkret Körperteil	darm	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	1
+daumeißen	konkret	daumeisen	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	1
+Daumenstockh	konkret	daumenstock	NN	Bamberg	1628	TRUE	1		1	3	concrete	1	2
+daumenstokh	konkret	daumenstock	NN	Bamberg	1628	FALSE	1		1	3	concrete	1	2
+dieb	menschlich	dieb	NN	Georgenthal	1597	FALSE	1	n	0	1	animate	4	4
+dieb	menschlich	dieb	NN	Georgenthal	1597	FALSE	1	n	0	1	animate	4	4
+dieb	menschlich	dieb	NN	München	1600	FALSE	1	n	0	1	animate	4	4
+dieb	menschlich	dieb	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	4
+diener	menschlich	diener	NN	Güstrow	1615	FALSE	1	n	0	2	animate	4	2
+diener	menschlich	diener	NN	Güstrow	1615	FALSE	1	n	0	2	animate	4	2
+diensten	abstrakt	dienst	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	2
+diensten	abstrakt	dienst	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	2
+dienstag	abstrakt	dienstag	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	2
+dienstag	abstrakt	dienstag	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	2
+dienst knecht	menschlich	dienstknecht	NB	Güstrow	1615	FALSE	1	n	1	2	animate	4	1
+dienstlohn	konkret	dienstlohn	NN	Schweinfurt	1616	FALSE	1		1	2	concrete	1	1
+dingh	konkret	ding	NN	Alme	1630	FALSE	0		0	3	concrete	1	10
+dinge	konkret	ding	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	10
+dingen	abstrakt	ding	NN	Hamm	1592	FALSE	0		0	1	abstract	0	10
+dinges	abstrakt	ding	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	10
+dinger	übermenschlich Teufel	ding	NN	Rosenburg	1618	FALSE	1		0	2	animate	2	10
+dinger	übermenschlich Teufel	ding	NN	Rosenburg	1618	FALSE	1		0	2	animate	2	10
+dinger	übermenschlich Teufel	ding	NN	Rosenburg	1618	FALSE	1		0	2	animate	2	10
+ding	abstrakt	ding	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	10
+dinge	konkret	ding	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	10
+dinge	abstrakt	ding	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	10
+Dinggerichte	abstrakt	dinggericht	NN	Rosenburg	1618	TRUE	1		1	2	abstract	0	2
+dinggerichte	menschlich Kollektivum	dinggericht	NN	Rosenburg	1618	FALSE	1		1	2	animate	2	2
+dirrn	übermenschlich Teufel	dirne	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	1
+Doctor	menschlich	doctor	NB	Baden-Baden	1628	TRUE	0	n	0	3	animate	4	14
+doctor	menschlich	doctor	NB	Bamberg	1628	FALSE	1	n	0	3	animate	4	14
+doctor	menschlich	doctor	NB	Bamberg	1628	FALSE	1	n	0	3	animate	4	14
+doctor	menschlich	doctor	NB	Bamberg	1628	FALSE	1	n	0	3	animate	4	14
+Doctor	menschlich	doctor	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	14
+doctor	menschlich	doctor	NB	Bamberg	1628	FALSE	1	n	0	3	animate	4	14
+Doctor	menschlich	doctor	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	14
+Doctor	menschlich	doctor	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	14
+doctor	menschlich	doctor	NB	Bamberg	1628	FALSE	1	n	0	3	animate	4	14
+Doctorn	menschlich	doctor	NB	Lemberg	1630	TRUE	0	n	0	3	animate	4	14
+Doctor	menschlich	doctor	NB	München	1600	TRUE	1	n	0	1	animate	4	14
+Doctor	menschlich	doctor	NB	München	1600	TRUE	1	n	0	1	animate	4	14
+Doctoren	menschlich	doctor	NB	Stralsund	1630	TRUE	1	n	0	3	animate	4	14
+Donner	abstrakt	donner	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	1
+donnerstage	abstrakt Maß	donnerstag	NN	Alme	1630	FALSE	0		0	3	abstract	0	4
+donnerstage	abstrakt Maß	donnerstag	NN	Alme	1630	FALSE	0		0	3	abstract	0	4
+don- nertagk	abstrakt	donnerstag	NN	Jever	1592	FALSE	0		0	1	abstract	0	4
+Donners-	abstrakt	donnerstag	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	4
+dorff	konkret	dorf	NN	Alme	1630	FALSE	0		0	3	concrete	1	9
+dorffe	konkret	dorf	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	9
+dorfern	konkret	dorf	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	9
+dorff	konkret	dorf	NN	Hamm	1592	FALSE	0		0	1	concrete	1	9
+dorff	konkret Kollektivum	dorf	NN	München	1600	FALSE	1		0	1	concrete	1	9
+dorf	konkret Kollektivum	dorf	NN	München	1600	FALSE	1		0	1	concrete	1	9
+dorf	konkret	dorf	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	9
+dorf	konkret Ort	dorf	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	9
+dorffe	konkret Ort	dorf	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	9
+dörfflin	konkret	dörflein	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	1
+dorn	konkret	dorn	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	1
+dhorrnen	konkret	dornen	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+dose	konkret	dose	NN	Jever	1592	FALSE	0		0	1	concrete	1	1
+dotengellt	konkret	dotengeld	NN	Bamberg	1628	FALSE	1		1	3	concrete	1	1
+Drache	menschlich	drache	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	4
+Drachen	übermenschlich Teufel	drache	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	4
+Drache	übermenschlich Teufel	drache	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	4
+Trachen	übermenschlich Teufel	drache	NN	Rosenburg	1618	TRUE	1		0	2	animate	2	4
+drey	menschlich	drei	NN	Riedlingen	1596	FALSE	0		0	1	animate	2	2
+dreyfaltigkeitt	übermenschlich positiv	dreifaltigkeit	NN	Stralsund	1630	FALSE	1		0	3	animate	2	1
+dritt	abstrakt	dritte	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	3
+dritten	abstrakt	dritte	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	3
+dritte	abstrakt	dritte	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	3
+eckh	konkret	eck	NN	München	1600	FALSE	1		0	1	concrete	1	1
+Eggen	konkret	egge	NN	Alme	1630	TRUE	0		0	3	concrete	1	2
+eggen	konkret	egge	NN	Alme	1630	FALSE	0		0	3	concrete	1	2
+Ehe	abstrakt	ehe	NN	Gaugrehweiler	1610	TRUE	0		0	2	abstract	0	1
+eheman	menschlich	ehemann	NN	Güstrow	1615	FALSE	1	n	1	2	animate	4	3
+eheman	menschlich	ehemann	NN	Jever	1592	FALSE	0	n	1	1	animate	4	3
+Ehemanne	menschlich	ehemann	NN	Ostrau	1628	TRUE	1	n	1	3	animate	4	3
+Aydt	abstrakt	eid	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	4
+Aydts	abstrakt	eid	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	4
+Eydt	abstrakt	eid	NN	Hamm	1592	TRUE	0		0	1	abstract	0	4
+Ayd	abstrakt	eid	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	4
+eigenn	abstrakt	eigen	NN	Jever	1592	FALSE	0		0	1	abstract	0	1
+einen	menschlich	ein	NN	Schweinfurt	1616	FALSE	1		0	2	animate	2	1
+Inholde	abstrakt	einhalten	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	1
+eins	abstrakt	eins	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+In- wohners	menschlich	einwohner	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	1
+Eiserwerck	konkret	eisenwerk	NN	Perleberg	1588	TRUE	1		1	1	concrete	1	1
+Elben	menschlich	elb	NN	Ostrau	1628	TRUE	1		0	3	animate	2	9
+Elben	menschlich	elb	NN	Ostrau	1628	TRUE	1		0	3	animate	2	9
+Elben	menschlich	elb	NN	Ostrau	1628	TRUE	1		0	3	animate	2	9
+Elben	menschlich	elb	NN	Ostrau	1628	TRUE	1		0	3	animate	2	9
+Elben	menschlich	elb	NN	Ostrau	1628	TRUE	1		0	3	animate	2	9
+Elben	menschlich	elb	NN	Ostrau	1628	TRUE	1		0	3	animate	2	9
+Elben	menschlich	elb	NN	Ostrau	1628	TRUE	1		0	3	animate	2	9
+Elben	menschlich	elb	NN	Ostrau	1628	TRUE	1		0	3	animate	2	9
+Elben	menschlich	elb	NN	Ostrau	1628	TRUE	1		0	3	animate	2	9
+Ailfften	abstrakt	elftens	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+Eln	abstrakt Maß	elle	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	2
+Eln	abstrakt Maß	elle	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	2
+ellebogenn	konkret Körperteil	ellenboge	NN	Jever	1592	FALSE	0		0	1	concrete	1	1
+Endte	abstrakt	ende	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	8
+ende	abstrakt	ende	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	8
+endt	abstrakt	ende	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	8
+ende	abstrakt	ende	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	8
+ende	abstrakt	ende	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	8
+endt	abstrakt	ende	NN	Hamm	1592	FALSE	0		0	1	abstract	0	8
+Ende	abstrakt	ende	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	8
+ende	abstrakt	ende	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	8
+Encken	menschlich	enke	NB	Rosenburg	1618	TRUE	1		0	2	animate	2	3
+Encke	menschlich	enke	NB	Rosenburg	1618	TRUE	1		0	2	animate	2	3
+Encke	menschlich	enke	NB	Rosenburg	1618	TRUE	1		0	2	animate	2	3
+erachtens	abstrakt	erachten	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+erffal	abstrakt	erbfall	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	1
+Erden	konkret	erde	NN	Gaugrehweiler	1610	TRUE	0		0	2	concrete	1	9
+erden	konkret	erde	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	9
+Erden	konkret	erde	NN	Hamm	1592	TRUE	0		0	1	concrete	1	9
+Erdt	konkret	erde	NN	Hamm	1592	TRUE	0		0	1	concrete	1	9
+erde	konkret	erde	NN	Jever	1592	FALSE	0		0	1	concrete	1	9
+Erden	konkret	erde	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	9
+erde	konkret	erde	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	9
+Erden	konkret	erde	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	9
+Erden	konkret	erde	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	9
+Erdtleute	menschlich	erdleute	NN	Perleberg	1588	TRUE	1		1	1	animate	2	1
+Erdreich	konkret	erdreich	NN	München	1600	TRUE	1		1	1	concrete	1	1
+erfarunngh	abstrakt	erfahrung	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+erInnerung	abstrakt	erinnerung	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+Erkhendtnuß	abstrakt	erkenntnis	NN	Hamm	1592	TRUE	0		0	1	abstract	0	5
+erkhendtnuß	abstrakt	erkenntnis	NN	Hamm	1592	FALSE	0		0	1	abstract	0	5
+erkentenuße	abstrakt	erkenntnis	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	5
+erkändtnuß	abstrakt	erkenntnis	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	5
+erkhundigung	abstrakt	erkundigung	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+erlöeser	übermenschlich positiv	erlöser	NN	Bamberg	1628	FALSE	1	n	0	3	animate	4	1
+ernst	abstrakt	ernst	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	3
+ernst	abstrakt	ernst	NN	München	1600	FALSE	1		0	1	abstract	0	3
+ernst	abstrakt	ernst	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	3
+Erndte	abstrakt	ernte	NN	Güstrow	1615	TRUE	1		0	2	abstract	0	1
+erst	abstrakt	erst	NN	Jever	1592	FALSE	0		0	1	abstract	0	1
+erstattung	abstrakt	erstattung	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	1
+exempell	abstrakt	exempel	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	2
+Exempel	abstrakt	exempel	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	2
+fane	konkret	fahne	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+Fendlein	konkret	fähnlein	NN	Jever	1592	TRUE	0		0	1	concrete	1	1
+fall	abstrakt	fall	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+fallung	abstrakt	fallung	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	1
+farbe	abstrakt	farbe	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	2
+farben	abstrakt	farbe	NN	Jever	1592	FALSE	0		0	1	abstract	0	2
+Faß	konkret	fasz	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	1
+feder	konkret	feder	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	3
+feddern	konkret	feder	NN	Jever	1592	FALSE	0		0	1	concrete	1	3
+feder	konkret	feder	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	3
+feindt	übermenschlich Teufel	feind	NN	Baden-Baden	1628	FALSE	0	n	0	3	animate	4	13
+feindt	übermenschlich Teufel	feind	NN	Bamberg	1628	FALSE	1	n	0	3	animate	4	13
+feindt	übermenschlich Teufel	feind	NN	Günzburg	1613	FALSE	0	n	0	2	animate	4	13
+feindt	übermenschlich Teufel	feind	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	13
+feindtt	übermenschlich Teufel	feind	NN	Lemberg	1630	FALSE	0	n	0	3	animate	4	13
+feindt	übermenschlich Teufel	feind	NN	Lemberg	1630	FALSE	0	n	0	3	animate	4	13
+Feindt	übermenschlich Teufel	feind	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	13
+feind	übermenschlich Teufel	feind	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	13
+feind	übermenschlich Teufel	feind	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	13
+feind	übermenschlich Teufel	feind	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	13
+feindt	übermenschlich Teufel	feind	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	13
+feindts	übermenschlich Teufel	feind	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	13
+feindt	übermenschlich Teufel	feind	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	13
+feldt	konkret Ort	feld	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	4
+felde	konkret Ort	feld	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	4
+felde	konkret Ort	feld	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	4
+felde	konkret Ort	feld	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	4
+Feldthüetter	menschlich	feldhüter	NB	München	1600	TRUE	1	n	1	1	animate	4	1
+feldt- marcke	konkret	feldmark	NN	Güstrow	1615	FALSE	1		1	2	concrete	1	3
+feldtmarcke	konkret	feldmark	NN	Perleberg	1588	FALSE	1		1	1	concrete	1	3
+feldtmarcken	konkret	feldmark	NN	Perleberg	1588	FALSE	1		1	1	concrete	1	3
+fenster	konkret	fenster	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+fercken	tierisch	ferkel	NN	Alme	1630	FALSE	0		0	3	animate	2	3
+fercken	tierisch	ferkel	NN	Alme	1630	FALSE	0		0	3	animate	2	3
+ferchen	tierisch	ferkel	NN	Perleberg	1588	FALSE	1		0	1	animate	2	3
+feuwer	konkret	feuer	NN	Hamm	1592	FALSE	0		0	1	concrete	1	16
+feuwer	konkret	feuer	NN	Hamm	1592	FALSE	0		0	1	concrete	1	16
+feuwer	konkret	feuer	NN	Hamm	1592	FALSE	0		0	1	concrete	1	16
+Fewer	konkret	feuer	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	16
+Fewer	konkret	feuer	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	16
+fuere	konkret	feuer	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	16
+Feur	konkret	feuer	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	16
+fewers	konkret	feuer	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	16
+Feur	konkret	feuer	NN	Rosenburg	1618	TRUE	1		0	2	concrete	1	16
+fewer	konkret	feuer	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	16
+fewer	konkret	feuer	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	16
+feyer	konkret	feuer	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	16
+fewer	konkret	feuer	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	16
+Feuer	konkret	feuer	NN	Rosenburg	1618	TRUE	1		0	2	concrete	1	16
+fewr	konkret	feuer	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	16
+fewr	konkret	feuer	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	16
+Fieber	abstrakt	fieber	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	1
+fingerl	konkret Körperteil	finger	NN	München	1600	FALSE	1		0	1	concrete	1	1
+flaisch	konkret	fleisch	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	7
+Fleisch	konkret	fleisch	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	7
+fleisch	konkret	fleisch	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	7
+fleische	konkret	fleisch	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	7
+fleisch	konkret Kollektivum	fleisch	NN	Ostrau	1628	FALSE	1		0	3	concrete	1	7
+fleisch	konkret	fleisch	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	7
+fleisch	konkret Körperteil	fleisch	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	7
+fleiß	abstrakt	fleisz	NN	Jever	1592	FALSE	0		0	1	abstract	0	2
+fleiß	abstrakt	fleisz	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	2
+fleder	konkret	flieder	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	1
+floren	abstrakt Maß	flora	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	2
+floren	abstrakt Maß	flora	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	2
+floren	abstrakt Maß	floren	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	5
+floren	abstrakt Maß	floren	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+floren	abstrakt Maß	floren	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+floren	abstrakt Maß	floren	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+floren	abstrakt Maß	floren	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+Flucht	abstrakt	flucht	NN	Alme	1630	TRUE	0		0	3	abstract	0	1
+folg	abstrakt	folge	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	1
+Folter	abstrakt	folter	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	6
+Folter	abstrakt	folter	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	6
+folter	abstrakt	folter	NN	Hamm	1592	FALSE	0		0	1	abstract	0	6
+foltter	abstrakt	folter	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	6
+foltter	abstrakt	folter	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	6
+folter	abstrakt	folter	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	6
+folter	abstrakt	foltern	NN	Alme	1630	FALSE	0		0	3	abstract	0	1
+fragen	abstrakt	frage	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	1
+fragen	abstrakt	fragen	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	2
+fragstuekh	abstrakt	fragstück	NN	München	1600	FALSE	1		1	1	abstract	0	1
+frauw	menschlich	frau	NN	Alme	1630	FALSE	0	j	0	3	animate	3	70
+frauwen	menschlich	frau	NN	Alme	1630	FALSE	0	j	0	3	animate	3	70
+frauwen	menschlich	frau	NN	Alme	1630	FALSE	0	j	0	3	animate	3	70
+frauw	menschlich	frau	NN	Alme	1630	FALSE	0	j	0	3	animate	3	70
+frauw	menschlich	frau	NN	Alme	1630	FALSE	0	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	70
+frawen	menschlich	frau	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	70
+fraw	menschlich	frau	NN	Güstrow	1615	FALSE	1	j	0	2	animate	3	70
+Frawen	menschlich	frau	NN	Güstrow	1615	TRUE	1	j	0	2	animate	3	70
+fraw	menschlich	frau	NN	Güstrow	1615	FALSE	1	j	0	2	animate	3	70
+Frawen	menschlich	frau	NN	Güstrow	1615	TRUE	1	j	0	2	animate	3	70
+Frawe	menschlich	frau	NN	Güstrow	1615	TRUE	1	j	0	2	animate	3	70
+frauwe	menschlich	frau	NN	Hamm	1592	FALSE	0	j	0	1	animate	3	70
+frauwe	menschlich	frau	NN	Hamm	1592	FALSE	0	j	0	1	animate	3	70
+frauwe	menschlich	frau	NN	Hamm	1592	FALSE	0	j	0	1	animate	3	70
+frauwen	menschlich	frau	NN	Hamm	1592	FALSE	0	j	0	1	animate	3	70
+frauwe	menschlich	frau	NN	Hamm	1592	FALSE	0	j	0	1	animate	3	70
+frauwe	menschlich	frau	NN	Hamm	1592	FALSE	0	j	0	1	animate	3	70
+frauwe	menschlich	frau	NN	Hamm	1592	FALSE	0	j	0	1	animate	3	70
+Frawe	menschlich	frau	NN	Jever	1592	TRUE	0	j	0	1	animate	3	70
+fraw	menschlich	frau	NN	Lemberg	1630	FALSE	0	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Lemberg	1630	FALSE	0	j	0	3	animate	3	70
+fraw	menschlich	frau	NN	Lemberg	1630	FALSE	0	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	70
+fruwe	menschlich	frau	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	70
+fruwe	menschlich	frau	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	70
+fruwen	menschlich	frau	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	70
+fruwe	menschlich	frau	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	70
+fruwe	menschlich	frau	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	70
+fruwe	menschlich	frau	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	70
+fruwen	menschlich	frau	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	70
+frawen	menschlich	frau	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	70
+fraw	menschlich	frau	NN	Schweinfurt	1616	FALSE	1	j	0	2	animate	3	70
+Frawen	menschlich	frau	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	70
+Fraw	menschlich	frau	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	70
+fraw	menschlich	frau	NN	Schweinfurt	1616	FALSE	1	j	0	2	animate	3	70
+frawen	menschlich	frau	NN	Schweinfurt	1616	FALSE	1	j	0	2	animate	3	70
+Frawen	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Frawen	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+frawen	menschlich	frau	NN	Stralsund	1630	FALSE	1	j	0	3	animate	3	70
+Frawen	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Frawe	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Frawe	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Frawen	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Fraw	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Frawe	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Frawe	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Freyhaiten	abstrakt	freiheit	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+freitags	abstrakt	freitag	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	2
+Frey- tagk	abstrakt	freitag	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	2
+freunde	menschlich	freund	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	2
+freunde	menschlich	freund	NN	Rosenburg	1618	FALSE	1	n	0	2	animate	4	2
+frieden	abstrakt	frieden	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	1
+frörer	abstrakt	frörer	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	1
+fruchten	konkret	frucht	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	6
+früchten	konkret	frucht	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	6
+frucht	konkret	frucht	NN	Hamm	1592	FALSE	0		0	1	concrete	1	6
+Frücht	konkret	frucht	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	6
+Früchtt	konkret	frucht	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	6
+Frücht	konkret	frucht	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	6
+fruchten	konkret	fruchten	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+Früehling	abstrakt	frühling	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	1
+fhuerungh	abstrakt	führung	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+Füllen	tierisch	füllen	NN	Lemberg	1630	TRUE	0		0	3	animate	2	3
+Füllen	tierisch	füllen	NN	Lemberg	1630	TRUE	0		0	3	animate	2	3
+Füllen	tierisch	füllen	NN	Lemberg	1630	TRUE	0		0	3	animate	2	3
+Finften	abstrakt	fünfte	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+Finfzehenden	abstrakt	fünfzehnte	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+forcht	abstrakt	furcht	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	3
+forcht	abstrakt	furcht	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	3
+forcht	abstrakt	furcht	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	3
+fueß	abstrakt Maß	fusz	NN	Alme	1630	FALSE	0		0	3	abstract	0	14
+fueß	abstrakt Maß	fusz	NN	Alme	1630	FALSE	0		0	3	abstract	0	14
+füße	konkret Körperteil	fusz	NN	Alme	1630	FALSE	0		0	3	concrete	1	14
+fueß	konkret Körperteil	fusz	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	14
+füsse	konkret Körperteil	fusz	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	14
+fueßen	konkret Körperteil	fusz	NN	Hamm	1592	FALSE	0		0	1	concrete	1	14
+fueße	konkret Körperteil	fusz	NN	Jever	1592	FALSE	0		0	1	concrete	1	14
+fuß	abstrakt	fusz	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	14
+fueß	konkret Körperteil	fusz	NN	München	1600	FALSE	1		0	1	concrete	1	14
+fußen	konkret Körperteil	fusz	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	14
+fußen	konkret Körperteil	fusz	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	14
+fußen	konkret Körperteil	fusz	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	14
+füeß	konkret Körperteil	fusz	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	14
+fütterung	abstrakt	fütterung	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	1
+gaden	konkret	gaden	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	1
+Galgen	konkret	galgen	NN	Alme	1630	TRUE	0		0	3	concrete	1	1
+ganß	tierisch	gans	NN	Perleberg	1588	FALSE	1		0	1	animate	2	1
+garben	konkret	garbe	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	6
+garben	konkret	garbe	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	6
+garben	konkret	garbe	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	6
+garben	konkret	garbe	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	6
+garben	konkret	garbe	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	6
+garben	konkret	garbe	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	6
+Gartten	konkret	garten	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	7
+Gartten	konkret	garten	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	7
+garten	konkret	garten	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	7
+Gartten	konkret	garten	NN	Ostrau	1628	TRUE	1		0	3	concrete	1	7
+Garten	konkret	garten	NN	Ostrau	1628	TRUE	1		0	3	concrete	1	7
+Garten	konkret	garten	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	7
+Garten	konkret	garten	NN	Rosenburg	1618	TRUE	1		0	2	concrete	1	7
+Gartten graß	konkret Kollektivum	gartengras	NN	Ostrau	1628	TRUE	1		1	3	concrete	1	1
+Gartten- häußlein	konkret	gartenhäuslein	NN	Rosenburg	1618	TRUE	1		1	2	concrete	1	1
+Garttenthuer	konkret	gartenthür	NN	Ostrau	1628	TRUE	1		1	3	concrete	1	2
+Garten Thuer	konkret	gartenthür	NN	Ostrau	1628	TRUE	1		1	3	concrete	1	2
+Gärtner	menschlich	gärtner	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	1
+gasßen	konkret	gasse	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	4
+gassen	konkret	gasse	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	4
+Gassen	konkret	gasse	NN	München	1600	TRUE	1		0	1	concrete	1	4
+gaßen	konkret	gasse	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	4
+Gaste	menschlich	gast	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	2
+Gaste	menschlich	gast	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	2
+gast hause	konkret	gasthaus	NN	Perleberg	1588	FALSE	1		1	1	concrete	1	3
+gasthause	konkret	gasthaus	NN	Perleberg	1588	FALSE	1		1	1	concrete	1	3
+gasthause	konkret	gasthaus	NN	Perleberg	1588	FALSE	1		1	1	concrete	1	3
+gebiete	konkret	gebiet	NN	Jever	1592	FALSE	0		0	1	concrete	1	2
+gebiete	konkret	gebiet	NN	Jever	1592	FALSE	0		0	1	concrete	1	2
+geburt zeit	abstrakt	geburtszeit	NN	Ostrau	1628	FALSE	1		1	3	abstract	0	1
+gedankhen	abstrakt	gedanke	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	2
+gedancken	abstrakt	gedanke	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	2
+gedachts	abstrakt	gedenken	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+gefahr	abstrakt	gefahr	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+Gefangene	menschlich	gefangen	NN	Ostrau	1628	TRUE	1		0	3	animate	2	3
+Gefangenen	menschlich	gefangen	NN	Ostrau	1628	TRUE	1		0	3	animate	2	3
+gefengnis	konkret	gefängnis	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	3
+gefencknus	konkret	gefängnis	NN	München	1600	FALSE	1		0	1	concrete	1	3
+gefänckhnuß	konkret	gefängnis	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	3
+gegenwertt	abstrakt	gegenwart	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	4
+gegenwertt	abstrakt	gegenwart	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	4
+gegenwertt	abstrakt	gegenwart	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	4
+gegen- wart	abstrakt	gegenwart	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	4
+geheisch	abstrakt	geheisz	NN	Hamm	1592	FALSE	0		0	1	abstract	0	3
+geheisch	abstrakt	geheisz	NN	Hamm	1592	FALSE	0		0	1	abstract	0	3
+geheiß	abstrakt	geheisz	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	3
+gehöffte	konkret	gehöfte	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	1
+gaist	übermenschlich Teufel	geist	NN	Baden-Baden	1628	FALSE	0		0	3	animate	2	35
+gaist	übermenschlich Teufel	geist	NN	Baden-Baden	1628	FALSE	0		0	3	animate	2	35
+Geist	übermenschlich Teufel	geist	NN	Bamberg	1628	TRUE	1		0	3	animate	2	35
+Geist	übermenschlich Teufel	geist	NN	Bamberg	1628	TRUE	1		0	3	animate	2	35
+Geist	übermenschlich Teufel	geist	NN	Bamberg	1628	TRUE	1		0	3	animate	2	35
+Geists	übermenschlich Teufel	geist	NN	Bamberg	1628	TRUE	1		0	3	animate	2	35
+Geist	übermenschlich Teufel	geist	NN	Bamberg	1628	TRUE	1		0	3	animate	2	35
+Geist	übermenschlich Teufel	geist	NN	Bamberg	1628	TRUE	1		0	3	animate	2	35
+geistes	übermenschlich positiv	geist	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+geist	menschlich	geist	NN	Georgenthal	1597	FALSE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+geist	menschlich	geist	NN	Georgenthal	1597	FALSE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+gaist	übermenschlich Teufel	geist	NN	Günzburg	1613	FALSE	0		0	2	animate	2	35
+geistes	übermenschlich positiv	geist	NN	Güstrow	1615	FALSE	1		0	2	animate	2	35
+Geist	übermenschlich Teufel	geist	NN	München	1600	TRUE	1		0	1	animate	2	35
+geist	menschlich	geist	NN	Perleberg	1588	FALSE	1		0	1	animate	2	35
+geiste	übermenschlich positiv	geist	NN	Perleberg	1588	FALSE	1		0	1	animate	2	35
+geists	übermenschlich positiv	geist	NN	Perleberg	1588	FALSE	1		0	1	animate	2	35
+geist	übermenschlich Teufel	geist	NN	Stralsund	1630	FALSE	1		0	3	animate	2	35
+Geistes	übermenschlich positiv	geist	NN	Stralsund	1630	TRUE	1		0	3	animate	2	35
+Geist	übermenschlich Teufel	geist	NN	Stralsund	1630	TRUE	1		0	3	animate	2	35
+geistin	menschlich	geistin	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	1
+Gaißbokh	tierisch	geiszbock	NN	Bamberg	1628	TRUE	1		0	3	animate	2	1
+gelächters	abstrakt	gelächter	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+gellt	konkret	geld	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	10
+gelt	konkret	geld	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	10
+gelts	konkret	geld	NN	Hamm	1592	FALSE	0		0	1	concrete	1	10
+gelts	konkret	geld	NN	Hamm	1592	FALSE	0		0	1	concrete	1	10
+geldtt	konkret	geld	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	10
+gellt	konkret	geld	NN	München	1600	FALSE	1		0	1	concrete	1	10
+gelt	konkret	geld	NN	München	1600	FALSE	1		0	1	concrete	1	10
+geldt	konkret	geld	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	10
+geldt	konkret	geld	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	10
+geldt	konkret	geld	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	10
+Gelt Tischen	konkret	geldtisch	NN	München	1600	TRUE	1		1	1	concrete	1	1
+glait	abstrakt	geleit	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	1
+gelt	konkret	gelt	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	1
+gemain	abstrakt	gemein	NN	München	1600	FALSE	1		0	1	abstract	0	1
+Gemein	menschlich Kollektivum	gemeinde	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	1
+gemeinschafft	abstrakt	gemeinschaft	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	3
+gemeinschafft	abstrakt	gemeinschaft	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	3
+gemeinschop	abstrakt	gemeinschaft	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	3
+gemute	abstrakt	gemüt	NN	Jever	1592	FALSE	0		0	1	abstract	0	2
+ge- muite	abstrakt	gemüt	NN	Jever	1592	FALSE	0		0	1	abstract	0	2
+genick	konkret Körperteil	genick	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	1
+gepflog- neß	abstrakt	gepflogenheit	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	1
+gerechtigkait	abstrakt	gerechtigkeit	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	1
+Gericht	konkret	gericht	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	6
+Gericht	menschlich	gericht	NN	Hamm	1592	TRUE	0		0	1	animate	2	6
+Gericht	menschlich	gericht	NN	Hamm	1592	TRUE	0		0	1	animate	2	6
+Gerichte	abstrakt	gericht	NN	Jever	1592	TRUE	0		0	1	abstract	0	6
+Ge- richtes	menschlich Kollektivum	gericht	NN	Meldorf	1618	TRUE	0		0	2	animate	2	6
+gerichte	menschlich Kollektivum	gericht	NN	Perleberg	1588	FALSE	1		0	1	animate	2	6
+Gerichts knechts	abstrakt	gerichtsknecht	NN	Georgenthal	1597	TRUE	1		1	1	abstract	0	2
+Gerichtsknecht	menschlich	gerichtsknecht	NB	Georgenthal	1597	TRUE	1	n	1	1	animate	4	2
+gerichtspersonen	menschlich	gerichtsperson	NB	Gaugrehweiler	1610	FALSE	0		1	2	animate	2	3
+Gerichts Personen	menschlich	gerichtsperson	NN	Ostrau	1628	TRUE	1		1	3	animate	2	3
+Gerichts Personen	menschlich	gerichtsperson	NN	Ostrau	1628	TRUE	1		1	3	animate	2	3
+gerichtscheffen	menschlich	gerichtsschöffe	NB	Gaugrehweiler	1610	FALSE	0	n	1	2	animate	4	2
+Gerichts Schöpffenn	menschlich	gerichtsschöffe	NB	Georgenthal	1597	TRUE	1	n	1	1	animate	4	2
+Gerichts	abstrakt	gerichtsschreiber	NN	Georgenthal	1597	TRUE	1		1	1	abstract	0	1
+geringsten	abstrakt	gering	NN	Jever	1592	FALSE	0		0	1	abstract	0	4
+geringsten	abstrakt	gering	NN	Jever	1592	FALSE	0		0	1	abstract	0	4
+geringsten	abstrakt	gering	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	4
+geruch	abstrakt	geruch	NN	Jever	1592	FALSE	0		0	1	abstract	0	1
+geruchte	abstrakt	gerücht	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	1
+geschrey	abstrakt	geschrei	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	1
+gesöllen	menschlich	geselle	NN	München	1600	FALSE	1	n	0	1	animate	4	3
+gesell	menschlich	geselle	NN	München	1600	FALSE	1	n	0	1	animate	4	3
+gesellen	menschlich	geselle	NB	München	1600	FALSE	1	n	0	1	animate	4	3
+geselschafft	abstrakt	gesellschaft	NN	Hamm	1592	FALSE	0		0	1	abstract	0	4
+gesellschaft	menschlich Kollektivum	gesellschaft	NN	Lemberg	1630	FALSE	0		0	3	animate	2	4
+gesellschafft	menschlich Kollektivum	gesellschaft	NN	Lemberg	1630	FALSE	0		0	3	animate	2	4
+gesellschafft	menschlich Kollektivum	gesellschaft	NN	Lemberg	1630	FALSE	0		0	3	animate	2	4
+gesicht	konkret Körperteil	gesicht	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	4
+gesichte	konkret Körperteil	gesicht	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	4
+gesichte	konkret Körperteil	gesicht	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	4
+gesichte	konkret Körperteil	gesicht	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	4
+gespielen	menschlich	gespiele	NN	Günzburg	1613	FALSE	0	n	0	2	animate	4	2
+gespilen	menschlich	gespiele	NN	Riedlingen	1596	FALSE	0	n	0	1	animate	4	2
+gespött	abstrakt	gespött	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	3
+gespött	abstrakt	gespött	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	3
+gespött	abstrakt	gespött	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	3
+gespräch	abstrakt	gespräch	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	1
+gestallt	abstrakt	gestallt	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	1
+gestalt	abstrakt	gestalt	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	12
+gestalt	abstrakt	gestalt	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	12
+gestallt	abstrakt	gestalt	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	12
+gestallt	abstrakt	gestalt	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	12
+gestallt	abstrakt	gestalt	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	12
+gestallt	abstrakt	gestalt	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	12
+gestalt	abstrakt	gestalt	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	12
+gestalt	abstrakt	gestalt	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	12
+gestalt	abstrakt	gestalt	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	12
+gestaldt	abstrakt	gestalt	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	12
+gestaldt	konkret	gestalt	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	12
+gesundtheit	abstrakt	gesundheit	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	3
+gesundtheit	abstrakt	gesundheit	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	3
+gesundtheit	abstrakt	gesundheit	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	3
+getraidtt	konkret	getreide	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	3
+getreidt	konkret	getreide	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	3
+getreidt	konkret	getreide	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	3
+geuatter	menschlich	gevatter	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	2
+Geuatters	menschlich	gevatter	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	2
+gewalt	abstrakt	gewalt	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	4
+gewalt	abstrakt	gewalt	NN	Hamm	1592	FALSE	0		0	1	abstract	0	4
+gewaldt	abstrakt	gewalt	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	4
+gewalt	abstrakt	gewalt	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	4
+gewerb	abstrakt	gewerbe	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+gewicht	abstrakt	gewicht	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+gewissen	abstrakt	gewissen	NN	München	1600	FALSE	1		0	1	abstract	0	2
+gewissen	abstrakt	gewissen	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	2
+giebell	konkret	giebel	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	1
+gifft	konkret	gift	NN	Jever	1592	FALSE	0		0	1	concrete	1	9
+gifft	konkret	gift	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	9
+gifft	konkret	gift	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	9
+gifft	konkret	gift	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	9
+gifft	konkret	gift	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	9
+gifft	konkret	gift	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	9
+gifft	konkret	gift	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	9
+gifft	konkret	gift	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	9
+giftt	konkret	gift	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	9
+gleßlein	konkret	gläslein	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	1
+glauben	abstrakt	glauben	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	1
+gleichen	abstrakt	gleich	NN	Jever	1592	FALSE	0		0	1	abstract	0	1
+gliedt	konkret Körperteil	glied	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	1
+gliedtmaßen	konkret Körperteil	gliedmasze	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	1
+genaden	abstrakt	gnade	NN	München	1600	FALSE	1		0	1	abstract	0	2
+gnad	abstrakt	gnade	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	2
+goldt	konkret	gold	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	5
+golts	konkret	gold	NN	Hamm	1592	FALSE	0		0	1	concrete	1	5
+golt	übermenschlich positiv	gold	NN	Hamm	1592	FALSE	0		0	1	animate	2	5
+golt	konkret	gold	NN	Hamm	1592	FALSE	0		0	1	concrete	1	5
+goldes	konkret	gold	NN	Jever	1592	FALSE	0		0	1	concrete	1	5
+goldgulden	konkret	goldgulden	NN	Alme	1630	FALSE	0		1	3	concrete	1	1
+Gott	übermenschlich positiv	gott	NN	Alme	1630	TRUE	0	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Alme	1630	TRUE	0	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Baden-Baden	1628	TRUE	0	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	41
+gott	übermenschlich positiv	gott	NN	Gaugrehweiler	1610	FALSE	0	n	0	2	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Günzburg	1613	TRUE	0	n	0	2	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Günzburg	1613	TRUE	0	n	0	2	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Günzburg	1613	TRUE	0	n	0	2	animate	4	41
+got	übermenschlich positiv	gott	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	41
+got	übermenschlich positiv	gott	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	41
+gott	übermenschlich positiv	gott	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Jever	1592	TRUE	0	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	41
+Godt	übermenschlich positiv	gott	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	41
+Godt	übermenschlich positiv	gott	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	41
+Gottes	übermenschlich positiv	gott	NN	München	1600	TRUE	1	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	München	1600	TRUE	1	n	0	1	animate	4	41
+Gotteß	übermenschlich positiv	gott	NN	Riedlingen	1596	TRUE	0	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Riedlingen	1596	TRUE	0	n	0	1	animate	4	41
+Gotteß	übermenschlich positiv	gott	NN	Riedlingen	1596	TRUE	0	n	0	1	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Riedlingen	1596	TRUE	0	n	0	1	animate	4	41
+Gottes	übermenschlich positiv	gott	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	41
+Gottes	übermenschlich positiv	gott	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	41
+Gotte	übermenschlich positiv	gott	NN	Stralsund	1630	TRUE	1	n	0	3	animate	4	41
+Gott	übermenschlich positiv	gott	NN	Stralsund	1630	TRUE	1	n	0	3	animate	4	41
+Gottes gebott	abstrakt	gottesgebot	NN	Schweinfurt	1616	TRUE	1		1	2	abstract	0	1
+gottes verlaugnungh	abstrakt	gottesverleugnung	NN	Hamm	1592	FALSE	0		1	1	abstract	0	1
+Gottes wordt	abstrakt	gotteswort	NN	Meldorf	1618	TRUE	0		1	2	abstract	0	1
+gott vater	übermenschlich positiv	gottvater	NN	Perleberg	1588	FALSE	1	n	1	1	animate	4	1
+grab	konkret	grab	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	2
+grab	konkret	grab	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	2
+Graue	menschlich	graf	NB	Alme	1630	TRUE	0	n	0	3	animate	4	2
+Grauen	menschlich	graf	NB	Alme	1630	TRUE	0	n	0	3	animate	4	2
+graß	konkret	gras	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	1
+griff	abstrakt	griff	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	1
+grindt	konkret	grind	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+grund	konkret	grund	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	1
+Gronendonnerdage	abstrakt	gründonnerstag	NN	Jever	1592	TRUE	0		1	1	abstract	0	1
+gülden	konkret	gülden	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	1
+gurtel	konkret	gürtel	NN	Alme	1630	FALSE	0		0	3	concrete	1	2
+gurtel	konkret	gürtel	NN	Alme	1630	FALSE	0		0	3	concrete	1	2
+gueß	abstrakt	gusz	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	1
+guete	abstrakt	gut	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	8
+gutter	konkret	gut	NN	Hamm	1592	FALSE	0		0	1	concrete	1	8
+guth	abstrakt	gut	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	8
+guth	abstrakt	gut	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	8
+guet	abstrakt	gut	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	8
+güete	abstrakt	güte	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	8
+güete	abstrakt	güte	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	8
+güete	abstrakt	güte	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	8
+gute	abstrakt	güte	NN	Jever	1592	FALSE	0		0	1	abstract	0	8
+gütte	abstrakt	güte	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	8
+gütte	abstrakt	güte	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	8
+güete	abstrakt	güte	NN	München	1600	FALSE	1		0	1	abstract	0	8
+gute	abstrakt	güte	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	8
+Instrumenten	konkret	instrument	NN	Hamm	1592	TRUE	0		0	1	concrete	1	1
+Jahren	abstrakt Maß	jahr	NN	Alme	1630	TRUE	0		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Alme	1630	TRUE	0		0	3	abstract	0	79
+Jahrs	abstrakt	jahr	NN	Alme	1630	TRUE	0		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Alme	1630	TRUE	0		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Alme	1630	TRUE	0		0	3	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Alme	1630	TRUE	0		0	3	abstract	0	79
+Jahr	abstrakt	jahr	NN	Alme	1630	TRUE	0		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Alme	1630	TRUE	0		0	3	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	79
+Ja ren	abstrakt Maß	jahr	NN	Gaugrehweiler	1610	TRUE	0		0	2	abstract	0	79
+Jharen	abstrakt Maß	jahr	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	79
+Jharenn	abstrakt Maß	jahr	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	79
+Jharenn	abstrakt	jahr	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	79
+Jharen	abstrakt Maß	jahr	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	79
+Jhar	abstrakt Maß	jahr	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	79
+Jahren	abstrakt	jahr	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	79
+Jahren	abstrakt	jahr	NN	Güstrow	1615	TRUE	1		0	2	abstract	0	79
+Jahre	abstrakt Maß	jahr	NN	Güstrow	1615	TRUE	1		0	2	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Güstrow	1615	TRUE	1		0	2	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Güstrow	1615	TRUE	1		0	2	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Güstrow	1615	TRUE	1		0	2	abstract	0	79
+Jhar	abstrakt	jahr	NN	Hamm	1592	TRUE	0		0	1	abstract	0	79
+Jharen	abstrakt Maß	jahr	NN	Hamm	1592	TRUE	0		0	1	abstract	0	79
+Jharß	abstrakt	jahr	NN	Hamm	1592	TRUE	0		0	1	abstract	0	79
+Jharen	abstrakt Maß	jahr	NN	Hamm	1592	TRUE	0		0	1	abstract	0	79
+Jairen	abstrakt Maß	jahr	NN	Jever	1592	TRUE	0		0	1	abstract	0	79
+Jairen	abstrakt Maß	jahr	NN	Jever	1592	TRUE	0		0	1	abstract	0	79
+Jairn	abstrakt Maß	jahr	NN	Jever	1592	TRUE	0		0	1	abstract	0	79
+Jairn	abstrakt Maß	jahr	NN	Jever	1592	TRUE	0		0	1	abstract	0	79
+Jhairn	abstrakt Maß	jahr	NN	Jever	1592	TRUE	0		0	1	abstract	0	79
+Jairen	abstrakt Maß	jahr	NN	Jever	1592	TRUE	0		0	1	abstract	0	79
+Jair	abstrakt	jahr	NN	Jever	1592	TRUE	0		0	1	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Lemberg	1630	TRUE	0		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Lemberg	1630	TRUE	0		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Lemberg	1630	TRUE	0		0	3	abstract	0	79
+Jahr	abstrakt	jahr	NN	Lemberg	1630	TRUE	0		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Lemberg	1630	TRUE	0		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	79
+Jaren	abstrakt Maß	jahr	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	79
+Jar	abstrakt	jahr	NN	München	1600	TRUE	1		0	1	abstract	0	79
+Jar	abstrakt	jahr	NN	München	1600	TRUE	1		0	1	abstract	0	79
+Jar	abstrakt Maß	jahr	NN	München	1600	TRUE	1		0	1	abstract	0	79
+Jar	abstrakt Maß	jahr	NN	München	1600	TRUE	1		0	1	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	79
+Jahren	abstrakt Maß	jahr	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	79
+Jharen	abstrakt Maß	jahr	NN	Perleberg	1588	TRUE	1		0	1	abstract	0	79
+Jharen	abstrakt Maß	jahr	NN	Perleberg	1588	TRUE	1		0	1	abstract	0	79
+Jha ren	abstrakt Maß	jahr	NN	Perleberg	1588	TRUE	1		0	1	abstract	0	79
+Jharen	abstrakt Maß	jahr	NN	Perleberg	1588	TRUE	1		0	1	abstract	0	79
+Jhars	abstrakt Maß	jahr	NN	Perleberg	1588	TRUE	1		0	1	abstract	0	79
+Jharen	abstrakt Maß	jahr	NN	Perleberg	1588	TRUE	1		0	1	abstract	0	79
+Jha ren	abstrakt Maß	jahr	NN	Perleberg	1588	TRUE	1		0	1	abstract	0	79
+Jaren	abstrakt Maß	jahr	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	79
+Jaren	abstrakt Maß	jahr	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	79
+Jarß	abstrakt	jahr	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	79
+Jaren	abstrakt Maß	jahr	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	79
+Jar	abstrakt Maß	jahr	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	79
+Jahr	abstrakt Maß	jahr	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	79
+iahre	abstrakt Maß	jahr	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	79
+iahren	abstrakt Maß	jahr	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	79
+iahr	abstrakt Maß	jahr	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	79
+Jhar	abstrakt Maß	jahr	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	79
+iahr	abstrakt Maß	jahr	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	79
+Jarmärckten	abstrakt	jahrmarkt	NN	München	1600	TRUE	1		1	1	abstract	0	2
+Jarmärkten	abstrakt	jahrmarkt	NN	München	1600	TRUE	1		1	1	abstract	0	2
+Jam- mer	abstrakt	jammer	NN	Perleberg	1588	TRUE	1		0	1	abstract	0	1
+ieder	menschlich	jeder	NN	Rosenburg	1618	FALSE	1		0	2	animate	2	1
+Jenige	abstrakt	jenig	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	2
+Jennige	abstrakt	jenig	NN	Jever	1592	TRUE	0		0	1	abstract	0	2
+Jope	konkret	jope	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	1
+Jung	menschlich	jung	NN	Schweinfurt	1616	TRUE	1		0	2	animate	2	1
+Jung	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Jung	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Jung	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Jung	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Jungen	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Jungen	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Jungen	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Junge	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Jungen	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Jung	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Junffer	menschlich	jungfer	NN	Alme	1630	TRUE	0	j	0	3	animate	3	1
+Jungfraw	menschlich	jungfrau	NN	Bamberg	1628	TRUE	1	j	0	3	animate	3	2
+Jungkfraw	übermenschlich positiv	jungfrau	NN	Güstrow	1615	TRUE	1	j	0	2	animate	3	2
+Junckhern	menschlich	junker	NB	Lemberg	1630	TRUE	0	n	0	3	animate	4	1
+kalb	tierisch	kalb	NN	Alme	1630	FALSE	0		0	3	animate	2	1
+kelbgen	tierisch	kälbchen	NN	Hamm	1592	FALSE	0		0	1	animate	2	1
+Kälblin	tierisch	kälblein	NN	Riedlingen	1596	TRUE	0		0	1	animate	2	1
+Camer	konkret	kammer	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	3
+Cammer	konkret	kammer	NN	Günzburg	1613	TRUE	0		0	2	concrete	1	3
+Cammer	konkret	kammer	NN	Güstrow	1615	TRUE	1		0	2	concrete	1	3
+kannen	konkret	kanne	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	1
+Cantzley	konkret	kanzlei	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	3
+Cantzley	konkret	kanzlei	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	3
+Cantzeley	konkret	kanzlei	NN	Rosenburg	1618	TRUE	1		0	2	concrete	1	3
+Cantzlern	menschlich	kanzler	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	3
+Cantzler	menschlich	kanzler	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	3
+Cantzler	menschlich	kanzler	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	3
+katzen	tierisch	katze	NN	Alme	1630	FALSE	0		0	3	animate	2	6
+katzen	tierisch	katze	NN	Alme	1630	FALSE	0		0	3	animate	2	6
+kattenn	konkret	katze	NN	Jever	1592	FALSE	0		0	1	concrete	1	6
+katz	tierisch	katze	NN	Lemberg	1630	FALSE	0		0	3	animate	2	6
+katze	tierisch	katze	NN	Stralsund	1630	FALSE	1		0	3	animate	2	6
+katzen	tierisch	katze	NN	Stralsund	1630	FALSE	1		0	3	animate	2	6
+katzenhirn	konkret	katzenhirn	NN	Lemberg	1630	FALSE	0		1	3	concrete	1	1
+katzen muntze	konkret	katzenminze	NN	Stralsund	1630	FALSE	1		1	3	concrete	1	1
+kell	konkret	kelle	NN	Jever	1592	FALSE	0		0	1	concrete	1	1
+keller	konkret	keller	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	3
+keller	konkret	keller	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	3
+keller	konkret	keller	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	3
+kerll	menschlich	kerl	NN	Güstrow	1615	FALSE	1	n	0	2	animate	4	1
+Kherznliechtl	abstrakt	kerzenlicht	NN	München	1600	TRUE	1		1	1	abstract	0	1
+Khessler	menschlich	kesseler	NB	München	1600	TRUE	1	n	0	1	animate	4	1
+Ketten	konkret	kette	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	1
+kiseln	konkret	kiesel	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	2
+Kiesel	konkret	kiesel	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	2
+khindt	menschlich	kind	NN	Baden-Baden	1628	FALSE	0		0	3	animate	2	31
+khindt	menschlich	kind	NN	Baden-Baden	1628	FALSE	0		0	3	animate	2	31
+khindt	menschlich	kind	NN	Baden-Baden	1628	FALSE	0		0	3	animate	2	31
+kindt	menschlich	kind	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	31
+kindt	menschlich	kind	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	31
+kindt	menschlich	kind	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	31
+kindt	menschlich	kind	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	31
+kindts	menschlich	kind	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	31
+kindt	menschlich	kind	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	31
+kindt	menschlich	kind	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	31
+khindt	menschlich	kind	NN	Günzburg	1613	FALSE	0		0	2	animate	2	31
+Khinder	menschlich	kind	NN	Günzburg	1613	TRUE	0		0	2	animate	2	31
+khindt	menschlich	kind	NN	Günzburg	1613	FALSE	0		0	2	animate	2	31
+khindt	menschlich	kind	NN	Günzburg	1613	FALSE	0		0	2	animate	2	31
+khindts	menschlich	kind	NN	Günzburg	1613	FALSE	0		0	2	animate	2	31
+khindt	menschlich	kind	NN	Günzburg	1613	FALSE	0		0	2	animate	2	31
+kinder	menschlich	kind	NN	Güstrow	1615	FALSE	1		0	2	animate	2	31
+kinder	menschlich	kind	NN	Güstrow	1615	FALSE	1		0	2	animate	2	31
+Khinder	menschlich	kind	NN	Hamm	1592	TRUE	0		0	1	animate	2	31
+kindt	menschlich	kind	NN	Meldorf	1618	FALSE	0		0	2	animate	2	31
+kinder	menschlich	kind	NN	München	1600	FALSE	1		0	1	animate	2	31
+kinder	menschlich	kind	NN	München	1600	FALSE	1		0	1	animate	2	31
+Kinder	menschlich	kind	NN	München	1600	TRUE	1		0	1	animate	2	31
+Kinder	menschlich	kind	NN	München	1600	TRUE	1		0	1	animate	2	31
+Kindt	menschlich	kind	NN	München	1600	TRUE	1		0	1	animate	2	31
+kindes	menschlich	kind	NN	Ostrau	1628	FALSE	1		0	3	animate	2	31
+kindt	menschlich	kind	NN	Ostrau	1628	FALSE	1		0	3	animate	2	31
+kindt	menschlich	kind	NN	Ostrau	1628	FALSE	1		0	3	animate	2	31
+kinder	menschlich	kind	NN	Perleberg	1588	FALSE	1		0	1	animate	2	31
+kind	menschlich	kind	NN	Riedlingen	1596	FALSE	0		0	1	animate	2	31
+kindeken	menschlich	kindchen	NN	Meldorf	1618	FALSE	0		0	2	animate	2	1
+kindes händtelin	konkret Körperteil	kinderhand	NN	München	1600	FALSE	1		1	1	concrete	1	5
+kindtshändtl	konkret Körperteil	kinderhand	NN	München	1600	FALSE	1		1	1	concrete	1	5
+kindes händtel	konkret Körperteil	kinderhand	NN	München	1600	FALSE	1		1	1	concrete	1	5
+Khindshäntl	konkret Körperteil	kinderhand	NN	München	1600	TRUE	1		1	1	concrete	1	5
+Kindshäntl	konkret Körperteil	kinderhand	NN	München	1600	TRUE	1		1	1	concrete	1	5
+kindlein	menschlich	kindlein	NN	Georgenthal	1597	FALSE	1		0	1	animate	2	3
+kindlein	menschlich	kindlein	NN	Riedlingen	1596	FALSE	0		0	1	animate	2	3
+Kindlin	menschlich	kindlein	NN	Riedlingen	1596	TRUE	0		0	1	animate	2	3
+kirchen	konkret	kirche	NN	Alme	1630	FALSE	0		0	3	concrete	1	5
+kirchen	konkret	kirche	NN	München	1600	FALSE	1		0	1	concrete	1	5
+Kirchen	konkret	kirche	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	5
+kirche	konkret	kirche	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	5
+kirchtägen	abstrakt	kirchtag	NN	München	1600	FALSE	1		0	1	abstract	0	5
+kirchtägen	abstrakt	kirchtag	NN	München	1600	FALSE	1		0	1	abstract	0	5
+Kirchtäg	abstrakt	kirchtag	NN	München	1600	TRUE	1		0	1	abstract	0	5
+Kirchtegen	abstrakt	kirchtag	NN	München	1600	TRUE	1		0	1	abstract	0	5
+Kirchtegen	abstrakt	kirchtag	NN	München	1600	TRUE	1		0	1	abstract	0	5
+clage puncten	abstrakt	klagepunkt	NN	Hamm	1592	FALSE	0		1	1	abstract	0	2
+clage puncten	abstrakt	klagepunkt	NN	Hamm	1592	FALSE	0		1	1	abstract	0	2
+Cleger	menschlich	kläger	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	5
+Clegern	menschlich	kläger	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	5
+Cleger	menschlich	kläger	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	5
+Cleger	menschlich	kläger	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	5
+Clegern	menschlich	kläger	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	5
+Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	7
+Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	7
+Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	7
+Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	7
+Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	7
+Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	7
+Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	7
+Kleeblath	konkret	kleeblatt	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	1
+kleidern	konkret	kleid	NN	Alme	1630	FALSE	0		0	3	concrete	1	8
+kleideren	konkret	kleid	NN	Alme	1630	FALSE	0		0	3	concrete	1	8
+kleider	konkret	kleid	NN	Alme	1630	FALSE	0		0	3	concrete	1	8
+klaider	konkret	kleid	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	8
+kledere	konkret	kleid	NN	Jever	1592	FALSE	0		0	1	concrete	1	8
+Kleider	konkret	kleid	NN	Jever	1592	TRUE	0		0	1	concrete	1	8
+kleidern	konkret	kleid	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	8
+kleide	konkret	kleid	NN	Ostrau	1628	FALSE	1		0	3	concrete	1	8
+Khlaider	konkret	kleider	NN	München	1600	TRUE	1		0	1	concrete	1	1
+kleidunge	konkret Kollektivum	kleidung	NN	Ostrau	1628	FALSE	1		0	3	concrete	1	1
+knecht	menschlich	knecht	NN	Baden-Baden	1628	FALSE	0	n	0	3	animate	4	5
+knechtt	menschlich	knecht	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	5
+knechtt	menschlich	knecht	NB	Güstrow	1615	FALSE	1	n	0	2	animate	4	5
+knechte	menschlich	knecht	NN	Jever	1592	FALSE	0	n	0	1	animate	4	5
+knecht	menschlich	knecht	NB	Rosenburg	1618	FALSE	1	n	0	2	animate	4	5
+knie	konkret Körperteil	knie	NN	Alme	1630	FALSE	0		0	3	concrete	1	4
+knie	konkret Körperteil	knie	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	4
+Khnie	konkret Körperteil	knie	NN	München	1600	TRUE	1		0	1	concrete	1	4
+knochen	konkret Körperteil	knochen	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	1
+kopff	konkret Körperteil	kopf	NN	Alme	1630	FALSE	0		0	3	concrete	1	15
+kop	konkret Körperteil	kopf	NN	Alme	1630	FALSE	0		0	3	concrete	1	15
+kop	konkret Körperteil	kopf	NN	Alme	1630	FALSE	0		0	3	concrete	1	15
+kop	konkret Körperteil	kopf	NN	Alme	1630	FALSE	0		0	3	concrete	1	15
+Khopff	konkret Körperteil	kopf	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	15
+kopff	konkret Körperteil	kopf	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	15
+kopff	konkret Körperteil	kopf	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	15
+kopffne	konkret Körperteil	kopf	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	15
+kopff	konkret	kopf	NN	Hamm	1592	FALSE	0		0	1	concrete	1	15
+kopf	konkret Körperteil	kopf	NN	Jever	1592	FALSE	0		0	1	concrete	1	15
+koppe	konkret Körperteil	kopf	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	15
+Khopf	konkret Körperteil	kopf	NN	München	1600	TRUE	1		0	1	concrete	1	15
+kopff	konkret Körperteil	kopf	NN	Ostrau	1628	FALSE	1		0	3	concrete	1	15
+kopf	konkret Körperteil	kopf	NN	Ostrau	1628	FALSE	1		0	3	concrete	1	15
+kopf	konkret Körperteil	kopf	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	15
+kornn	konkret Kollektivum	korn	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	5
+korns	konkret Kollektivum	korn	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	5
+Korn	konkret Kollektivum	korn	NN	Güstrow	1615	TRUE	1		0	2	concrete	1	5
+korns	konkret Kollektivum	korn	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	5
+korn	konkret	korn	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	5
+Kornhauffen	konkret	kornhaufe	NN	Rosenburg	1618	TRUE	1		1	2	concrete	1	1
+kost	konkret	kost	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	1
+costens	abstrakt	kosten	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+Crafft	abstrakt	kraft	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	3
+Crafft	abstrakt	kraft	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	3
+Kraft	abstrakt	kraft	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	3
+Khramer	menschlich	kramer	NB	München	1600	TRUE	1	n	0	1	animate	4	3
+Khramer	menschlich	kramer	NB	München	1600	TRUE	1	n	0	1	animate	4	3
+Khramer	menschlich	kramer	NB	München	1600	TRUE	1	n	0	1	animate	4	3
+kranckheit	abstrakt	krankheit	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	11
+kranckheit	abstrakt	krankheit	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	11
+Krankheiten	abstrakt	krankheit	NN	München	1600	TRUE	1		0	1	abstract	0	11
+Kranckheiten	abstrakt	krankheit	NN	München	1600	TRUE	1		0	1	abstract	0	11
+Krankheit	abstrakt	krankheit	NN	München	1600	TRUE	1		0	1	abstract	0	11
+Kranckheit	abstrakt	krankheit	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	11
+kranckheit	abstrakt	krankheit	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	11
+kranckheitt	abstrakt	krankheit	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	11
+Kranckheit	abstrakt	krankheit	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	11
+Kranckheit	abstrakt	krankheit	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	11
+kranckheitt	abstrakt	krankheit	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	11
+krantz	konkret	kranz	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	1
+Kräntz- lein	konkret	kränzlein	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	2
+kräntzlein	konkret	kränzlein	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	2
+kraut	konkret	kraut	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	7
+kreuttern	konkret	kraut	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	7
+Kreutern	konkret	kraut	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	7
+krautt	konkret	kraut	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	7
+krautt	konkret	kraut	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	7
+kreuter	konkret	kraut	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	7
+krautt	konkret	kraut	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	7
+kreis	konkret	kreis	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	1
+Creütz	konkret	kreuz	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	4
+Creutz	konkret	kreuz	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	4
+kreutz	konkret	kreuz	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	4
+kreütz	konkret	kreuz	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	4
+Kreizer	konkret	kreuzer	NN	München	1600	TRUE	1		0	1	concrete	1	2
+kreuzer	konkret	kreuzer	NN	München	1600	FALSE	1		0	1	concrete	1	2
+krieg	abstrakt	krieg	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	1
+krieger	menschlich	krieger	NN	Lemberg	1630	FALSE	0	n	0	3	animate	4	1
+Cristall	konkret	kristall	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	6
+Cristalle	konkret	kristall	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	6
+Cristalle	konkret	kristall	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	6
+Christalle	konkret	kristall	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	6
+Cristallen	konkret	kristall	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	6
+krücken	konkret	krücke	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+kuchen	konkret	küche	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+Khu	tierisch	kuh	NN	Baden-Baden	1628	TRUE	0		0	3	animate	2	29
+Khüen	tierisch	kuh	NN	Baden-Baden	1628	TRUE	0		0	3	animate	2	29
+kue	tierisch	kuh	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	29
+kue	tierisch	kuh	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	29
+kue	tierisch	kuh	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	29
+kue	tierisch	kuh	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	29
+Kühe	tierisch	kuh	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	29
+Kuhe	tierisch	kuh	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	29
+Kühe	tierisch	kuh	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	29
+kühe	tierisch	kuh	NN	Georgenthal	1597	FALSE	1		0	1	animate	2	29
+khue	tierisch	kuh	NN	Günzburg	1613	FALSE	0		0	2	animate	2	29
+kouwe	tierisch	kuh	NN	Hamm	1592	FALSE	0		0	1	animate	2	29
+kho	tierisch	kuh	NN	Jever	1592	FALSE	0		0	1	animate	2	29
+khue	tierisch	kuh	NN	Jever	1592	FALSE	0		0	1	animate	2	29
+khue	tierisch	kuh	NN	Jever	1592	FALSE	0		0	1	animate	2	29
+khue	tierisch	kuh	NN	Jever	1592	FALSE	0		0	1	animate	2	29
+kueh	tierisch	kuh	NN	Lemberg	1630	FALSE	0		0	3	animate	2	29
+kho	tierisch	kuh	NN	Meldorf	1618	FALSE	0		0	2	animate	2	29
+kho	tierisch	kuh	NN	Meldorf	1618	FALSE	0		0	2	animate	2	29
+kho	tierisch	kuh	NN	Meldorf	1618	FALSE	0		0	2	animate	2	29
+Kuhe	tierisch	kuh	NN	Rosenburg	1618	TRUE	1		0	2	animate	2	29
+Kuhe	tierisch	kuh	NN	Schweinfurt	1616	TRUE	1		0	2	animate	2	29
+Kuhe	tierisch	kuh	NN	Schweinfurt	1616	TRUE	1		0	2	animate	2	29
+Kuhe	tierisch	kuh	NN	Schweinfurt	1616	TRUE	1		0	2	animate	2	29
+Kuhe	tierisch	kuh	NN	Schweinfurt	1616	TRUE	1		0	2	animate	2	29
+Kuhe	tierisch	kuh	NN	Schweinfurt	1616	TRUE	1		0	2	animate	2	29
+Kuhe	tierisch	kuh	NN	Schweinfurt	1616	TRUE	1		0	2	animate	2	29
+kuhe	tierisch	kuh	NN	Schweinfurt	1616	FALSE	1		0	2	animate	2	29
+Kuhe	tierisch	kuh	NN	Schweinfurt	1616	TRUE	1		0	2	animate	2	29
+kuhdreck	konkret	kuhdreck	NN	Alme	1630	FALSE	0		1	3	concrete	1	1
+kuehirt	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSE	0	n	1	2	animate	4	5
+kuehirt	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSE	0	n	1	2	animate	4	5
+kuehirt	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSE	0	n	1	2	animate	4	5
+küehirten	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSE	0	n	1	2	animate	4	5
+küehirt	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSE	0	n	1	2	animate	4	5
+Kundt- schafft	abstrakt	kundschaft	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	3
+kundtschaft	abstrakt	kundschaft	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	3
+kundtschaft	abstrakt	kundschaft	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	3
+kunst	abstrakt	kunst	NN	Alme	1630	FALSE	0		0	3	abstract	0	11
+kunst	abstrakt	kunst	NN	Hamm	1592	FALSE	0		0	1	abstract	0	11
+kunsten	abstrakt	kunst	NN	Hamm	1592	FALSE	0		0	1	abstract	0	11
+Kunst	abstrakt	kunst	NN	Hamm	1592	TRUE	0		0	1	abstract	0	11
+kunst	abstrakt	kunst	NN	Jever	1592	FALSE	0		0	1	abstract	0	11
+kunst	abstrakt	kunst	NN	Jever	1592	FALSE	0		0	1	abstract	0	11
+kunst	abstrakt	kunst	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	11
+kunst	abstrakt	kunst	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	11
+kunste	abstrakt	kunst	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	11
+kunste	abstrakt	kunst	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	11
+kunst	abstrakt	kunst	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	11
+Cur	abstrakt	kur	NN	Stralsund	1630	TRUE	1		0	3	abstract	0	1
+küßen	konkret	kuss	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+Kuesther	menschlich	küster	NB	Rosenburg	1618	TRUE	1	n	0	2	animate	4	1
+laden	konkret	laden	NN	München	1600	FALSE	1		0	1	concrete	1	1
+laken	konkret	laken	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	1
+lande	konkret Ort	land	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	2
+landt	konkret	land	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	2
+Landtrechtens	abstrakt	landrecht	NN	Meldorf	1618	TRUE	0		1	2	abstract	0	1
+landtwehr	konkret	landwehr	NN	Perleberg	1588	FALSE	1		1	1	concrete	1	2
+landtwehren	konkret	landwehr	NN	Perleberg	1588	FALSE	1		1	1	concrete	1	2
+last	abstrakt	last	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+laster	abstrakt	laster	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	3
+Laster	abstrakt	laster	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	3
+Lasters	abstrakt	laster	NN	Lemberg	1630	TRUE	0		0	3	abstract	0	3
+Laub	konkret	laub	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	1
+leusenn	tierisch	laus	NN	Georgenthal	1597	FALSE	1		0	1	animate	2	1
+leben	abstrakt	leben	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	21
+lebens	abstrakt	leben	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	21
+leben	abstrakt	leben	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	21
+leben	abstrakt	leben	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	21
+leben	abstrakt	leben	NN	Hamm	1592	FALSE	0		0	1	abstract	0	21
+leben	abstrakt	leben	NN	Jever	1592	FALSE	0		0	1	abstract	0	21
+leuende	abstrakt	leben	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	21
+leuende	abstrakt	leben	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	21
+leuent	abstrakt	leben	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	21
+leuende	abstrakt	leben	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	21
+lebens	abstrakt	leben	NN	München	1600	FALSE	1		0	1	abstract	0	21
+leben	abstrakt	leben	NN	München	1600	FALSE	1		0	1	abstract	0	21
+leben	abstrakt	leben	NN	München	1600	FALSE	1		0	1	abstract	0	21
+leben	abstrakt	leben	NN	München	1600	FALSE	1		0	1	abstract	0	21
+Leben	abstrakt	leben	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	21
+Leben	abstrakt	leben	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	21
+Leben	abstrakt	leben	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	21
+Leben	abstrakt	leben	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	21
+Leben	abstrakt	leben	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	21
+Leben	abstrakt	leben	NN	Stralsund	1630	TRUE	1		0	3	abstract	0	21
+Le- ben	abstrakt	lebenlang	NN	Jever	1592	TRUE	0		0	1	abstract	0	1
+leuer	konkret Körperteil	leber	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	1
+Lebtag	abstrakt	lebtag	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	3
+lebe- tag	abstrakt	lebtag	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	3
+lebtage	abstrakt	lebtag	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	3
+leymen gruben	konkret	lehmgrube	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	1
+Leib	konkret	leib	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	9
+leib	konkret Körperteil	leib	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	9
+leib	konkret Körperteil	leib	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	9
+leib	konkret Körperteil	leib	NN	Hamm	1592	FALSE	0		0	1	concrete	1	9
+leib	konkret Körperteil	leib	NN	Hamm	1592	FALSE	0		0	1	concrete	1	9
+leib	konkret Körperteil	leib	NN	Jever	1592	FALSE	0		0	1	concrete	1	9
+leib	konkret Körperteil	leib	NN	München	1600	FALSE	1		0	1	concrete	1	9
+Leib	konkret Körperteil	leib	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	9
+leib	konkret Körperteil	leib	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	9
+leden	abstrakt	leid	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	5
+leden	abstrakt	leid	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	5
+leden	abstrakt	leid	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	5
+lehden	abstrakt	leid	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	5
+laidts	abstrakt	leid	NN	München	1600	FALSE	1		0	1	abstract	0	5
+leinetuchs	konkret	leinentuch	NN	Schweinfurt	1616	FALSE	1		1	2	concrete	1	1
+Leinenweberin	menschlich	leinenweber	NB	Ostrau	1628	TRUE	1		1	3	animate	2	1
+leinwandt	konkret	leinwand	NN	Perleberg	1588	FALSE	1		1	1	concrete	1	1
+Leinweber	menschlich	leinweber	NB	München	1600	TRUE	1		1	1	animate	2	1
+laitther	konkret	leiter	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	1
+leüchtere	konkret	leuchter	NN	Alme	1630	FALSE	0		0	3	concrete	1	3
+leüchter	konkret	leuchter	NN	Alme	1630	FALSE	0		0	3	concrete	1	3
+liechter	konkret	leuchter	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	3
+leüth	menschlich Kollektivum	leute	NN	Baden-Baden	1628	FALSE	0		0	3	animate	2	21
+Leüth	menschlich Kollektivum	leute	NN	Bamberg	1628	TRUE	1		0	3	animate	2	21
+leute	menschlich Kollektivum	leute	NN	Georgenthal	1597	FALSE	1		0	1	animate	2	21
+leüth	menschlich Kollektivum	leute	NN	Günzburg	1613	FALSE	0		0	2	animate	2	21
+leuth	menschlich Kollektivum	leute	NN	Günzburg	1613	FALSE	0		0	2	animate	2	21
+leüth	menschlich Kollektivum	leute	NN	Günzburg	1613	FALSE	0		0	2	animate	2	21
+Leutten	menschlich Kollektivum	leute	NN	Güstrow	1615	TRUE	1		0	2	animate	2	21
+leuten	menschlich Kollektivum	leute	NN	München	1600	FALSE	1		0	1	animate	2	21
+leüth	menschlich Kollektivum	leute	NN	München	1600	FALSE	1		0	1	animate	2	21
+leüth	menschlich Kollektivum	leute	NN	München	1600	FALSE	1		0	1	animate	2	21
+leüthen	menschlich Kollektivum	leute	NN	München	1600	FALSE	1		0	1	animate	2	21
+leüth	menschlich Kollektivum	leute	NN	München	1600	FALSE	1		0	1	animate	2	21
+leüth	menschlich Kollektivum	leute	NN	München	1600	FALSE	1		0	1	animate	2	21
+leuten	menschlich	leute	NN	Perleberg	1588	FALSE	1		0	1	animate	2	21
+leutte	menschlich	leute	NN	Perleberg	1588	FALSE	1		0	1	animate	2	21
+leuthe	menschlich Kollektivum	leute	NN	Rosenburg	1618	FALSE	1		0	2	animate	2	21
+leuthen	menschlich Kollektivum	leute	NN	Rosenburg	1618	FALSE	1		0	2	animate	2	21
+leute	menschlich Kollektivum	leute	NN	Stralsund	1630	FALSE	1		0	3	animate	2	21
+leuten	menschlich Kollektivum	leute	NN	Stralsund	1630	FALSE	1		0	3	animate	2	21
+leuten	menschlich Kollektivum	leute	NN	Stralsund	1630	FALSE	1		0	3	animate	2	21
+Leute	menschlich Kollektivum	leute	NN	Stralsund	1630	TRUE	1		0	3	animate	2	21
+liecht	konkret	licht	NN	Alme	1630	FALSE	0		0	3	concrete	1	4
+licht	konkret	licht	NN	Alme	1630	FALSE	0		0	3	concrete	1	4
+liechter	konkret	licht	NN	München	1600	FALSE	1		0	1	concrete	1	4
+liechtl	konkret	licht	NN	München	1600	FALSE	1		0	1	concrete	1	4
+linen	konkret	linie	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+lob	abstrakt	lob	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	1
+löchlein	konkret	löchlein	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	1
+lohn	abstrakt	lohn	NN	Hamm	1592	FALSE	0		0	1	abstract	0	2
+lohn	konkret	lohn	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	2
+Lubbestock	konkret	lubstock	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	1
+Lump- pen	konkret	lumpen	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	1
+lungen	konkret Körperteil	lunge	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	1
+Lust	abstrakt	lust	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	3
+Lust	abstrakt	lust	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	3
+lust	abstrakt	lust	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	3
+Macht	abstrakt	macht	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	1
+Medlin	menschlich	mädlein	NN	Riedlingen	1596	TRUE	0	j	0	1	animate	3	1
+Magd	menschlich	magd	NB	Georgenthal	1597	TRUE	1	j	0	1	animate	3	8
+Magtt	menschlich	magd	NB	Güstrow	1615	TRUE	1	j	0	2	animate	3	8
+Magt	menschlich	magd	NB	Ostrau	1628	TRUE	1	j	0	3	animate	3	8
+Magdt	menschlich	magd	NB	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	8
+Magdt	menschlich	magd	NB	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	8
+Magdt	menschlich	magd	NB	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	8
+Magdt	menschlich	magd	NB	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	8
+Magdt	menschlich	magd	NB	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	8
+Megdelein	menschlich	mägdlein	NB	Ostrau	1628	TRUE	1	j	0	3	animate	3	5
+Megdelein	menschlich	mägdlein	NB	Ostrau	1628	TRUE	1	j	0	3	animate	3	5
+Megdelein	menschlich	mägdlein	NB	Ostrau	1628	TRUE	1	j	0	3	animate	3	5
+Megdelein	menschlich	mägdlein	NB	Ostrau	1628	TRUE	1	j	0	3	animate	3	5
+Megdelein	menschlich	mägdlein	NB	Ostrau	1628	TRUE	1	j	0	3	animate	3	5
+Mayestat	menschlich	majestät	NN	Ostrau	1628	TRUE	1		0	3	animate	2	1
+mahl	abstrakt	mal	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	32
+mahl	abstrakt	mal	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	32
+mahl	abstrakt	mal	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	32
+mahl	abstrakt	mal	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	32
+mahl	abstrakt Maß	mal	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	32
+mahl	abstrakt	mal	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	32
+mal	abstrakt	mal	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	32
+mal	abstrakt Maß	mal	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	32
+malen	abstrakt Maß	mal	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	32
+Mal	abstrakt Maß	mal	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	32
+mal	abstrakt Maß	mal	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	32
+mal	abstrakt	mal	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	32
+mal	abstrakt	mal	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	32
+mal	abstrakt	mal	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	32
+mhall	abstrakt	mal	NN	Hamm	1592	FALSE	0		0	1	abstract	0	32
+mhall	abstrakt	mal	NN	Hamm	1592	FALSE	0		0	1	abstract	0	32
+mhals	abstrakt	mal	NN	Hamm	1592	FALSE	0		0	1	abstract	0	32
+mhalen	abstrakt	mal	NN	Hamm	1592	FALSE	0		0	1	abstract	0	32
+mhall	abstrakt	mal	NN	Jever	1592	FALSE	0		0	1	abstract	0	32
+mhall	abstrakt	mal	NN	Jever	1592	FALSE	0		0	1	abstract	0	32
+mal	abstrakt Maß	mal	NN	München	1600	FALSE	1		0	1	abstract	0	32
+mal	abstrakt Maß	mal	NN	München	1600	FALSE	1		0	1	abstract	0	32
+mal	abstrakt	mal	NN	München	1600	FALSE	1		0	1	abstract	0	32
+mal	abstrakt Maß	mal	NN	München	1600	FALSE	1		0	1	abstract	0	32
+malen	abstrakt Maß	mal	NN	München	1600	FALSE	1		0	1	abstract	0	32
+mal	abstrakt	mal	NN	München	1600	FALSE	1		0	1	abstract	0	32
+mahl	abstrakt	mal	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	32
+mal	abstrakt	mal	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	32
+mal	abstrakt	mal	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	32
+mahl	abstrakt Maß	mal	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	32
+mahl	abstrakt	mal	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	32
+mahl	abstrakt Maß	mal	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	32
+mall	abstrakt	mall	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	1
+man	menschlich	man	NN	Alme	1630	FALSE	0	n	0	3	animate	4	4
+Man	menschlich	man	NN	Gaugrehweiler	1610	TRUE	0	n	0	2	animate	4	4
+Man	menschlich	man	NN	Güstrow	1615	TRUE	1	n	0	2	animate	4	4
+man	menschlich	man	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	4
+Mannß	menschlich	mann	NN	Baden-Baden	1628	TRUE	0	n	0	3	animate	4	40
+man	menschlich	mann	NN	Gaugrehweiler	1610	FALSE	0	n	0	2	animate	4	40
+Man	menschlich	mann	NN	Gaugrehweiler	1610	TRUE	0	n	0	2	animate	4	40
+Mann	menschlich	mann	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	40
+Menner	menschlich	mann	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	40
+Manne	menschlich	mann	NN	Georgenthal	1597	TRUE	1	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Günzburg	1613	TRUE	0	n	0	2	animate	4	40
+Mann	menschlich	mann	NN	Günzburg	1613	TRUE	0	n	0	2	animate	4	40
+Manns	menschlich	mann	NN	Günzburg	1613	TRUE	0	n	0	2	animate	4	40
+Mann	menschlich	mann	NN	Günzburg	1613	TRUE	0	n	0	2	animate	4	40
+Manne	menschlich	mann	NN	Güstrow	1615	TRUE	1	n	0	2	animate	4	40
+Man	menschlich	mann	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	40
+man	menschlich	mann	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	40
+mann	menschlich	mann	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Jever	1592	TRUE	0	n	0	1	animate	4	40
+Man	menschlich	mann	NN	Jever	1592	TRUE	0	n	0	1	animate	4	40
+Man	menschlich	mann	NN	Jever	1592	TRUE	0	n	0	1	animate	4	40
+Mann	menschlich	mann	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	40
+Mann	menschlich	mann	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	40
+Mann	menschlich	mann	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	40
+Mann	menschlich	mann	NN	München	1600	TRUE	1	n	0	1	animate	4	40
+Manne	menschlich	mann	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	40
+Mann	menschlich	mann	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	40
+Manne	menschlich	mann	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	40
+Mann	menschlich	mann	NN	Riedlingen	1596	TRUE	0	n	0	1	animate	4	40
+man	menschlich	mann	NN	Rosenburg	1618	FALSE	1	n	0	2	animate	4	40
+man	menschlich	mann	NN	Rosenburg	1618	FALSE	1	n	0	2	animate	4	40
+Manne	menschlich	mann	NN	Stralsund	1630	TRUE	1	n	0	3	animate	4	40
+Mannes	menschlich	mann	NN	Stralsund	1630	TRUE	1	n	0	3	animate	4	40
+Männleins	menschlich	männlein	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	2
+Menn- lein	menschlich	männlein	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	2
+Marggraf- schafft	konkret Ort	markgrafschaft	NN	München	1600	TRUE	1		0	1	concrete	1	1
+Marckht	konkret	markt	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	3
+Marckt	konkret	markt	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	3
+Marckt	konkret	markt	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	3
+Marter	abstrakt	marter	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	6
+Marter	abstrakt	marter	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	6
+Marter	abstrakt	marter	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	6
+Martter	abstrakt	marter	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	6
+Marter	abstrakt	marter	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	6
+Martter	abstrakt	marter	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	6
+masßen	abstrakt	masz	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	11
+masßen	abstrakt	masz	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	11
+Massen	abstrakt Maß	masz	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	11
+maß	abstrakt	masz	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	11
+maßen	abstrakt	masz	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	11
+maeß	abstrakt Maß	masz	NN	Jever	1592	FALSE	0		0	1	abstract	0	11
+maßen	abstrakt	masz	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	11
+maße	abstrakt	masz	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	11
+maßen	abstrakt	masz	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	11
+mas	abstrakt Maß	masz	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	11
+maßen	abstrakt	masz	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	11
+maßen	abstrakt	maszen	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	2
+maßen	abstrakt	maszen	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	2
+materie	konkret	materie	NN	Alme	1630	FALSE	0		0	3	concrete	1	4
+materi	konkret	materie	NN	Alme	1630	FALSE	0		0	3	concrete	1	4
+materi	konkret	materie	NN	Alme	1630	FALSE	0		0	3	concrete	1	4
+materi	konkret	materie	NN	Alme	1630	FALSE	0		0	3	concrete	1	4
+Maur	konkret	mauer	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	1
+Maul	konkret Körperteil	maul	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	2
+Maull	konkret Körperteil	maul	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	2
+Meil	abstrakt Maß	meil	NN	München	1600	TRUE	1		0	1	abstract	0	1
+meil	abstrakt Maß	meile	NN	München	1600	FALSE	1		0	1	abstract	0	1
+Meinaydts	abstrakt	meineid	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	1
+mainung	abstrakt	meinung	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	7
+meinung	abstrakt	meinung	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	7
+mainung	abstrakt	meinung	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	7
+mainung	abstrakt	meinung	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	7
+mainung	abstrakt	meinung	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	7
+mainung	abstrakt	meinung	NN	München	1600	FALSE	1		0	1	abstract	0	7
+meinung	abstrakt	meinung	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	7
+Maisters	menschlich	meister	NN	Baden-Baden	1628	TRUE	0	n	0	3	animate	4	3
+Meister	menschlich	meister	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	3
+Meister	menschlich	meister	NB	Rosenburg	1618	TRUE	1	n	0	2	animate	4	3
+Menschen	menschlich	mensch	NN	Alme	1630	TRUE	0		0	3	animate	2	12
+Mentschen	menschlich	mensch	NN	Bamberg	1628	TRUE	1		0	3	animate	2	12
+menschen	menschlich	mensch	NN	Georgenthal	1597	FALSE	1		0	1	animate	2	12
+Menschen	menschlich	mensch	NN	Güstrow	1615	TRUE	1		0	2	animate	2	12
+Menschenn	menschlich	mensch	NN	Jever	1592	TRUE	0		0	1	animate	2	12
+Menschen	menschlich	mensch	NN	Meldorf	1618	TRUE	0		0	2	animate	2	12
+Menschen	menschlich	mensch	NN	Meldorf	1618	TRUE	0		0	2	animate	2	12
+Menschen	menschlich	mensch	NN	Ostrau	1628	TRUE	1		0	3	animate	2	12
+menschen	menschlich	mensch	NN	Perleberg	1588	FALSE	1		0	1	animate	2	12
+menschen	menschlich	mensch	NN	Perleberg	1588	FALSE	1		0	1	animate	2	12
+Menschen	menschlich	mensch	NN	Rosenburg	1618	TRUE	1		0	2	animate	2	12
+menschen	menschlich	mensch	NN	Stralsund	1630	FALSE	1		0	3	animate	2	12
+minschen gestaldt	menschlich	menschengestalt	NN	Meldorf	1618	FALSE	0		1	2	animate	2	2
+Min- schens gestaldt	menschlich	menschengestalt	NN	Meldorf	1618	TRUE	0		1	2	animate	2	2
+menschen hende	konkret Körperteil	menschenhand	NN	Georgenthal	1597	FALSE	1		1	1	concrete	1	1
+Mesßer	konkret	messer	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	2
+mesßer	konkret	messer	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	2
+Mezger	menschlich	metzger	NB	München	1600	TRUE	1	n	0	1	animate	4	2
+Mezger	menschlich	metzger	NB	München	1600	TRUE	1	n	0	1	animate	4	2
+Milch	konkret	milch	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	10
+Millch	konkret	milch	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	10
+Milch	konkret	milch	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	10
+Milch	konkret	milch	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	10
+milch	konkret	milch	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	10
+milch	konkret	milch	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	10
+milch	konkret	milch	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	10
+milch	konkret	milch	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	10
+Milch	konkret	milch	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	10
+Milchdieb	menschlich	milchdieb	NN	Schweinfurt	1616	TRUE	1	n	1	2	animate	4	4
+Milchdieb	menschlich	milchdieb	NN	Schweinfurt	1616	TRUE	1	n	1	2	animate	4	4
+Milchdieb	menschlich	milchdieb	NN	Schweinfurt	1616	TRUE	1	n	1	2	animate	4	4
+Milchdieb	menschlich	milchdieb	NN	Schweinfurt	1616	TRUE	1	n	1	2	animate	4	4
+Millich diebin	menschlich	milchdiebin	NN	Georgenthal	1597	TRUE	1	j	1	1	animate	3	4
+Millich diebin	menschlich	milchdiebin	NN	Georgenthal	1597	TRUE	1	j	1	1	animate	3	4
+Milchdiebin	menschlich	milchdiebin	NN	Georgenthal	1597	TRUE	1	j	1	1	animate	3	4
+Milch- diebin	menschlich	milchdiebin	NN	Schweinfurt	1616	TRUE	1	j	1	2	animate	3	4
+Milch Eimmer	konkret	milcheimer	NN	Jever	1592	TRUE	0		1	1	concrete	1	1
+misßenthatten	abstrakt	missethat	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	5
+mißthadt	abstrakt	missethat	NN	Hamm	1592	FALSE	0		0	1	abstract	0	5
+mißthatten	abstrakt	missethat	NN	Hamm	1592	FALSE	0		0	1	abstract	0	5
+mißethat	abstrakt	missethat	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	5
+Missethaten	abstrakt	missethat	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	5
+mitgehilffen	menschlich	mitgehilfe	NN	Günzburg	1613	FALSE	0	n	0	2	animate	4	1
+mitgesell	menschlich	mitgeselle	NB	Hamm	1592	FALSE	0	n	0	1	animate	4	1
+mitgespillen	menschlich	mitgespiele	NN	Hamm	1592	FALSE	0		0	1	animate	2	1
+mitgespillin	menschlich	mitgespielin	NN	Hamm	1592	FALSE	0	j	0	1	animate	3	2
+mitgespiellen	menschlich	mitgespielin	NN	Lemberg	1630	FALSE	0	j	0	3	animate	3	2
+Mittag	abstrakt	mittag	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	4
+Mittag	abstrakt	mittag	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	4
+Mittag	abstrakt	mittag	NN	Lemberg	1630	TRUE	0		0	3	abstract	0	4
+Mittag	abstrakt	mittag	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	4
+mittel	abstrakt	mittel	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	2
+mittel	abstrakt	mittel	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	2
+Mitwochen	abstrakt	mittwoch	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	3
+Mitwochen	abstrakt	mittwoch	NN	Jever	1592	TRUE	0		0	1	abstract	0	3
+Mitwochen	abstrakt	mittwoch	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	3
+Molchen	tierisch	molch	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	1
+Monat	abstrakt	monat	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	3
+Monathen	abstrakt Maß	monat	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	3
+Monathen	abstrakt Maß	monat	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	3
+Monatstag	abstrakt	monatstag	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	2
+Monatstagk	abstrakt	monatstag	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	2
+Montagk	abstrakt	montag	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	1
+morgen	abstrakt	morgen	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	6
+morgens	abstrakt	morgen	NN	Jever	1592	FALSE	0		0	1	abstract	0	6
+morgenn	abstrakt	morgen	NN	Jever	1592	FALSE	0		0	1	abstract	0	6
+morgen	abstrakt	morgen	NN	Jever	1592	FALSE	0		0	1	abstract	0	6
+morgen	abstrakt	morgen	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	6
+morgenß	abstrakt	morgen	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	6
+mundt	konkret Körperteil	mund	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	4
+munt	konkret Körperteil	mund	NN	Jever	1592	FALSE	0		0	1	concrete	1	4
+mundes	konkret Körperteil	mund	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	4
+Mundts	konkret Körperteil	mund	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	4
+Müntze	konkret	münze	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	1
+Mutter	menschlich	mutter	NN	Güstrow	1615	TRUE	1	j	0	2	animate	3	12
+mutter	menschlich	mutter	NN	Güstrow	1615	FALSE	1	j	0	2	animate	3	12
+Mutter	übermenschlich positiv	mutter	NN	Hamm	1592	TRUE	0	j	0	1	animate	3	12
+Mutter	menschlich	mutter	NN	Jever	1592	TRUE	0	j	0	1	animate	3	12
+Mutter	menschlich	mutter	NN	Jever	1592	TRUE	0	j	0	1	animate	3	12
+Mutter	menschlich	mutter	NN	Jever	1592	TRUE	0	j	0	1	animate	3	12
+Moder	menschlich	mutter	NN	Jever	1592	TRUE	0	j	0	1	animate	3	12
+Muettr	menschlich	mutter	NN	München	1600	TRUE	1	j	0	1	animate	3	12
+Muetter	menschlich	mutter	NN	München	1600	TRUE	1	j	0	1	animate	3	12
+mutter	menschlich	mutter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	12
+mutter	menschlich	mutter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	12
+mutter	menschlich	mutter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	12
+Mutter Pferdt	tierisch	mutterpferd	NN	Lemberg	1630	TRUE	0		1	3	animate	2	1
+Mütze	konkret	mütze	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	1
+Nachpauren	menschlich	nachbar	NN	Gaugrehweiler	1610	TRUE	0	n	0	2	animate	4	2
+Nachbarn	menschlich	nachbar	NN	Jever	1592	TRUE	0	n	0	1	animate	4	2
+Nachtbarin	menschlich	nachbarin	NN	Georgenthal	1597	TRUE	1	j	0	1	animate	3	1
+Nachkömlingen	menschlich	nachkömmling	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	1
+Nachrichters	menschlich	nachrichter	NB	Hamm	1592	TRUE	0	n	0	1	animate	4	2
+Nachrichter	menschlich	nachrichter	NN	Riedlingen	1596	TRUE	0	n	0	1	animate	4	2
+nachrichtung	abstrakt	nachrichtung	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	1
+nacht	abstrakt	nacht	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	24
+nacht	abstrakt	nacht	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	24
+Nacht	abstrakt	nacht	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	24
+nacht	abstrakt	nacht	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	24
+Nacht	abstrakt	nacht	NN	Gaugrehweiler	1610	TRUE	0		0	2	abstract	0	24
+Nacht	abstrakt	nacht	NN	Gaugrehweiler	1610	TRUE	0		0	2	abstract	0	24
+nacht	abstrakt Maß	nacht	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	24
+nacht	abstrakt	nacht	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	24
+nacht	abstrakt	nacht	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	24
+Nacht	abstrakt	nacht	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	24
+nacht	abstrakt	nacht	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	24
+nacht	abstrakt	nacht	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	24
+nacht	abstrakt	nacht	NN	Hamm	1592	FALSE	0		0	1	abstract	0	24
+nacht	abstrakt	nacht	NN	Jever	1592	FALSE	0		0	1	abstract	0	24
+nacht	abstrakt	nacht	NN	Jever	1592	FALSE	0		0	1	abstract	0	24
+nacht	abstrakt	nacht	NN	Jever	1592	FALSE	0		0	1	abstract	0	24
+nacht	abstrakt	nacht	NN	Jever	1592	FALSE	0		0	1	abstract	0	24
+nacht	abstrakt Maß	nacht	NN	Jever	1592	FALSE	0		0	1	abstract	0	24
+Nacht	abstrakt	nacht	NN	Lemberg	1630	TRUE	0		0	3	abstract	0	24
+Nacht	abstrakt	nacht	NN	München	1600	TRUE	1		0	1	abstract	0	24
+nacht	abstrakt	nacht	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	24
+nachts	abstrakt	nacht	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	24
+nacht	abstrakt	nacht	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	24
+nacht	abstrakt	nacht	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	24
+Nachthutter	menschlich	nachthüter	NB	Rosenburg	1618	TRUE	1	n	1	2	animate	4	1
+Nachtschaden	konkret	nachtschaden	NN	Baden-Baden	1628	TRUE	0		1	3	concrete	1	1
+nacht zeit	abstrakt	nachtzeit	NN	Günzburg	1613	FALSE	0		1	2	abstract	0	1
+Nägl	konkret	nagel	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	2
+Negel	konkret	nagel	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	2
+Nege nateln	konkret	nähnadel	NN	Stralsund	1630	TRUE	1		1	3	concrete	1	2
+Neynateln	konkret	nähnadel	NN	Stralsund	1630	TRUE	1		1	3	concrete	1	2
+Nahmen	abstrakt	name	NN	Alme	1630	TRUE	0		0	3	abstract	0	57
+Nahme	abstrakt	name	NN	Alme	1630	TRUE	0		0	3	abstract	0	57
+Nahmen	abstrakt	name	NN	Alme	1630	TRUE	0		0	3	abstract	0	57
+Nahmen	abstrakt	name	NN	Alme	1630	TRUE	0		0	3	abstract	0	57
+Nahme	abstrakt	name	NN	Alme	1630	TRUE	0		0	3	abstract	0	57
+Nahmen	abstrakt	name	NN	Alme	1630	TRUE	0		0	3	abstract	0	57
+Nahmen	abstrakt	name	NN	Alme	1630	TRUE	0		0	3	abstract	0	57
+Nahmen	abstrakt	name	NN	Alme	1630	TRUE	0		0	3	abstract	0	57
+Nahmen	abstrakt	name	NN	Alme	1630	TRUE	0		0	3	abstract	0	57
+namen	abstrakt	name	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	57
+namen	abstrakt	name	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	57
+namen	abstrakt	name	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	57
+namen	abstrakt	name	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	57
+namen	abstrakt	name	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	57
+nahmen	abstrakt	name	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	57
+nahmen	abstrakt	name	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	57
+Nahmen	abstrakt	name	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	57
+namen	abstrakt	name	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	57
+Namen	abstrakt	name	NN	Gaugrehweiler	1610	TRUE	0		0	2	abstract	0	57
+Namen	abstrakt	name	NN	Gaugrehweiler	1610	TRUE	0		0	2	abstract	0	57
+namen	abstrakt	name	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	57
+Namen	abstrakt	name	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	57
+nhamen	abstrakt	name	NN	Hamm	1592	FALSE	0		0	1	abstract	0	57
+nhamen	abstrakt	name	NN	Hamm	1592	FALSE	0		0	1	abstract	0	57
+nhamen	abstrakt	name	NN	Jever	1592	FALSE	0		0	1	abstract	0	57
+Namen	abstrakt	name	NN	Lemberg	1630	TRUE	0		0	3	abstract	0	57
+nhamen	abstrakt	name	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	57
+namen	abstrakt	name	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	57
+namen	abstrakt	name	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	57
+namen	abstrakt	name	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	57
+namen	abstrakt	name	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	57
+namens	abstrakt	name	NN	München	1600	FALSE	1		0	1	abstract	0	57
+nhamen	abstrakt	name	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	57
+nhamen	abstrakt	name	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	57
+Nhamen	abstrakt	name	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	57
+nahmen	abstrakt	name	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	57
+nhamen	abstrakt	name	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	57
+nahmen	abstrakt	name	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	57
+nahmen	abstrakt	name	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	57
+na men	abstrakt	name	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	57
+namen	abstrakt	name	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	57
+namen	abstrakt	name	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	57
+nahmen	abstrakt	name	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	57
+namen	abstrakt	name	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	57
+Teüffels nahmen	abstrakt	name	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	57
+nahmen	abstrakt	name	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	57
+Namen	abstrakt	name	NN	Stralsund	1630	TRUE	1		0	3	abstract	0	57
+nahmen	abstrakt	name	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	57
+Närrin	menschlich	närrin	NN	Rosenburg	1618	TRUE	1	j	0	2	animate	3	1
+Näscherei	konkret Kollektivum	näscherei	NN	Ostrau	1628	TRUE	1		0	3	concrete	1	2
+Nescherei	konkret	näscherei	NN	Ostrau	1628	TRUE	1		0	3	concrete	1	2
+Nasen	konkret Körperteil	nase	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	1
+Natur	abstrakt	natur	NN	Alme	1630	TRUE	0		0	3	abstract	0	3
+Natur	abstrakt	natur	NN	Alme	1630	TRUE	0		0	3	abstract	0	3
+natur	abstrakt	natur	NN	Jever	1592	FALSE	0		0	1	abstract	0	3
+nahmen	abstrakt	nehmen	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	1
+neydt	abstrakt	neid	NN	Hamm	1592	FALSE	0		0	1	abstract	0	3
+neide	abstrakt	neid	NN	Jever	1592	FALSE	0		0	1	abstract	0	3
+neidt	abstrakt	neid	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	3
+new	abstrakt	neue	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	1
+Newem	abstrakt	neues	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	1
+Neunten	abstrakt	neunte	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+nichte	abstrakt	nichte	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	1
+Nöttenn	abstrakt	not	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	4
+nöthen	abstrakt	not	NN	Hamm	1592	FALSE	0		0	1	abstract	0	4
+Nodt	abstrakt	not	NN	Jever	1592	TRUE	0		0	1	abstract	0	4
+noth	abstrakt	not	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	4
+Nüsse	konkret	nusz	NN	Ostrau	1628	TRUE	1		0	3	concrete	1	1
+oberkheit	menschlich Kollektivum	oberkeit	NN	München	1600	FALSE	1		0	1	animate	2	1
+oberster	menschlich	oberster	NB	Hamm	1592	FALSE	0		0	1	animate	2	4
+obersten	menschlich	oberster	NB	Hamm	1592	FALSE	0		0	1	animate	2	4
+obersten	menschlich	oberster	NB	Hamm	1592	FALSE	0		0	1	animate	2	4
+obige	menschlich	obig	NN	Bamberg	1628	FALSE	1		0	3	animate	2	1
+Obrigkeit	menschlich	obrigkeit	NN	Gaugrehweiler	1610	TRUE	0		0	2	animate	2	2
+obrigkheit	menschlich Kollektivum	obrigkeit	NN	Günzburg	1613	FALSE	0		0	2	animate	2	2
+obrister	menschlich	obrist	NN	Alme	1630	FALSE	0	n	0	3	animate	4	5
+obrister	menschlich	obrist	NN	Alme	1630	FALSE	0	n	0	3	animate	4	5
+obrister	menschlich	obrist	NN	Alme	1630	FALSE	0	n	0	3	animate	4	5
+Obriste	menschlich	obrist	NN	Jever	1592	TRUE	0	n	0	1	animate	4	5
+Obrister	menschlich	obrist	NN	Jever	1592	TRUE	0	n	0	1	animate	4	5
+ochße	tierisch	ochse	NN	Güstrow	1615	FALSE	1		0	2	animate	2	2
+ochße	tierisch	ochse	NN	Güstrow	1615	FALSE	1		0	2	animate	2	2
+ochßenmarkh	konkret	ochsenmarkt	NN	Bamberg	1628	FALSE	1		1	3	concrete	1	1
+ofen	konkret	ofen	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	1
+öftern	abstrakt	oft	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	1
+ohren	konkret Körperteil	ohr	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+ordnung	abstrakt	ordnung	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+orth	konkret Ort	ort	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	5
+orde	konkret	ort	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	5
+orth	konkret	ort	NN	München	1600	FALSE	1		0	1	concrete	1	5
+örtern	konkret Ort	ort	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	5
+ortt	konkret	ort	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	5
+Osten	abstrakt	osten	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	1
+ostern	abstrakt	ostern	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	2
+Ostern	abstrakt	ostern	NN	Stralsund	1630	TRUE	1		0	3	abstract	0	2
+Pahr	abstrakt	paar	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	2
+Paär	abstrakt Maß	paar	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	2
+Paff	menschlich	paff	NB	Lemberg	1630	TRUE	0	n	0	3	animate	4	1
+PaPir	konkret	papier	NN	Jever	1592	FALSE	0		0	1	concrete	1	1
+pastors	menschlich	pastor	NN	Jever	1592	FALSE	0	n	0	1	animate	4	1
+Pein	abstrakt	pein	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	5
+pein	abstrakt	pein	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	5
+Pöen	abstrakt	pein	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	5
+pein	abstrakt	pein	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	5
+pein	abstrakt	pein	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	5
+Persohnen	menschlich	person	NN	Bamberg	1628	TRUE	1		0	3	animate	2	11
+Persohnen	menschlich	person	NN	Bamberg	1628	TRUE	1		0	3	animate	2	11
+Persohnen	menschlich	person	NN	Bamberg	1628	TRUE	1		0	3	animate	2	11
+Persohn	menschlich	person	NN	Günzburg	1613	TRUE	0		0	2	animate	2	11
+Personen	menschlich	person	NN	Güstrow	1615	TRUE	1		0	2	animate	2	11
+Persohn	menschlich	person	NN	München	1600	TRUE	1		0	1	animate	2	11
+Persohn	menschlich	person	NN	München	1600	TRUE	1		0	1	animate	2	11
+Persohnen	menschlich	person	NN	München	1600	TRUE	1		0	1	animate	2	11
+Persohnen	menschlich	person	NN	München	1600	TRUE	1		0	1	animate	2	11
+Person	menschlich	person	NN	Ostrau	1628	TRUE	1		0	3	animate	2	11
+person	menschlich	person	NN	Perleberg	1588	FALSE	1		0	1	animate	2	11
+Pezschafft	konkret	petschaft	NN	Ostrau	1628	TRUE	1		0	3	concrete	1	1
+Pfarrers	menschlich	pfarrer	NB	Rosenburg	1618	TRUE	1	n	0	2	animate	4	2
+Pfarrer	menschlich	pfarrer	NB	Rosenburg	1618	TRUE	1	n	0	2	animate	4	2
+peiffer	menschlich	pfeifer	NB	Hamm	1592	FALSE	0	n	0	1	animate	4	2
+peiffer	menschlich	pfeifer	NB	Hamm	1592	FALSE	0	n	0	1	animate	4	2
+Pfennig	abstrakt Maß	pfennig	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	2
+Pfennig	abstrakt Maß	pfennig	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	2
+Pferdt	tierisch	pferd	NN	Alme	1630	TRUE	0		0	3	animate	2	24
+Pferdt	tierisch	pferd	NN	Bamberg	1628	TRUE	1		0	3	animate	2	24
+pferde	tierisch	pferd	NN	Georgenthal	1597	FALSE	1		0	1	animate	2	24
+Pferde	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+Pferde	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+Pferdt	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+Pferdt	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+Pferde	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+Pferde	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+Pferdt	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+Pferdt	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+Pferdt	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+Pferdt	tierisch	pferd	NN	Güstrow	1615	TRUE	1		0	2	animate	2	24
+pferden	tierisch	pferd	NN	Hamm	1592	FALSE	0		0	1	animate	2	24
+pferdt	tierisch	pferd	NN	Hamm	1592	FALSE	0		0	1	animate	2	24
+pferdt	tierisch	pferd	NN	Hamm	1592	FALSE	0		0	1	animate	2	24
+Pferdt	tierisch	pferd	NN	Hamm	1592	TRUE	0		0	1	animate	2	24
+pferdt	tierisch	pferd	NN	Hamm	1592	FALSE	0		0	1	animate	2	24
+pferdt	tierisch	pferd	NN	Hamm	1592	FALSE	0		0	1	animate	2	24
+pfert	tierisch	pferd	NN	Jever	1592	FALSE	0		0	1	animate	2	24
+Perdt	tierisch	pferd	NN	Meldorf	1618	TRUE	0		0	2	animate	2	24
+perdt	tierisch	pferd	NN	Meldorf	1618	FALSE	0		0	2	animate	2	24
+Pferdt	tierisch	pferd	NN	Rosenburg	1618	TRUE	1		0	2	animate	2	24
+Pferden	tierisch	pferd	NN	Rosenburg	1618	TRUE	1		0	2	animate	2	24
+perdedreck	konkret	pferdedreck	NN	Alme	1630	FALSE	0		1	3	concrete	1	2
+pferdtsdreck	konkret	pferdedreck	NN	Hamm	1592	FALSE	0		1	1	concrete	1	2
+Pfer- de fueß	konkret Körperteil	pferdefusz	NN	Jever	1592	TRUE	0		1	1	concrete	1	1
+Pferdts koth	konkret	pferdekoth	NN	Lemberg	1630	TRUE	0		1	3	concrete	1	1
+perdes Manen	konkret	pferdemähne	NN	Meldorf	1618	FALSE	0		1	2	concrete	1	1
+Pingesten	abstrakt	pfingsten	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	1
+Pfingst feyertag	abstrakt	pfingstfeiertag	NN	Schweinfurt	1616	TRUE	1		1	2	abstract	0	1
+Pfleg dochter	menschlich	pflegetochter	NN	Schweinfurt	1616	TRUE	1	j	1	2	animate	3	1
+pfort	konkret	pforte	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+pfundt	abstrakt Maß	pfund	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+pfantasej	abstrakt	phantasei	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	1
+Phantasei	abstrakt	phantasie	NN	Alme	1630	TRUE	0		0	3	abstract	0	3
+phantasej	abstrakt	phantasie	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	3
+phantasie	abstrakt	phantasie	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	3
+Pipen	konkret	pipe	NN	Alme	1630	TRUE	0		0	3	concrete	1	1
+Platz	konkret	platz	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	2
+blaz	konkret	platz	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	2
+poggen	tierisch	pogge	NN	Perleberg	1588	FALSE	1		0	1	animate	2	3
+poggen	tierisch	pogge	NN	Perleberg	1588	FALSE	1		0	1	animate	2	3
+poggen	tierisch	pogge	NN	Perleberg	1588	FALSE	1		0	1	animate	2	3
+Pollicey	abstrakt	polizei	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+podt	konkret	pot	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	1
+Pott	konkret	pott	NN	Alme	1630	TRUE	0		0	3	concrete	1	3
+Pott	konkret	pott	NN	Alme	1630	TRUE	0		0	3	concrete	1	3
+priuilegien	abstrakt	privileg	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	1
+profoiß	menschlich	profos	NB	Jever	1592	FALSE	0		0	1	animate	2	1
+proces	abstrakt	prozesz	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+Pulfer	konkret	pulver	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	8
+Puluer	konkret	pulver	NN	Jever	1592	TRUE	0		0	1	concrete	1	8
+Puluer	konkret	pulver	NN	München	1600	TRUE	1		0	1	concrete	1	8
+Puluer	konkret	pulver	NN	München	1600	TRUE	1		0	1	concrete	1	8
+Puluer	konkret	pulver	NN	München	1600	TRUE	1		0	1	concrete	1	8
+Puluer	konkret	pulver	NN	München	1600	TRUE	1		0	1	concrete	1	8
+Puluer	konkret	pulver	NN	München	1600	TRUE	1		0	1	concrete	1	8
+Puluer	konkret	pulver	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	8
+buluersackh	konkret	pulversack	NN	Riedlingen	1596	FALSE	0		1	1	concrete	1	1
+puncten	abstrakt	punkt	NN	Jever	1592	FALSE	0		0	1	abstract	0	3
+puncten	abstrakt	punkt	NN	Jever	1592	FALSE	0		0	1	abstract	0	3
+puncten	abstrakt	punkt	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	3
+Queller	menschlich	queller	NB	Güstrow	1615	TRUE	1		0	2	animate	2	1
+questen	konkret	questen	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+Raab	menschlich	rabe	NN	Bamberg	1628	TRUE	1		0	3	animate	2	1
+Rehm	konkret	rahm	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	3
+Rehm	konkret	rahm	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	3
+Rehm	konkret	rahm	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	3
+Rhadt	abstrakt	rat	NN	Alme	1630	TRUE	0		0	3	abstract	0	15
+raht	abstrakt	rat	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	15
+Raths	abstrakt	rat	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	15
+Rahte	menschlich Kollektivum	rat	NN	Güstrow	1615	TRUE	1		0	2	animate	2	15
+Rathe	abstrakt	rat	NN	Hamm	1592	TRUE	0		0	1	abstract	0	15
+rath	abstrakt	rat	NN	Hamm	1592	FALSE	0		0	1	abstract	0	15
+rhat	abstrakt	rat	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	15
+rhat	abstrakt	rat	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	15
+rhat	abstrakt	rat	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	15
+Rade	menschlich Kollektivum	rat	NN	Meldorf	1618	TRUE	0		0	2	animate	2	15
+rath	abstrakt	rat	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	15
+rhat	abstrakt	rat	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	15
+ratth	abstrakt	rat	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	15
+ratth	abstrakt	rat	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	15
+ratth	abstrakt	rat	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	15
+Rathgebern	menschlich	ratgeber	NN	Günzburg	1613	TRUE	0	n	1	2	animate	4	1
+Rath	menschlich Kollektivum	rath	NN	Perleberg	1588	TRUE	1		0	1	animate	2	1
+Ratthause	konkret	rathaus	NN	Perleberg	1588	TRUE	1		1	1	concrete	1	3
+Rathauß	konkret	rathaus	NN	Riedlingen	1596	TRUE	0		1	1	concrete	1	3
+rhathaus	konkret	rathaus	NN	Schweinfurt	1616	FALSE	1		1	2	concrete	1	3
+Rathsherr	menschlich	ratsherr	NB	München	1600	TRUE	1	n	1	1	animate	4	1
+Rath- stueben	konkret	ratstube	NN	Bamberg	1628	TRUE	1		1	3	concrete	1	3
+Rath- stueben	konkret	ratstube	NN	Bamberg	1628	TRUE	1		1	3	concrete	1	3
+Rathstueben	konkret	ratstube	NN	Bamberg	1628	TRUE	1		1	3	concrete	1	3
+rawen	abstrakt	rauen	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	1
+Recht	abstrakt	recht	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	13
+rechte	abstrakt	recht	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	13
+rechte	abstrakt	recht	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	13
+Recht	abstrakt	recht	NN	Hamm	1592	TRUE	0		0	1	abstract	0	13
+Recht	abstrakt	recht	NN	Hamm	1592	TRUE	0		0	1	abstract	0	13
+rechte	abstrakt	recht	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	13
+Rechtes	abstrakt	recht	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	13
+recht	abstrakt	recht	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	13
+recht	abstrakt	recht	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	13
+rechte	abstrakt	recht	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	13
+rechte	abstrakt	recht	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	13
+rechte	abstrakt	recht	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	13
+reden	abstrakt	reden	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	5
+reif	konkret	reif	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	1
+reise	abstrakt	reise	NN	Jever	1592	FALSE	0		0	1	abstract	0	1
+gerette	konkret	retten	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	1
+rauwen	abstrakt	reue	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+reuerentz	abstrakt	reverenz	NN	Alme	1630	FALSE	0		0	3	abstract	0	3
+Reuerentz	abstrakt	reverenz	NN	Hamm	1592	TRUE	0		0	1	abstract	0	3
+Reuerentz	abstrakt	reverenz	NN	Hamm	1592	TRUE	0		0	1	abstract	0	3
+Richters	menschlich	richter	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	12
+Richters	menschlich	richter	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	12
+Richters	menschlich	richter	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	12
+Richters	menschlich	richter	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	12
+Richter	menschlich	richter	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	12
+Richter	menschlich	richter	NB	Hamm	1592	TRUE	0	n	0	1	animate	4	12
+Richter	menschlich	richter	NB	Hamm	1592	TRUE	0	n	0	1	animate	4	12
+Richter	menschlich	richter	NB	Hamm	1592	TRUE	0	n	0	1	animate	4	12
+Richters	menschlich	richter	NB	Perleberg	1588	TRUE	1	n	0	1	animate	4	12
+Richter	menschlich	richter	NB	Riedlingen	1596	TRUE	0	n	0	1	animate	4	12
+Richter	menschlich	richter	NB	Rosenburg	1618	TRUE	1	n	0	2	animate	4	12
+Richter	menschlich	richter	NB	Rosenburg	1618	TRUE	1	n	0	2	animate	4	12
+Richtstatt	konkret	richtstatt	NN	Riedlingen	1596	TRUE	0		1	1	concrete	1	1
+Rinde	konkret	rind	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	1
+rindt Viech	tierisch	rindvieh	NN	Baden-Baden	1628	FALSE	0		1	3	animate	2	1
+bögelen	konkret	ring	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+risten	abstrakt	risten	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	1
+rogke	konkret	roggen	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	1
+Rohr	konkret	rohr	NN	Rosenburg	1618	TRUE	1		0	2	concrete	1	3
+Rohr	konkret	rohr	NN	Rosenburg	1618	TRUE	1		0	2	concrete	1	3
+rohr	konkret	rohr	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	3
+Roß	tierisch	ross	NN	Riedlingen	1596	TRUE	0		0	1	animate	2	7
+Roß	tierisch	ross	NN	Riedlingen	1596	TRUE	0		0	1	animate	2	7
+Roß	tierisch	ross	NN	Riedlingen	1596	TRUE	0		0	1	animate	2	7
+Roß	tierisch	ross	NN	Riedlingen	1596	TRUE	0		0	1	animate	2	7
+Roß	tierisch	ross	NN	Riedlingen	1596	TRUE	0		0	1	animate	2	7
+Roß	tierisch	ross	NN	Riedlingen	1596	TRUE	0		0	1	animate	2	7
+Roß	tierisch	ross	NN	Riedlingen	1596	TRUE	0		0	1	animate	2	7
+Ross koth	konkret	rosskot	NN	Baden-Baden	1628	TRUE	0		1	3	concrete	1	2
+Ross koth	konkret	rosskot	NN	Baden-Baden	1628	TRUE	0		1	3	concrete	1	2
+Rück	konkret Körperteil	rücken	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	1
+ruot	konkret	rute	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	1
+sachen	abstrakt	sache	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	18
+sach	abstrakt	sache	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	18
+sachen	konkret	sache	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	18
+sachen	abstrakt	sache	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	18
+sachen	konkret	sache	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	18
+saken	abstrakt	sache	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	18
+sachen	abstrakt	sache	NN	München	1600	FALSE	1		0	1	abstract	0	18
+sachen	abstrakt	sache	NN	München	1600	FALSE	1		0	1	abstract	0	18
+sachen	abstrakt	sache	NN	München	1600	FALSE	1		0	1	abstract	0	18
+sachen	konkret	sache	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	18
+sachen	konkret	sache	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	18
+sachen	abstrakt	sache	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	18
+sachen	konkret	sache	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	18
+sachen	konkret	sache	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	18
+sachen	konkret	sache	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	18
+sachen	konkret	sache	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	18
+sachen	konkret	sache	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	18
+sachen	konkret	sache	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	18
+Sack	konkret	sack	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	2
+Sack	konkret	sack	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	2
+Sack pfeiffer	menschlich	sackpfeifer	NB	Georgenthal	1597	TRUE	1		1	1	animate	2	2
+Sackhpfeiffer	menschlich	sackpfeifer	NN	Riedlingen	1596	TRUE	0		1	1	animate	2	2
+Sage	abstrakt	sage	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	1
+Sacrament	abstrakt	sakrament	NN	Hamm	1592	TRUE	0		0	1	abstract	0	3
+Sacramente	abstrakt	sakrament	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	3
+Sacrament	abstrakt	sakrament	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	3
+salben	konkret	salbe	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	7
+salbenn	konkret	salbe	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	7
+salben	konkret	salbe	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	7
+Salb	konkret	salbe	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	7
+Salben	konkret	salbe	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	7
+Salb	konkret	salbe	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	7
+Salb	konkret	salbe	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	7
+Sälb- lin	konkret	sälblein	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	1
+saltz	konkret	salz	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	3
+Saltz	konkret	salz	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	3
+Salz	konkret	salz	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	3
+Sambßtag	abstrakt	samstag	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+Sammit	konkret	samt	NN	Jever	1592	TRUE	0		0	1	concrete	1	1
+Sandtman	menschlich	sandmann	NB	Güstrow	1615	TRUE	1	n	1	2	animate	4	1
+Sa- thanß	übermenschlich Teufel	satan	NN	Baden-Baden	1628	TRUE	0	n	0	3	animate	4	10
+Sathanß	übermenschlich Teufel	satan	NN	Baden-Baden	1628	TRUE	0	n	0	3	animate	4	10
+Satan	übermenschlich Teufel	satan	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	10
+Satan	übermenschlich Teufel	satan	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	10
+Satan	übermenschlich Teufel	satan	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	10
+Satan	übermenschlich Teufel	satan	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	10
+Satan	übermenschlich Teufel	satan	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	10
+Satan	übermenschlich Teufel	satan	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	10
+Satan	übermenschlich Teufel	satan	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	10
+Satans	übermenschlich Teufel	satan	NN	Meldorf	1618	TRUE	0	n	0	2	animate	4	10
+Sawen	tierisch	sau	NN	Günzburg	1613	TRUE	0		0	2	animate	2	1
+Saul	konkret	säule	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	1
+Sauställel	konkret	saustall	NN	München	1600	TRUE	1		1	1	concrete	1	1
+schaden	abstrakt	schaden	NN	Alme	1630	FALSE	0		0	3	abstract	0	20
+schaden	abstrakt	schaden	NN	Alme	1630	FALSE	0		0	3	abstract	0	20
+schaden	abstrakt	schaden	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	20
+schaden	abstrakt	schaden	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	20
+schaden	abstrakt	schaden	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	20
+schaden	abstrakt	schaden	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	20
+schaden	abstrakt	schaden	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	20
+schaden	abstrakt	schaden	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	20
+schaden	abstrakt	schaden	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	20
+schaden	abstrakt	schaden	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	20
+schaden	abstrakt	schaden	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	20
+schaden	abstrakt	schaden	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	20
+schaden	abstrakt	schaden	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	20
+schaden	abstrakt	schaden	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	20
+schaden	abstrakt	schaden	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	20
+Schaden	abstrakt	schaden	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	20
+schaden	abstrakt	schaden	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	20
+schaden	abstrakt	schaden	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	20
+schaden	abstrakt	schaden	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	20
+Schaffe	tierisch	schaf	NN	Alme	1630	TRUE	0		0	3	animate	2	2
+schap	tierisch	schaf	NN	Alme	1630	FALSE	0		0	3	animate	2	2
+Scheper	menschlich	schäfer	NB	Alme	1630	TRUE	0	n	0	3	animate	4	2
+schepern	menschlich	schäfer	NB	Alme	1630	FALSE	0	n	0	3	animate	4	2
+Schäfferin	menschlich	schäferin	NB	Rosenburg	1618	TRUE	1	j	0	2	animate	3	4
+Schefferin	menschlich	schäferin	NB	Rosenburg	1618	TRUE	1	j	0	2	animate	3	4
+Schefferin	menschlich	schäferin	NB	Rosenburg	1618	TRUE	1	j	0	2	animate	3	4
+Schefferin	menschlich	schäferin	NB	Rosenburg	1618	TRUE	1	j	0	2	animate	3	4
+schaffhirtin	menschlich	schafhirt	NB	Gaugrehweiler	1610	FALSE	0	n	1	2	animate	4	1
+Schaffmeisterin	menschlich	schafmeister	NB	Rosenburg	1618	TRUE	1	n	1	2	animate	4	4
+Schafmeisterin	menschlich	schafmeister	NB	Rosenburg	1618	TRUE	1	n	1	2	animate	4	4
+Schafmeisterin	menschlich	schafmeister	NB	Rosenburg	1618	TRUE	1	n	1	2	animate	4	4
+Schafmeisterin	menschlich	schafmeister	NB	Rosenburg	1618	TRUE	1	n	1	2	animate	4	4
+Schall	abstrakt	schall	NN	München	1600	TRUE	1		0	1	abstract	0	1
+scherffe	abstrakt	schärfe	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	2
+scherffe	abstrakt	schärfe	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	2
+Scharpff- richter	menschlich	scharfrichter	NB	Lemberg	1630	TRUE	0	n	1	3	animate	4	3
+Scharpffrichtter	menschlich	scharfrichter	NB	Lemberg	1630	TRUE	0	n	1	3	animate	4	3
+Scharpffrichter	menschlich	scharfrichter	NB	Lemberg	1630	TRUE	0	n	1	3	animate	4	3
+schein	abstrakt	schein	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+Schelmb	menschlich	schelm	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	2
+Schelm	menschlich	schelm	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	2
+Schelmenbein	konkret	schelmenbein	NN	Lemberg	1630	TRUE	0		1	3	concrete	1	2
+Schelmen bein	konkret Körperteil	schelmenbein	NN	Lemberg	1630	TRUE	0		1	3	concrete	1	2
+schelmmerey	abstrakt	schelmerei	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	1
+Schencken	menschlich	schenk	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	1
+schenkhel	konkret Körperteil	schenkel	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	4
+Schenckhel	konkret Körperteil	schenkel	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	4
+Schenkhel	konkret Körperteil	schenkel	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	4
+Schenckhelin	konkret Körperteil	schenkel	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	4
+Schenck keller	konkret	schenkkeller	NN	Georgenthal	1597	TRUE	1		1	1	concrete	1	1
+Scherben	konkret	scherbe	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	1
+schilling	abstrakt Maß	schilling	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+schilling	abstrakt Maß	schilling	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+schilling	abstrakt Maß	schilling	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+schilling	abstrakt Maß	schilling	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+schilling	abstrakt Maß	schilling	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+schimpffreden	abstrakt	schimpfrede	NN	Schweinfurt	1616	FALSE	1		1	2	abstract	0	1
+Schirm	konkret	schirm	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	1
+schlägen	abstrakt	schlag	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	4
+schlegenn	abstrakt	schlag	NN	Jever	1592	FALSE	0		0	1	abstract	0	4
+schlag	abstrakt	schlag	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	4
+schlag	abstrakt	schlag	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	4
+schlangen	tierisch	schlange	NN	Perleberg	1588	FALSE	1		0	1	animate	2	3
+schlan gen	tierisch	schlange	NN	Perleberg	1588	FALSE	1		0	1	animate	2	3
+schlangen	tierisch	schlange	NN	Perleberg	1588	FALSE	1		0	1	animate	2	3
+schluese	konkret	schleuse	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	1
+Schlosser	menschlich	schlosser	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	2
+Schlosser	menschlich	schlosser	NB	Bamberg	1628	TRUE	1	n	0	3	animate	4	2
+Schlössl	konkret	schlöszlein	NN	München	1600	TRUE	1		0	1	concrete	1	1
+schmachreden	abstrakt	schmachrede	NN	Günzburg	1613	FALSE	0		1	2	abstract	0	1
+schmertzen	abstrakt	schmerz	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	5
+schmertzen	abstrakt	schmerz	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	5
+schmertzen	abstrakt	schmerz	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	5
+schmertzen	abstrakt	schmerz	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	5
+schmerzen	abstrakt	schmerz	NN	München	1600	FALSE	1		0	1	abstract	0	5
+Schmides	menschlich	schmied	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	1
+schne	konkret	schnee	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	1
+schneider	menschlich	schneider	NB	Georgenthal	1597	FALSE	1	n	0	1	animate	4	1
+Schöpffenn	menschlich	schöffe	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	4
+Schöpffenn	menschlich	schöffe	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	4
+Schöpffen	menschlich	schöffe	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	4
+Schöp-   pen	menschlich	schöffe	NB	Perleberg	1588	TRUE	1	n	0	1	animate	4	4
+Schepper	übermenschlich positiv	schöpfer	NN	Meldorf	1618	TRUE	0		0	2	animate	2	1
+schoppen	konkret	schoppen	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+schoß	konkret Körperteil	schosz	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+schreyen	abstrakt	schrei	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+scho	konkret	schuh	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	3
+scho	konkret	schuh	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	3
+Schue	konkret	schuh	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	3
+schuld	abstrakt	schuld	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	4
+schuldt	abstrakt	schuld	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	4
+schult	abstrakt	schuld	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	4
+schuldt	abstrakt	schuld	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	4
+Schulmeister	menschlich	schulmeister	NB	Georgenthal	1597	TRUE	1	n	1	1	animate	4	2
+Schulmeister	menschlich	schulmeister	NB	Georgenthal	1597	TRUE	1	n	1	1	animate	4	2
+Schuldern	konkret Körperteil	schulter	NN	Jever	1592	TRUE	0		0	1	concrete	1	1
+Schulteren	konkret Körperteil	schultern	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	1
+Schultz	menschlich	schulz	NB	Güstrow	1615	TRUE	1	n	0	2	animate	4	1
+Schultzen	menschlich	schulze	NB	Güstrow	1615	TRUE	1	n	0	2	animate	4	1
+schüssell	konkret	schüssel	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	2
+schossell	konkret	schüssel	NN	Hamm	1592	FALSE	0		0	1	concrete	1	2
+Schuster	menschlich	schuster	NB	Stralsund	1630	TRUE	1	n	0	3	animate	4	1
+schwager	menschlich	schwager	NN	Georgenthal	1597	FALSE	1	n	0	1	animate	4	2
+Swegersche	menschlich	schwager	NN	Jever	1592	TRUE	0	n	0	1	animate	4	2
+schwantz	konkret Körperteil	schwanz	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+Schwede	menschlich	schwede	NN	Stralsund	1630	TRUE	1	n	0	3	animate	4	1
+Schwein	tierisch	schwein	NN	Günzburg	1613	TRUE	0		0	2	animate	2	13
+schweine	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+schweine	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+schweinen	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+schweine	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+schweinen	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+schweine	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+schweinen	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+schweine	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+schweinen	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+schweine	tierisch	schwein	NN	Güstrow	1615	FALSE	1		0	2	animate	2	13
+Schwein	tierisch	schwein	NN	Lemberg	1630	TRUE	0		0	3	animate	2	13
+Schweine	tierisch	schwein	NN	Perleberg	1588	TRUE	1		0	1	animate	2	13
+Schwaiß	konkret	schweisz	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	1
+schweppen	konkret	schweppe	NN	Alme	1630	FALSE	0		0	3	concrete	1	2
+schweppen	konkret	schweppe	NN	Alme	1630	FALSE	0		0	3	concrete	1	2
+Schwester	menschlich	schwester	NN	Alme	1630	TRUE	0	j	0	3	animate	3	7
+Schwester	menschlich	schwester	NN	Alme	1630	TRUE	0	j	0	3	animate	3	7
+schwester	menschlich	schwester	NN	Gaugrehweiler	1610	FALSE	0	j	0	2	animate	3	7
+schwester	menschlich	schwester	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	7
+Swester	menschlich	schwester	NN	Jever	1592	TRUE	0	j	0	1	animate	3	7
+Schwester	menschlich	schwester	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	7
+Schwester	menschlich	schwester	NN	Lemberg	1630	TRUE	0	j	0	3	animate	3	7
+Schwehern	menschlich	schwiegervater	NN	München	1600	TRUE	1	n	0	1	animate	4	1
+Sechßten	abstrakt	sechste	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+Seelen	abstrakt	seele	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	6
+Seelen	abstrakt	seele	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	6
+seelen	abstrakt	seele	NN	Hamm	1592	FALSE	0		0	1	abstract	0	6
+seelen	abstrakt	seele	NN	Hamm	1592	FALSE	0		0	1	abstract	0	6
+Sele	abstrakt	seele	NN	Jever	1592	TRUE	0		0	1	abstract	0	6
+segen	abstrakt	segen	NN	München	1600	FALSE	1		0	1	abstract	0	2
+segen	abstrakt	segen	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	2
+sieden	konkret	seide	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	3
+siede	konkret	seide	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	3
+Seiten	konkret	seide	NN	Jever	1592	TRUE	0		0	1	concrete	1	3
+seiden kleideren	konkret	seidenkleid	NN	Alme	1630	FALSE	0		1	3	concrete	1	1
+seiten	konkret	seite	NN	Alme	1630	FALSE	0		0	3	concrete	1	3
+Seithen	konkret Körperteil	seite	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	3
+seiten	konkret	seite	NN	München	1600	FALSE	1		0	1	concrete	1	3
+selb	menschlich	selb	NN	Alme	1630	FALSE	0		0	3	animate	2	3
+selben	menschlich	selb	NN	Gaugrehweiler	1610	FALSE	0		0	2	animate	2	3
+selben	tierisch	selb	NN	Güstrow	1615	FALSE	1		0	2	animate	2	3
+selbst	menschlich	selbst	NN	Günzburg	1613	FALSE	0		0	2	animate	2	1
+Seelig- keit	abstrakt	seligkeit	NN	Bamberg	1628	TRUE	1		0	3	abstract	0	2
+selicheit	abstrakt	seligkeit	NN	Jever	1592	FALSE	0		0	1	abstract	0	2
+Semmeln	konkret	semmel	NN	Ostrau	1628	TRUE	1		0	3	concrete	1	1
+sessell	konkret	sessel	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+Sibenden	abstrakt	siebente	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	1
+Sichbette	konkret	siechbett	NN	Rosenburg	1618	TRUE	1		0	2	concrete	1	1
+Siechen	menschlich	sieche	NN	München	1600	TRUE	1		0	1	animate	2	1
+Siechtagen	abstrakt	siechtage	NN	München	1600	TRUE	1		0	1	abstract	0	1
+silber kleider	konkret	silberkleid	NN	Stralsund	1630	FALSE	1		1	3	concrete	1	1
+sipen	konkret	sipen	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+sohn	menschlich	sohn	NN	Alme	1630	FALSE	0	n	0	3	animate	4	37
+sohn	menschlich	sohn	NN	Alme	1630	FALSE	0	n	0	3	animate	4	37
+Sohn	menschlich	sohn	NN	Bamberg	1628	TRUE	1	n	0	3	animate	4	37
+Sohn	menschlich	sohn	NN	Gaugrehweiler	1610	TRUE	0	n	0	2	animate	4	37
+sohns	übermenschlich positiv	sohn	NN	Gaugrehweiler	1610	FALSE	0	n	0	2	animate	4	37
+Sohnen	menschlich	sohn	NN	Gaugrehweiler	1610	TRUE	0	n	0	2	animate	4	37
+sohn	menschlich	sohn	NN	Georgenthal	1597	FALSE	1	n	0	1	animate	4	37
+Sohns	übermenschlich positiv	sohn	NN	Güstrow	1615	TRUE	1	n	0	2	animate	4	37
+Sone	menschlich	sohn	NN	Jever	1592	TRUE	0	n	0	1	animate	4	37
+Shuen	menschlich	sohn	NN	Jever	1592	TRUE	0	n	0	1	animate	4	37
+Sone	menschlich	sohn	NN	Jever	1592	TRUE	0	n	0	1	animate	4	37
+Sohne	menschlich	sohn	NN	Jever	1592	TRUE	0	n	0	1	animate	4	37
+Sön	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Sön	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Sönen	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Sön	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Sön	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Söhn	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Sohn	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Söhn	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Söhn	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Sohn	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Söhnen	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Söhn	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Söhn	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Sohn	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Söhn	menschlich	sohn	NN	München	1600	TRUE	1	n	0	1	animate	4	37
+Sohns	menschlich	sohn	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	37
+son	übermenschlich positiv	sohn	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	37
+sons	übermenschlich positiv	sohn	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	37
+Sohn	menschlich	sohn	NN	Rosenburg	1618	TRUE	1	n	0	2	animate	4	37
+Sohn	menschlich	sohn	NN	Rosenburg	1618	TRUE	1	n	0	2	animate	4	37
+Sohn	menschlich	sohn	NN	Rosenburg	1618	TRUE	1	n	0	2	animate	4	37
+sohn	menschlich	sohn	NN	Schweinfurt	1616	FALSE	1	n	0	2	animate	4	37
+sohn	menschlich	sohn	NN	Schweinfurt	1616	FALSE	1	n	0	2	animate	4	37
+sohns	menschlich	sohn	NN	Schweinfurt	1616	FALSE	1	n	0	2	animate	4	37
+Sohnß	übermenschlich positiv	sohn	NN	Stralsund	1630	TRUE	1	n	0	3	animate	4	37
+söngen	menschlich	söhnchen	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	2
+Söngen	menschlich	söhnchen	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	2
+Söhn-  lein	menschlich	söhnlein	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	4
+Söhnlein	menschlich	söhnlein	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	4
+Söhnlein	menschlich	söhnlein	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	4
+Söhnleins	menschlich	söhnlein	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	4
+Soldaten	menschlich	soldat	NN	Stralsund	1630	TRUE	1	n	0	3	animate	4	4
+Soldaten	menschlich	soldat	NB	Stralsund	1630	TRUE	1	n	0	3	animate	4	4
+Soldaten	menschlich	soldat	NB	Stralsund	1630	TRUE	1	n	0	3	animate	4	4
+Soldat	menschlich	soldat	NB	Stralsund	1630	TRUE	1	n	0	3	animate	4	4
+Sommerß	abstrakt	sommer	NN	Jever	1592	TRUE	0		0	1	abstract	0	2
+Sommer	abstrakt	sommer	NN	München	1600	TRUE	1		0	1	abstract	0	2
+sonderlich	menschlich	sonderlich	NN	Perleberg	1588	FALSE	1		0	1	animate	2	1
+Sonabent	abstrakt	sonnabend	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	1
+Sontagh	abstrakt	sonntag	NN	Hamm	1592	TRUE	0		0	1	abstract	0	1
+spalt	konkret	spalt	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	1
+Spengler Arbait	abstrakt	spenglerarbeit	NN	München	1600	TRUE	1		1	1	abstract	0	1
+spill	abstrakt	spiel	NN	Hamm	1592	FALSE	0		0	1	abstract	0	2
+spill	abstrakt	spiel	NN	Hamm	1592	FALSE	0		0	1	abstract	0	2
+Spielman	menschlich	spielmann	NN	Alme	1630	TRUE	0	n	1	3	animate	4	2
+Spielman	menschlich	spielmann	NB	Alme	1630	TRUE	0	n	1	3	animate	4	2
+Spilltisch	konkret	spieltisch	NN	München	1600	TRUE	1		1	1	concrete	1	2
+Spiltisch	konkret	spieltisch	NN	München	1600	TRUE	1		1	1	concrete	1	2
+Spital	konkret	spital	NN	München	1600	TRUE	1		0	1	concrete	1	2
+Spitl	konkret	spital	NN	München	1600	TRUE	1		0	1	concrete	1	2
+Springer	menschlich	springer	NB	Georgenthal	1597	TRUE	1	n	0	1	animate	4	1
+spöer	abstrakt	spur	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	1
+stab	konkret	stab	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+Stadl	konkret	stadel	NN	München	1600	TRUE	1		0	1	concrete	1	4
+Stadl	konkret	stadel	NN	München	1600	TRUE	1		0	1	concrete	1	4
+Stadl	konkret	stadel	NN	München	1600	TRUE	1		0	1	concrete	1	4
+Stadl	konkret	stadel	NN	München	1600	TRUE	1		0	1	concrete	1	4
+Stadlpaurn	menschlich	stadelbauer	NB	München	1600	TRUE	1	n	1	1	animate	4	1
+Statt	konkret	stadt	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	2
+Statt	konkret	stadt	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	2
+Stadtrichter	menschlich	stadtrichter	NB	Ostrau	1628	TRUE	1	n	1	3	animate	4	1
+ställ	konkret	stall	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	8
+ställ	konkret	stall	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	8
+Stalle	konkret	stall	NN	Jever	1592	TRUE	0		0	1	concrete	1	8
+stall	konkret	stall	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	8
+stall	konkret	stall	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	8
+Stall	konkret	stall	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	8
+Stalls	konkret	stall	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	8
+Stall	konkret	stall	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	8
+stallung	konkret	stallung	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	2
+stallung	konkret	stallung	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	2
+stangen	konkret	stange	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	1
+statt	abstrakt	statt	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	1
+stette	konkret Ort	stätte	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	1
+steckhen	konkret	stecken	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	7
+stecken	konkret	stecken	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	7
+steckhen	konkret	stecken	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	7
+steckhen	konkret	stecken	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	7
+steckhen	konkret	stecken	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	7
+steckhen	konkret	stecken	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	7
+steckhen	konkret	stecken	NN	Riedlingen	1596	FALSE	0		0	1	concrete	1	7
+Stein	konkret	stein	NN	Bamberg	1628	TRUE	1		0	3	concrete	1	4
+steine	konkret	stein	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	4
+steine	konkret	stein	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	4
+steinen	konkret	stein	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	4
+Sterben	abstrakt	sterben	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	1
+stert	konkret Körperteil	stert	NN	Alme	1630	FALSE	0		0	3	concrete	1	1
+sterdt	konkret Körperteil	sterz	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	1
+steuweren	abstrakt	steuer	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+Stieff-	menschlich	stiefkind	NN	Baden-Baden	1628	TRUE	0		1	3	animate	2	3
+khindt	menschlich	stiefkind	NN	Baden-Baden	1628	FALSE	0		1	3	animate	2	3
+Stieffkhindt	menschlich	stiefkind	NN	Baden-Baden	1628	TRUE	0		1	3	animate	2	3
+Stiffsohn	menschlich	stiefsohn	NN	Baden-Baden	1628	TRUE	0	n	1	3	animate	4	3
+stieffsohn	menschlich	stiefsohn	NN	Gaugrehweiler	1610	FALSE	0	n	1	2	animate	4	3
+stieffsohn	menschlich	stiefsohn	NN	Gaugrehweiler	1610	FALSE	0	n	1	2	animate	4	3
+stock	konkret	stock	NN	Jever	1592	FALSE	0		0	1	concrete	1	1
+straf	abstrakt	strafe	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+Strassen	konkret	strasse	NN	Hamm	1592	TRUE	0		0	1	concrete	1	1
+Streu	konkret	streu	NN	München	1600	TRUE	1		0	1	concrete	1	2
+Streu	konkret	streu	NN	München	1600	TRUE	1		0	1	concrete	1	2
+strick	konkret	strick	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+stricken	konkret	stricken	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+strho	konkret	stroh	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	1
+Sthrohälmer	konkret	strohhalm	NN	Ostrau	1628	TRUE	1		1	3	concrete	1	2
+Strohalm	konkret	strohhalm	NN	Ostrau	1628	TRUE	1		1	3	concrete	1	2
+stuben	konkret	stube	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	3
+stuben	konkret	stube	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	3
+Stuben	konkret	stube	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	3
+stüblin	konkret	stüblein	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	1
+stuckh	abstrakt Maß	stück	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	8
+stück	konkret	stück	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	8
+stücke	konkret	stück	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	8
+stuck	abstrakt	stück	NN	Hamm	1592	FALSE	0		0	1	abstract	0	8
+stucke	konkret	stück	NN	Jever	1592	FALSE	0		0	1	concrete	1	8
+stucke	konkret	stück	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	8
+stuckh	abstrakt Maß	stück	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	8
+stuckh	abstrakt Maß	stück	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	8
+stuel	konkret	stuhl	NN	Alme	1630	FALSE	0		0	3	concrete	1	3
+Stuell	konkret	stuhl	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	3
+Stuell	konkret	stuhl	NN	Lemberg	1630	TRUE	0		0	3	concrete	1	3
+stundt	abstrakt Maß	stunde	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	3
+stundt	abstrakt Maß	stunde	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	3
+Stunden	abstrakt	stunde	NN	Stralsund	1630	TRUE	1		0	3	abstract	0	3
+Stürtz- lein	konkret	stürzlein	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	1
+stotzen	konkret	stutzen	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	1
+Suder seiten	abstrakt	südseite	NN	Jever	1592	TRUE	0		0	1	abstract	0	1
+tafel	konkret	tafeln	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	1
+tage	abstrakt Maß	tag	NN	Alme	1630	FALSE	0		0	3	abstract	0	33
+tagen	abstrakt Maß	tag	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	33
+tag	abstrakt	tag	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	33
+tag	abstrakt	tag	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	33
+tagen	abstrakt Maß	tag	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	33
+tag	abstrakt	tag	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	33
+tag	abstrakt Maß	tag	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	33
+tag	abstrakt	tag	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	33
+tage	abstrakt Maß	tag	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	33
+tage	abstrakt	tag	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	33
+tagh	abstrakt	tag	NN	Hamm	1592	FALSE	0		0	1	abstract	0	33
+tagh	abstrakt Maß	tag	NN	Hamm	1592	FALSE	0		0	1	abstract	0	33
+tagh	abstrakt	tag	NN	Hamm	1592	FALSE	0		0	1	abstract	0	33
+dage	abstrakt	tag	NN	Jever	1592	FALSE	0		0	1	abstract	0	33
+dage	abstrakt Maß	tag	NN	Jever	1592	FALSE	0		0	1	abstract	0	33
+tag	abstrakt Maß	tag	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	33
+tag	abstrakt	tag	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	33
+tag	abstrakt Maß	tag	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	33
+dage	abstrakt Maß	tag	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	33
+tag	abstrakt	tag	NN	München	1600	FALSE	1		0	1	abstract	0	33
+Tag	abstrakt Maß	tag	NN	München	1600	TRUE	1		0	1	abstract	0	33
+Tagen	abstrakt Maß	tag	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	33
+Tage	abstrakt Maß	tag	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	33
+tagen	abstrakt Maß	tag	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	33
+tag	abstrakt Maß	tag	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	33
+Tage	abstrakt Maß	tag	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	33
+Tagen	abstrakt Maß	tag	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	33
+tage	abstrakt	tag	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	33
+tags	abstrakt	tag	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	33
+tags	abstrakt	tag	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	33
+tag	abstrakt Maß	tag	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	33
+tage	abstrakt Maß	tag	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	33
+tage	abstrakt Maß	tag	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	33
+tage	abstrakt	tagen	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	4
+tage	abstrakt	tagen	NN	Hamm	1592	FALSE	0		0	1	abstract	0	4
+tagen	abstrakt Maß	tagen	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	4
+tag	abstrakt	tagen	NN	Ostrau	1628	FALSE	1		0	3	abstract	0	4
+tantz	abstrakt	tanz	NN	Alme	1630	FALSE	0		0	3	abstract	0	25
+dantz	abstrakt	tanz	NN	Alme	1630	FALSE	0		0	3	abstract	0	25
+dantz	konkret	tanz	NN	Alme	1630	FALSE	0		0	3	concrete	1	25
+dantz	abstrakt	tanz	NN	Alme	1630	FALSE	0		0	3	abstract	0	25
+dantz	abstrakt	tanz	NN	Alme	1630	FALSE	0		0	3	abstract	0	25
+Däntzen	abstrakt	tanz	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	25
+Dantz	abstrakt	tanz	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	25
+tantz	abstrakt	tanz	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	25
+tantz	abstrakt	tanz	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	25
+Tantz	abstrakt	tanz	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	25
+tantz	abstrakt	tanz	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	25
+Tantze	abstrakt	tanz	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	25
+Tantz	abstrakt	tanz	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	25
+Tanz	abstrakt	tanz	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	25
+Tanz	abstrakt	tanz	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	25
+Tänz	abstrakt	tanz	NN	Günzburg	1613	TRUE	0		0	2	abstract	0	25
+dantz	abstrakt	tanz	NN	Jever	1592	FALSE	0		0	1	abstract	0	25
+dantz	abstrakt	tanz	NN	Jever	1592	FALSE	0		0	1	abstract	0	25
+Dantze	abstrakt	tanz	NN	Jever	1592	TRUE	0		0	1	abstract	0	25
+dantze	abstrakt	tanz	NN	Jever	1592	FALSE	0		0	1	abstract	0	25
+dantze	abstrakt	tanz	NN	Jever	1592	FALSE	0		0	1	abstract	0	25
+dantze	abstrakt	tanz	NN	Jever	1592	FALSE	0		0	1	abstract	0	25
+dantz	abstrakt	tanzen	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	2
+dantzplatzen	konkret	tanzplatz	NN	Hamm	1592	FALSE	0		1	1	concrete	1	7
+dantz platzen	konkret	tanzplatz	NN	Hamm	1592	FALSE	0		1	1	concrete	1	7
+Dantz platzen	konkret	tanzplatz	NN	Hamm	1592	TRUE	0		1	1	concrete	1	7
+dantzplatz	konkret	tanzplatz	NN	Hamm	1592	FALSE	0		1	1	concrete	1	7
+dantz platzen	konkret	tanzplatz	NN	Hamm	1592	FALSE	0		1	1	concrete	1	7
+Dandtz platzen	konkret	tanzplatz	NN	Hamm	1592	TRUE	0		1	1	concrete	1	7
+thadt	abstrakt	tat	NN	Alme	1630	FALSE	0		0	3	abstract	0	2
+thatt	abstrakt	tat	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	2
+dhau	konkret	tau	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	1
+thauf	abstrakt	tauf	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	1
+tauff	abstrakt	taufe	NN	München	1600	FALSE	1		0	1	abstract	0	3
+Tauff	abstrakt	taufe	NN	München	1600	TRUE	1		0	1	abstract	0	3
+Tauffe	abstrakt	taufe	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	3
+Tauff	abstrakt	taufname	NN	Ostrau	1628	TRUE	1		1	3	abstract	0	1
+theil	abstrakt	teil	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	6
+deils	abstrakt	teil	NN	Jever	1592	FALSE	0		0	1	abstract	0	6
+deele	abstrakt	teil	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	6
+thailß	abstrakt Maß	teil	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	6
+Theil	abstrakt	teil	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	6
+theil	abstrakt	teil	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	6
+teuffelß	übermenschlich Teufel	teufel	NN	Alme	1630	FALSE	0	n	0	3	animate	4	53
+teufel	übermenschlich Teufel	teufel	NN	Alme	1630	FALSE	0	n	0	3	animate	4	53
+teuffelß	übermenschlich Teufel	teufel	NN	Alme	1630	FALSE	0	n	0	3	animate	4	53
+teüffelß	übermenschlich Teufel	teufel	NN	Alme	1630	FALSE	0	n	0	3	animate	4	53
+Teuffel	übermenschlich Teufel	teufel	NN	Alme	1630	TRUE	0	n	0	3	animate	4	53
+teuffel	übermenschlich Teufel	teufel	NN	Alme	1630	FALSE	0	n	0	3	animate	4	53
+Teuffelß	übermenschlich Teufel	teufel	NN	Alme	1630	TRUE	0	n	0	3	animate	4	53
+teuffel	übermenschlich Teufel	teufel	NN	Alme	1630	FALSE	0	n	0	3	animate	4	53
+Teufel	übermenschlich Teufel	teufel	NN	Alme	1630	TRUE	0	n	0	3	animate	4	53
+teuffelß	übermenschlich Teufel	teufel	NN	Alme	1630	FALSE	0	n	0	3	animate	4	53
+teufeel	übermenschlich Teufel	teufel	NN	Alme	1630	FALSE	0	n	0	3	animate	4	53
+teuffelß	übermenschlich Teufel	teufel	NN	Alme	1630	FALSE	0	n	0	3	animate	4	53
+Teiffels	übermenschlich Teufel	teufel	NN	Baden-Baden	1628	TRUE	0	n	0	3	animate	4	53
+Teüfels	übermenschlich Teufel	teufel	NN	Baden-Baden	1628	TRUE	0	n	0	3	animate	4	53
+teüfel	übermenschlich Teufel	teufel	NN	Bamberg	1628	FALSE	1	n	0	3	animate	4	53
+teüfels	übermenschlich Teufel	teufel	NN	Bamberg	1628	FALSE	1	n	0	3	animate	4	53
+Teufel	übermenschlich Teufel	teufel	NN	Günzburg	1613	TRUE	0	n	0	2	animate	4	53
+teuffels	übermenschlich Teufel	teufel	NN	Hamm	1592	FALSE	0	n	0	1	animate	4	53
+Teuffell	übermenschlich Teufel	teufel	NN	Jever	1592	TRUE	0	n	0	1	animate	4	53
+Teuffell	übermenschlich Teufel	teufel	NN	Jever	1592	TRUE	0	n	0	1	animate	4	53
+Teuffel	übermenschlich Teufel	teufel	NN	Jever	1592	TRUE	0	n	0	1	animate	4	53
+Teuffel	übermenschlich Teufel	teufel	NN	Jever	1592	TRUE	0	n	0	1	animate	4	53
+Teuffels	übermenschlich Teufel	teufel	NN	Lemberg	1630	TRUE	0	n	0	3	animate	4	53
+duuell	übermenschlich Teufel	teufel	NN	Meldorf	1618	FALSE	0	n	0	2	animate	4	53
+duuell	übermenschlich Teufel	teufel	NN	Meldorf	1618	FALSE	0	n	0	2	animate	4	53
+duuell	übermenschlich Teufel	teufel	NN	Meldorf	1618	FALSE	0	n	0	2	animate	4	53
+duuell	übermenschlich Teufel	teufel	NN	Meldorf	1618	FALSE	0	n	0	2	animate	4	53
+duuell	übermenschlich Teufel	teufel	NN	Meldorf	1618	FALSE	0	n	0	2	animate	4	53
+duuell	übermenschlich Teufel	teufel	NN	Meldorf	1618	FALSE	0	n	0	2	animate	4	53
+Teuffel	übermenschlich Teufel	teufel	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	53
+Teuffels	übermenschlich Teufel	teufel	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	53
+Teuffels	übermenschlich Teufel	teufel	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	53
+Teuffel	übermenschlich Teufel	teufel	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	53
+Teuffel	übermenschlich Teufel	teufel	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	53
+Teuffels	übermenschlich Teufel	teufel	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	53
+Teuffel	übermenschlich Teufel	teufel	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	53
+Teuffels	übermenschlich Teufel	teufel	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	53
+Teuffel	übermenschlich Teufel	teufel	NN	Ostrau	1628	TRUE	1	n	0	3	animate	4	53
+teufel	übermenschlich Teufel	teufel	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	53
+teuffel	übermenschlich Teufel	teufel	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	53
+teuffel	übermenschlich Teufel	teufel	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	53
+teuffel	übermenschlich Teufel	teufel	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	53
+teuffels	übermenschlich Teufel	teufel	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	53
+teufel	übermenschlich Teufel	teufel	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	53
+teuffel	übermenschlich Teufel	teufel	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	53
+Teüffels	übermenschlich Teufel	teufel	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	53
+Teüffel	übermenschlich Teufel	teufel	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	53
+Teüffel	übermenschlich Teufel	teufel	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	53
+Teüffel	übermenschlich Teufel	teufel	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	53
+Teüffels	übermenschlich Teufel	teufel	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	53
+Teüffels	übermenschlich Teufel	teufel	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	53
+Teüffels	übermenschlich Teufel	teufel	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	53
+Teüffels	übermenschlich Teufel	teufel	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	53
+teufels be trukg	abstrakt	teufelsbetrug	NN	Stralsund	1630	FALSE	1		1	3	abstract	0	1
+Teufelß kraut	konkret	teufelskraut	NN	Alme	1630	TRUE	0		1	3	concrete	1	2
+teuffelß kraut	konkret	teufelskraut	NN	Alme	1630	FALSE	0		1	3	concrete	1	2
+teuffelß kunst	abstrakt	teufelskunst	NN	Alme	1630	FALSE	0		1	3	abstract	0	1
+Teuffels nahmen	übermenschlich Teufel	teufelsname	NN	Lemberg	1630	TRUE	0	n	1	3	animate	4	1
+Teuffelß dantz	abstrakt	teufelstanz	NN	Alme	1630	TRUE	0		1	3	abstract	0	7
+Teuffelß dantz	abstrakt	teufelstanz	NN	Alme	1630	TRUE	0		1	3	abstract	0	7
+Teufelß dantz	abstrakt	teufelstanz	NN	Alme	1630	TRUE	0		1	3	abstract	0	7
+Teuffelßdantz	abstrakt	teufelstanz	NN	Alme	1630	TRUE	0		1	3	abstract	0	7
+Teuffelßdantz	abstrakt	teufelstanz	NN	Alme	1630	TRUE	0		1	3	abstract	0	7
+teufelßdantz	abstrakt	teufelstanz	NN	Alme	1630	FALSE	0		1	3	abstract	0	7
+teufelß dantz	abstrakt	teufelstanz	NN	Alme	1630	FALSE	0		1	3	abstract	0	7
+teüflin	übermenschlich Teufel	teuflin	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	1
+thaler	konkret	thaler	NN	Alme	1630	FALSE	0		0	3	concrete	1	4
+Thaler	konkret	thaler	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	4
+Taler	konkret	thaler	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	4
+Thaler	konkret	thaler	NN	Rosenburg	1618	TRUE	1		0	2	concrete	1	4
+thuren	konkret	tür	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	12
+thuren	konkret	tür	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	12
+thuer	konkret	tür	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	12
+tisch	konkret	tisch	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	7
+Tisch	konkret	tisch	NN	Georgenthal	1597	TRUE	1		0	1	concrete	1	7
+disch	konkret	tisch	NN	Hamm	1592	FALSE	0		0	1	concrete	1	7
+disch	konkret	tisch	NN	Hamm	1592	FALSE	0		0	1	concrete	1	7
+disch	konkret	tisch	NN	Hamm	1592	FALSE	0		0	1	concrete	1	7
+Tisch	konkret	tisch	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	7
+Tochter	menschlich	tochter	NN	Alme	1630	TRUE	0	j	0	3	animate	3	33
+tochtern	menschlich	tochter	NN	Alme	1630	FALSE	0	j	0	3	animate	3	33
+tochter	menschlich	tochter	NN	Alme	1630	FALSE	0	j	0	3	animate	3	33
+Tochter	menschlich	tochter	NN	Alme	1630	TRUE	0	j	0	3	animate	3	33
+thochter	menschlich	tochter	NN	Alme	1630	FALSE	0	j	0	3	animate	3	33
+tochter	menschlich	tochter	NN	Alme	1630	FALSE	0	j	0	3	animate	3	33
+döchter	menschlich	tochter	NN	Baden-Baden	1628	FALSE	0	j	0	3	animate	3	33
+dochter	menschlich	tochter	NN	Baden-Baden	1628	FALSE	0	j	0	3	animate	3	33
+tochter	menschlich	tochter	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	33
+tochter	menschlich	tochter	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	33
+Töchter	menschlich	tochter	NN	Georgenthal	1597	TRUE	1	j	0	1	animate	3	33
+tochtere	menschlich	tochter	NN	Güstrow	1615	FALSE	1	j	0	2	animate	3	33
+dochter	menschlich	tochter	NN	Jever	1592	FALSE	0	j	0	1	animate	3	33
+Dochter	menschlich	tochter	NN	Jever	1592	TRUE	0	j	0	1	animate	3	33
+Dochter	menschlich	tochter	NN	Jever	1592	TRUE	0	j	0	1	animate	3	33
+dochtern	menschlich	tochter	NN	Jever	1592	FALSE	0	j	0	1	animate	3	33
+dochter	menschlich	tochter	NN	Jever	1592	FALSE	0	j	0	1	animate	3	33
+Dochter	menschlich	tochter	NN	Jever	1592	TRUE	0	j	0	1	animate	3	33
+Dochter	menschlich	tochter	NN	Jever	1592	TRUE	0	j	0	1	animate	3	33
+Dochter	menschlich	tochter	NN	Jever	1592	TRUE	0	j	0	1	animate	3	33
+dochter	menschlich	tochter	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	33
+dochter	menschlich	tochter	NN	Meldorf	1618	FALSE	0	j	0	2	animate	3	33
+tochter	menschlich	tochter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	33
+tochter	menschlich	tochter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	33
+tochter	menschlich	tochter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	33
+tochter	menschlich	tochter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	33
+tochter	menschlich	tochter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	33
+tochter	menschlich	tochter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	33
+tochter	menschlich	tochter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	33
+tochter	menschlich	tochter	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	33
+Tochter	menschlich	tochter	NN	Riedlingen	1596	TRUE	0	j	0	1	animate	3	33
+tochter	menschlich	tochter	NN	Rosenburg	1618	FALSE	1	j	0	2	animate	3	33
+dochtergen	menschlich	töchterchen	NN	Hamm	1592	FALSE	0	j	0	1	animate	3	1
+tochterman	menschlich	tochtermann	NN	Perleberg	1588	FALSE	1		0	1	animate	2	1
+Thodes	abstrakt	tod	NN	Güstrow	1615	TRUE	1		0	2	abstract	0	10
+Thodas	abstrakt	tod	NN	Güstrow	1615	TRUE	1		0	2	abstract	0	10
+thodt	abstrakt	tod	NN	Hamm	1592	FALSE	0		0	1	abstract	0	10
+dode	abstrakt	tod	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	10
+Todt	abstrakt	tod	NN	München	1600	TRUE	1		0	1	abstract	0	10
+Thode	abstrakt	tod	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	10
+Todt	abstrakt	tod	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	10
+Tod	abstrakt	tod	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	10
+Tod	abstrakt	tod	NN	Riedlingen	1596	TRUE	0		0	1	abstract	0	10
+todte	abstrakt	tod	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	10
+Todtschläg	abstrakt	todschlag	NN	Baden-Baden	1628	TRUE	0		1	3	abstract	0	1
+topff	konkret	topf	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	3
+topff	konkret	topf	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	3
+topff	konkret	topf	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	3
+topffe	konkret	topfen	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	1
+topffers	menschlich	töpfer	NB	Perleberg	1588	FALSE	1	n	0	1	animate	4	1
+Thor	konkret	tor	NN	Günzburg	1613	TRUE	0		0	2	concrete	1	2
+Thor	konkret	tor	NN	München	1600	TRUE	1		0	1	concrete	1	2
+Torffsoden	konkret	torfsode	NN	Meldorf	1618	TRUE	0		0	2	concrete	1	1
+tortur	abstrakt	tortur	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	8
+Tortur	abstrakt	tortur	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	8
+Tortur	abstrakt	tortur	NN	Georgenthal	1597	TRUE	1		0	1	abstract	0	8
+tortur	abstrakt	tortur	NN	Hamm	1592	FALSE	0		0	1	abstract	0	8
+tortur	abstrakt	tortur	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	8
+tortur	abstrakt	tortur	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	8
+tortur	abstrakt	tortur	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	8
+threnen	konkret	träne	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	2
+tranckh	konkret	trank	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	6
+tranck	konkret	trank	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	6
+tranck	konkret	trank	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	6
+tranckh	konkret	trank	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	6
+tranck	konkret	trank	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	6
+trancks	konkret	trank	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	6
+trincken	abstrakt	trinken	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	1
+tritt	abstrakt Maß	tritt	NN	Jever	1592	FALSE	0		0	1	abstract	0	1
+Trummenschleger	menschlich	trommelschläger	NB	Jever	1592	TRUE	0	n	1	1	animate	4	3
+Trum- menschleger	menschlich	trommelschläger	NB	Jever	1592	TRUE	0	n	1	1	animate	4	3
+Trummenschleger	menschlich	trommelschläger	NB	Jever	1592	TRUE	0	n	1	1	animate	4	3
+trunck	konkret	trunk	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	1
+dugh	konkret	tuch	NN	Hamm	1592	FALSE	0		0	1	concrete	1	2
+tuchs	konkret	tuch	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	2
+düchlein	konkret	tüchlein	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	1
+that	abstrakt	tun	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	1
+thüren	konkret	tür	NN	Baden-Baden	1628	FALSE	0		0	3	concrete	1	12
+thüer	konkret	tür	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	12
+dhure	konkret	tür	NN	Hamm	1592	FALSE	0		0	1	concrete	1	12
+dhur	konkret	tür	NN	Hamm	1592	FALSE	0		0	1	concrete	1	12
+thur	konkret	tür	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	12
+thure	konkret	tür	NN	Perleberg	1588	FALSE	1		0	1	concrete	1	12
+Thuer	konkret	tür	NN	Rosenburg	1618	TRUE	1		0	2	concrete	1	12
+thür	konkret	tür	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	12
+Rbel	abstrakt	übel	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	3
+übel	abstrakt	übel	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	3
+übelß	abstrakt	übel	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	3
+überig	abstrakt	übrig	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	2
+Rbrige	abstrakt	übrig	NN	Schweinfurt	1616	TRUE	1		0	2	abstract	0	2
+Ordell	abstrakt	urtheil	NN	Meldorf	1618	TRUE	0		0	2	abstract	0	1
+fürwandt	abstrakt	vorwand	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+Wax	konkret	wachs	NN	Günzburg	1613	TRUE	0		0	2	concrete	1	2
+Wax	konkret	wachs	NN	Günzburg	1613	TRUE	0		0	2	concrete	1	2
+waxstockh	konkret	wachsstock	NN	Günzburg	1613	FALSE	0		1	2	concrete	1	1
+Wächter	menschlich	wächter	NB	Gaugrehweiler	1610	TRUE	0	n	0	2	animate	4	1
+wagen	konkret	wagen	NN	Hamm	1592	FALSE	0		0	1	concrete	1	1
+warhait	abstrakt	wahrheit	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	6
+warheit	abstrakt	wahrheit	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	6
+wahr- heit	abstrakt	wahrheit	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	6
+warheit	abstrakt	wahrheit	NN	Jever	1592	FALSE	0		0	1	abstract	0	6
+warheit	abstrakt	wahrheit	NN	Jever	1592	FALSE	0		0	1	abstract	0	6
+warheit	abstrakt	wahrheit	NN	München	1600	FALSE	1		0	1	abstract	0	6
+warheits grundt	abstrakt	wahrheitsgrund	NN	Stralsund	1630	FALSE	1		1	3	abstract	0	1
+war- seger	menschlich	wahrsager	NB	München	1600	FALSE	1	n	1	1	animate	4	1
+wahrzeichen	konkret	wahrzeichen	NN	Georgenthal	1597	FALSE	1		1	1	concrete	1	1
+wammest	konkret	wams	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	2
+wammest	konkret	wams	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	2
+wandell	abstrakt	wandel	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	1
+wanckel	abstrakt	wankel	NN	Jever	1592	FALSE	0		0	1	abstract	0	1
+Wesch	konkret	wäsche	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	1
+wasenmaister	menschlich	wasenmeister	NB	Günzburg	1613	FALSE	0	n	1	2	animate	4	1
+wasser	konkret	wasser	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	5
+wasser	konkret	wasser	NN	Günzburg	1613	FALSE	0		0	2	concrete	1	5
+Waßer	konkret	wasser	NN	Ostrau	1628	TRUE	1		0	3	concrete	1	5
+waßer	konkret	wasser	NN	Ostrau	1628	FALSE	1		0	3	concrete	1	5
+Wasser	konkret	wasser	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	5
+Waßergraben	konkret	wassergraben	NN	Ostrau	1628	TRUE	1		1	3	concrete	1	1
+weber	menschlich	weber	NB	Georgenthal	1597	FALSE	1	n	0	1	animate	4	2
+weber	menschlich	weber	NB	München	1600	FALSE	1	n	0	1	animate	4	2
+Wö- berin	menschlich	weberin	NB	Baden-Baden	1628	TRUE	0	j	0	3	animate	3	1
+wegk	konkret	weg	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	8
+wege	konkret	weg	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	8
+wege	konkret	weg	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	8
+weg	abstrakt	weg	NN	München	1600	FALSE	1		0	1	abstract	0	8
+wege	abstrakt	weg	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	8
+wegk	konkret	weg	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	8
+wege	abstrakt	weg	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	8
+wehe klagenn	abstrakt	wehklagen	NN	Georgenthal	1597	FALSE	1		1	1	abstract	0	1
+wedage	abstrakt	wehtag	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	4
+wedage	abstrakt	wehtag	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	4
+wedage	abstrakt	wehtag	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	4
+wedage	abstrakt	wehtag	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	4
+weib	menschlich	weib	NN	Alme	1630	FALSE	0	j	0	3	animate	3	47
+weib	menschlich	weib	NN	Alme	1630	FALSE	0	j	0	3	animate	3	47
+Weib	menschlich	weib	NN	Georgenthal	1597	TRUE	1	j	0	1	animate	3	47
+weibe	menschlich	weib	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	47
+weiber	menschlich	weib	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	47
+weiber	menschlich	weib	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	47
+weiber	menschlich	weib	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	Günzburg	1613	FALSE	0	j	0	2	animate	3	47
+weib	menschlich	weib	NN	Güstrow	1615	FALSE	1	j	0	2	animate	3	47
+weib	menschlich	weib	NN	Güstrow	1615	FALSE	1	j	0	2	animate	3	47
+weibe	menschlich	weib	NN	Güstrow	1615	FALSE	1	j	0	2	animate	3	47
+weiber	menschlich	weib	NN	Jever	1592	FALSE	0	j	0	1	animate	3	47
+weib	menschlich	weib	NN	Jever	1592	FALSE	0	j	0	1	animate	3	47
+weib	menschlich	weib	NN	Jever	1592	FALSE	0	j	0	1	animate	3	47
+weib	menschlich	weib	NN	Jever	1592	FALSE	0	j	0	1	animate	3	47
+weiber	menschlich	weib	NN	Jever	1592	FALSE	0	j	0	1	animate	3	47
+Wiben	menschlich	weib	NN	Meldorf	1618	TRUE	0	j	0	2	animate	3	47
+Wiben	menschlich	weib	NN	Meldorf	1618	TRUE	0	j	0	2	animate	3	47
+Wibe	menschlich	weib	NN	Meldorf	1618	TRUE	0	j	0	2	animate	3	47
+Wiben	menschlich	weib	NN	Meldorf	1618	TRUE	0	j	0	2	animate	3	47
+weyb	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weyb	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weyb	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weyb	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weyb	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weyb	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weyb	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weyb	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+weib	menschlich	weib	NN	München	1600	FALSE	1	j	0	1	animate	3	47
+Weib	menschlich	weib	NN	Ostrau	1628	TRUE	1	j	0	3	animate	3	47
+weiber	menschlich	weib	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	47
+Weib	menschlich	weib	NN	Riedlingen	1596	TRUE	0	j	0	1	animate	3	47
+weib	menschlich	weib	NN	Rosenburg	1618	FALSE	1	j	0	2	animate	3	47
+weib	menschlich	weib	NN	Rosenburg	1618	FALSE	1	j	0	2	animate	3	47
+Witbe	menschlich	weib	NN	Rosenburg	1618	TRUE	1	j	0	2	animate	3	47
+weib	menschlich	weib	NN	Rosenburg	1618	FALSE	1	j	0	2	animate	3	47
+weibe	menschlich	weib	NN	Stralsund	1630	FALSE	1	j	0	3	animate	3	47
+weibsbildt	menschlich	weibsbild	NN	Bamberg	1628	FALSE	1	j	1	3	animate	3	2
+Weibes Bilde	menschlich	weibsbild	NN	Ostrau	1628	TRUE	1	j	1	3	animate	3	2
+weibs Persohnen	menschlich	weibsperson	NN	Günzburg	1613	FALSE	0	j	1	2	animate	3	2
+Weibßperson	menschlich	weibsperson	NN	Riedlingen	1596	TRUE	0	j	1	1	animate	3	2
+waide	konkret	weide	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	2
+weiden	konkret	weide	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	2
+weilen	abstrakt	weile	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	5
+weill	abstrakt	weile	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	5
+weil	abstrakt	weile	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	5
+weill	abstrakt	weile	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	5
+weil	abstrakt	weile	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	5
+Wein	konkret	wein	NN	Baden-Baden	1628	TRUE	0		0	3	concrete	1	8
+wein	konkret	wein	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	8
+wein	konkret	wein	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	8
+wein	konkret	wein	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	8
+wein	konkret	wein	NN	Georgenthal	1597	FALSE	1		0	1	concrete	1	8
+wein	konkret	wein	NN	Lemberg	1630	FALSE	0		0	3	concrete	1	8
+wein	konkret	wein	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	8
+wein	konkret	wein	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	8
+weinen	abstrakt	weinen	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	3
+weinhan	konkret	weinhahn	NN	Georgenthal	1597	FALSE	1		1	1	concrete	1	1
+weiß	abstrakt	weise	NN	Günzburg	1613	FALSE	0		0	2	abstract	0	5
+weise	abstrakt	weise	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	5
+weiß	abstrakt	weise	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+weiß	abstrakt	weise	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+weiß gelt	konkret	weiszgeld	NN	Riedlingen	1596	FALSE	0		1	1	concrete	1	1
+Welt	abstrakt	welt	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	4
+wellt	abstrakt	welt	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	4
+werlt	konkret	welt	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	4
+Welt	abstrakt	welt	NN	Ostrau	1628	TRUE	1		0	3	abstract	0	4
+werkh	abstrakt	werk	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	7
+werck	abstrakt	werk	NN	Georgenthal	1597	FALSE	1		0	1	abstract	0	7
+wercke	abstrakt	werk	NN	Jever	1592	FALSE	0		0	1	abstract	0	7
+werck	abstrakt	werk	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	7
+wergk	abstrakt	werk	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	7
+werck	abstrakt	werk	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	7
+werck	abstrakt	werk	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	7
+wehr- wulffe	menschlich	werwolf	NN	Alme	1630	FALSE	0	n	0	3	animate	4	2
+wehrwulffin	menschlich	werwolf	NN	Alme	1630	FALSE	0	n	0	3	animate	4	2
+Wetther	abstrakt	wetter	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	4
+Wetthern	abstrakt	wetter	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	4
+Wetthern	abstrakt	wetter	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	4
+Wetter	abstrakt	wetter	NN	Hamm	1592	TRUE	0		0	1	abstract	0	4
+wiederstandt	abstrakt	widerstand	NN	Hamm	1592	FALSE	0		1	1	abstract	0	1
+wiesenn	konkret	wiese	NN	Gaugrehweiler	1610	FALSE	0		0	2	concrete	1	2
+Wisen	konkret Ort	wiese	NN	Riedlingen	1596	TRUE	0		0	1	concrete	1	2
+Willen	abstrakt	willen	NN	Hamm	1592	TRUE	0		0	1	abstract	0	6
+willen	abstrakt	willen	NN	Lemberg	1630	FALSE	0		0	3	abstract	0	6
+willen	abstrakt	willen	NN	München	1600	FALSE	1		0	1	abstract	0	6
+willen	abstrakt	willen	NN	Riedlingen	1596	FALSE	0		0	1	abstract	0	6
+willens	abstrakt	willen	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	6
+willen	abstrakt	willen	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	6
+windt	abstrakt	wind	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	5
+Windt	abstrakt	wind	NN	Hamm	1592	TRUE	0		0	1	abstract	0	5
+windt	abstrakt	wind	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	5
+windt	abstrakt	wind	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	5
+winter	abstrakt	winter	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	2
+wintter	abstrakt	winter	NN	München	1600	FALSE	1		0	1	abstract	0	2
+winterß zeit	abstrakt	winterzeit	NN	Jever	1592	FALSE	0		1	1	abstract	0	1
+wintzers	menschlich	winzer	NB	Rosenburg	1618	FALSE	1	n	0	2	animate	4	1
+wirtten	menschlich	wirt	NB	Georgenthal	1597	FALSE	1	n	0	1	animate	4	5
+wirtten	menschlich	wirt	NB	Georgenthal	1597	FALSE	1	n	0	1	animate	4	5
+wirtt	menschlich	wirt	NB	Georgenthal	1597	FALSE	1	n	0	1	animate	4	5
+wiert	menschlich	wirt	NB	München	1600	FALSE	1	n	0	1	animate	4	5
+wiert	menschlich	wirt	NB	München	1600	FALSE	1	n	0	1	animate	4	5
+Wirtin	menschlich	wirtin	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	1
+wirtshaus	konkret	wirtshaus	NN	Schweinfurt	1616	FALSE	1		1	2	concrete	1	1
+wissens	abstrakt	wissen	NN	München	1600	FALSE	1		0	1	abstract	0	2
+wissens	abstrakt	wissen	NN	München	1600	FALSE	1		0	1	abstract	0	2
+wißenschafft	abstrakt	wissenschaft	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	2
+wißenschafft	abstrakt	wissenschaft	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	2
+Wittib	menschlich	witwe	NN	Baden-Baden	1628	TRUE	0	j	0	3	animate	3	13
+wittib	menschlich	witwe	NN	Bamberg	1628	FALSE	1	j	0	3	animate	3	13
+wittib	menschlich	witwe	NN	Günzburg	1613	FALSE	0	j	0	2	animate	3	13
+Wittib	menschlich	witwe	NN	Riedlingen	1596	TRUE	0	j	0	1	animate	3	13
+witib	menschlich	witwe	NN	Schweinfurt	1616	FALSE	1	j	0	2	animate	3	13
+Wittib	menschlich	witwe	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	13
+widtwe	menschlich	witwe	NN	Georgenthal	1597	FALSE	1	j	0	1	animate	3	13
+witwe	menschlich	witwe	NN	Güstrow	1615	FALSE	1	j	0	2	animate	3	13
+widttwen	menschlich	witwe	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	13
+widtwe	menschlich	witwe	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	13
+widtwe	menschlich	witwe	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	13
+Witwe	menschlich	witwe	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	13
+Witwe	menschlich	witwe	NN	Schweinfurt	1616	TRUE	1	j	0	2	animate	3	13
+wochen	abstrakt Maß	woche	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	10
+wochen	abstrakt Maß	woche	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	10
+wochen	abstrakt Maß	woche	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	10
+wochen	abstrakt Maß	woche	NN	München	1600	FALSE	1		0	1	abstract	0	10
+wochen	abstrakt Maß	woche	NN	München	1600	FALSE	1		0	1	abstract	0	10
+wochen	abstrakt Maß	woche	NN	München	1600	FALSE	1		0	1	abstract	0	10
+wochen	abstrakt Maß	woche	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	10
+wochen	abstrakt	woche	NN	Schweinfurt	1616	FALSE	1		0	2	abstract	0	10
+wochen	abstrakt Maß	woche	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	10
+wochen	abstrakt Maß	woche	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	10
+wörtter	abstrakt	wort	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	15
+wörtter	abstrakt	wort	NN	Bamberg	1628	FALSE	1		0	3	abstract	0	15
+wortten	abstrakt	wort	NN	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	15
+wortten	abstrakt	wort	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	15
+worth	abstrakt	wort	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	15
+wortte	abstrakt	wort	NN	Jever	1592	FALSE	0		0	1	abstract	0	15
+wort	abstrakt	wort	NN	München	1600	FALSE	1		0	1	abstract	0	15
+wortten	abstrakt	wort	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	15
+wortt	abstrakt	wort	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	15
+wortt	abstrakt	wort	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	15
+wortten	abstrakt	wort	NN	Perleberg	1588	FALSE	1		0	1	abstract	0	15
+wort	abstrakt	wort	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	15
+wort	abstrakt	wort	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	15
+worten	abstrakt	wort	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	15
+wortt	abstrakt	wort	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	15
+worth	abstrakt	worth	NN	Güstrow	1615	FALSE	1		0	2	abstract	0	1
+wrake	konkret Kollektivum	wracke	NN	Güstrow	1615	FALSE	1		0	2	concrete	1	1
+wunden	konkret	wunde	NN	Stralsund	1630	FALSE	1		0	3	concrete	1	1
+wunsch	abstrakt	wunsch	NN	Rosenburg	1618	FALSE	1		0	2	abstract	0	2
+Wunsch	abstrakt	wunsch	NN	Rosenburg	1618	TRUE	1		0	2	abstract	0	2
+wurmb	tierisch	wurm	NN	Rosenburg	1618	FALSE	1		0	2	animate	2	2
+wurmb	tierisch	wurm	NN	Rosenburg	1618	FALSE	1		0	2	animate	2	2
+wurtzel	konkret	wurzel	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	1
+töuerie	abstrakt	zauberei	NN	Meldorf	1618	FALSE	0		0	2	abstract	0	1
+samenkunfft	abstrakt	zusammenkunft	NN	Hamm	1592	FALSE	0		0	1	abstract	0	1
+tho kiker	menschlich	zuschauer	NN	Meldorf	1618	FALSE	0	n	0	2	animate	4	1
+dwerg	menschlich	zwerg	NN	Perleberg	1588	FALSE	1	n	0	1	animate	4	1
+dwergin	menschlich	zwergin	NN	Perleberg	1588	FALSE	1	j	0	1	animate	3	1
+Jahren	abstrakt Maß	jahr	NN	Baden-Baden	1628	TRUE	0		0	3	abstract	0	79
+andern	abstrakt	ander	NN&lt;ADJ	Baden-Baden	1628	FALSE	0		0	3	abstract	0	10
+laügnen	abstrakt	leugnen	NN&lt;VINF	Baden-Baden	1628	FALSE	0		0	3	abstract	0	1
+bedacht	abstrakt	bedacht	NN&lt;VINF	Baden-Baden	1628	FALSE	0		0	3	abstract	0	1
+esßen	abstrakt	essen	NN&lt;VINF	Baden-Baden	1628	FALSE	0		0	3	abstract	0	2
+Esßen	abstrakt	essen	NN&lt;VINF	Baden-Baden	1628	TRUE	0		0	3	abstract	0	2
+springen	abstrakt	springen	NN&lt;VINF	Baden-Baden	1628	FALSE	0		0	3	abstract	0	1
+dantzen	abstrakt	tanzen	NN&lt;VINF	Baden-Baden	1628	FALSE	0		0	3	abstract	0	2
+däntzen	abstrakt	tanz	NN&lt;VINF	Baden-Baden	1628	FALSE	0		0	3	abstract	0	25
+anderst	abstrakt	ander	NN&lt;ADJ	Baden-Baden	1628	FALSE	0		0	3	abstract	0	10
+däntzen	abstrakt	tanz	NN&lt;ADJ	Baden-Baden	1628	FALSE	0		0	3	abstract	0	25
+däntzen	abstrakt	tanz	NN&lt;ADJ	Baden-Baden	1628	FALSE	0		0	3	abstract	0	25
+weiß	abstrakt	weise	NN	Baden-Baden	1628	FALSE	0		0	3	abstract	0	5
+weiters	abstrakt	weiter	NN&lt;ADJ	Baden-Baden	1628	FALSE	0		0	3	abstract	0	1
+doctor	menschlich	doctor	NB	Bamberg	1628	FALSE	1	n	0	3	animate	4	14
+betrohen	abstrakt	bedrohen	NN&lt;VINF	Bamberg	1628	FALSE	1		0	3	abstract	0	1
+kirchen	konkret	kirche	NN	Bamberg	1628	FALSE	1		0	3	concrete	1	5
+Ammen	menschlich	amme	NN	Gaugrehweiler	1610	TRUE	0	j	0	2	animate	3	4
+schaden	abstrakt	schaden	NN&lt;VINF	Gaugrehweiler	1610	FALSE	0		0	2	abstract	0	20
+Geist	menschlich	geist	NN	Georgenthal	1597	TRUE	1		0	1	animate	2	35
+reden	abstrakt	reden	NN&lt;VINF	Günzburg	1613	FALSE	0		0	2	abstract	0	5
+anrüeren	abstrakt	anrühren	NN&lt;VINF	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+reden	abstrakt	reden	NN&lt;VINF	Günzburg	1613	FALSE	0		0	2	abstract	0	5
+dreyzehendt	abstrakt	dreizehnte	NN&lt;CARD	Günzburg	1613	FALSE	0		0	2	abstract	0	1
+reden	abstrakt	reden	NN&lt;VINF	Günzburg	1613	FALSE	0		0	2	abstract	0	5
+ge- ringste	abstrakt	gering	NN&lt;ADJ	Günzburg	1613	FALSE	0		0	2	abstract	0	4
+andern	abstrakt	ander	NN&lt;ADJ	Günzburg	1613	FALSE	0		0	2	abstract	0	10
+Erkhendtnuß	abstrakt	erkenntnis	NN	Hamm	1592	TRUE	0		0	1	abstract	0	5
+tortur	abstrakt	tortur	NN	Hamm	1592	FALSE	0		0	1	abstract	0	8
+Jharn	abstrakt Maß	jahr	NN	Hamm	1592	TRUE	0		0	1	abstract	0	79
+Mann	menschlich	mann	NN	Hamm	1592	TRUE	0	n	0	1	animate	4	40
+bauwren	menschlich	bauer	NB	Hamm	1592	FALSE	0	n	0	1	animate	4	9
+bock	tierisch	bock	NN	Hamm	1592	FALSE	0		0	1	animate	2	4
+danttz platzen	konkret	tanzplatz	NN	Hamm	1592	FALSE	0		1	1	concrete	1	7
+arsch	konkret Körperteil	arsch	NN	Hamm	1592	FALSE	0		0	1	concrete	1	2
+sehende	menschlich	sehen	NN&lt;VPART	Hamm	1592	FALSE	0		0	1	animate	2	1
+Jharn	abstrakt Maß	jahr	NN	Hamm	1592	TRUE	0		0	1	abstract	0	79
+Jharen	abstrakt Maß	jahr	NN	Hamm	1592	TRUE	0		0	1	abstract	0	79
+Windt	abstrakt	wind	NN	Hamm	1592	TRUE	0		0	1	abstract	0	5
+khindts	menschlich	kind	NN	Hamm	1592	FALSE	0		0	1	animate	2	31
+dhure	konkret	tür	NN	Hamm	1592	FALSE	0		0	1	concrete	1	12
+disch	konkret	tisch	NN	Hamm	1592	FALSE	0		0	1	concrete	1	7
+Reichen	menschlich	reichen	NN&lt;ADJ	Hamm	1592	TRUE	0		0	1	animate	2	1
+Seeen	abstrakt	seele	NN	Hamm	1592	TRUE	0		0	1	abstract	0	6
+obersten	menschlich	oberster	NB	Hamm	1592	FALSE	0	j	0	1	animate	3	4
+außpleibens	abstrakt	ausbleiben	NN&lt;VINF	Lemberg	1630	FALSE	0		0	3	abstract	0	1
+podt	konkret	pott	NN	Meldorf	1618	FALSE	0		0	2	concrete	1	3
+bösst	abstrakt	bös	NN&lt;ADJ	München	1600	FALSE	1		0	1	abstract	0	2
+erzaigens	abstrakt	erzeigen	NN&lt;VINF	München	1600	FALSE	1		0	1	abstract	0	1
+beß	abstrakt	böse	NN&lt;ADJ	München	1600	FALSE	1		0	1	abstract	0	8
+Reckhen	abstrakt	recken	NN&lt;VINF	München	1600	TRUE	1		0	1	abstract	0	1
+füeß	konkret Körperteil	fusz	NN	München	1600	FALSE	1		0	1	concrete	1	14
+dreyen	menschlich	drei	NN&lt;CARD	München	1600	FALSE	1		0	1	animate	2	2
+beß	abstrakt	böse	NN&lt;ADJ	München	1600	FALSE	1		0	1	abstract	0	8
+Buhle	übermenschlich Teufel	buhle	NN	Ostrau	1628	TRUE	1	j	0	3	animate	3	45
+tochter	menschlich	tochter	NN	Perleberg	1588	FALSE	1		0	1	animate	2	33
+boses	abstrakt	böse	NN&lt;ADJ	Perleberg	1588	FALSE	1		0	1	abstract	0	8
+beisein	abstrakt	beisein	NN&lt;VINF	Perleberg	1588	FALSE	1		0	1	abstract	0	8
+gute	abstrakt	gut	NN&lt;ADJ	Perleberg	1588	FALSE	1		0	1	abstract	0	8
+gefangenen	menschlich	fangen	NN&lt;VPART	Perleberg	1588	FALSE	1		0	1	animate	2	1
+gefangene	menschlich	gefangen	NN&lt;VPART	Perleberg	1588	FALSE	1		0	1	animate	2	3
+grawen	menschlich	grau	NN&lt;ADJ	Perleberg	1588	FALSE	1		0	1	animate	2	1
+grunen	menschlich	grün	NN&lt;ADJ	Perleberg	1588	FALSE	1		0	1	animate	2	1
+schwarten	menschlich	schwarz	NN&lt;ADJ	Perleberg	1588	FALSE	1		0	1	animate	2	1
+witten	menschlich	weisz	NN&lt;ADJ	Perleberg	1588	FALSE	1		0	1	animate	2	1
+bunten	menschlich	bunt	NN&lt;ADJ	Perleberg	1588	FALSE	1		0	1	animate	2	1
+leben	abstrakt	leben	NN&lt;VINF	Perleberg	1588	FALSE	1		0	1	abstract	0	21
+böses	abstrakt	bös	NN&lt;ADJ	Rosenburg	1618	FALSE	1		0	2	abstract	0	2
+getreidich	konkret	getreidich	NN	Rosenburg	1618	FALSE	1		0	2	concrete	1	1
+Seligen	menschlich	selig	NN&lt;ADJ	Rosenburg	1618	TRUE	1		0	2	animate	2	1
+bößes	abstrakt	böse	NN&lt;ADJ	Rosenburg	1618	FALSE	1		0	2	abstract	0	8
+milch	konkret	milch	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	10
+Müder	konkret	mieder	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	1
+weg	konkret	weg	NN	Schweinfurt	1616	FALSE	1		0	2	concrete	1	8
+weinen	abstrakt	weinen	NN&lt;VINF	Schweinfurt	1616	FALSE	1		0	2	abstract	0	3
+Trehnen	konkret	träne	NN	Schweinfurt	1616	TRUE	1		0	2	concrete	1	2
+weinen	abstrakt	weinen	NN&lt;VINF	Schweinfurt	1616	FALSE	1		0	2	abstract	0	3
+reden	abstrakt	reden	NN&lt;VINF	Schweinfurt	1616	FALSE	1		0	2	abstract	0	5
+Jungens	menschlich	junge	NN	Schweinfurt	1616	TRUE	1	n	0	2	animate	4	11
+Fraw	menschlich	frau	NN	Stralsund	1630	TRUE	1	j	0	3	animate	3	70
+Man	menschlich	mann	NN	Stralsund	1630	TRUE	1	n	0	3	animate	4	40
+guten	abstrakt	gut	NN&lt;ADJ	Stralsund	1630	FALSE	1		0	3	abstract	0	8
+frawen	menschlich	frau	NN	Stralsund	1630	FALSE	1	j	0	3	animate	3	70
+Cristalle	konkret	kristall	NN	Stralsund	1630	TRUE	1		0	3	concrete	1	6
+gute	abstrakt	gut	NN	Stralsund	1630	FALSE	1		0	3	abstract	0	8
+fragen	abstrakt	fragen	NN&lt;VINF	Stralsund	1630	FALSE	1		0	3	abstract	0	2
+baden	abstrakt	baden	NN&lt;VINF	Stralsund	1630	FALSE	1		0	3	abstract	0	1
+reisen	abstrakt	reisen	NN&lt;VINF	Stralsund	1630	FALSE	1		0	3	abstract	0	1
+rechtte	menschlich	recht	NN&lt;ADJ	Stralsund	1630	FALSE	1		0	3	animate	2	13
