@@ -1,0 +1,270 @@
+File	Title	Author	Texttype	Year
+achenwall_staatswissenschaft_1749_minimal	Abriß der neuesten Staatswissenschaft der vornehmsten Europäischen Reiche und Republicken	Gottfried Achenwall	Wissenschaft	1749
+albertinus_landtstoertzer01_1615_minimal	Der Landtstörtzer: Gusman von Alfarche oder Picaro genannt/ dessen wunderbarliches/ abenthewrlichs vnd possirlichs Leben/ was gestallt er schier alle ort der Welt durchloffen/ allerhand Ständt/ Dienst vnd Aembter versucht/ vil guts vnd böses begangen vnd außgestanden/ jetzt reich/ bald arm/ vnd widerumb reich vnd gar elendig worden/ doch letztlichen sich bekehrt hat/ hierin beschriben wirdt	Aegidius Albertinus	Belletristik	1615
+anhaltkoethen_fruchtbringende_1628_minimal	Kurtzer Bericht Von der Fruchtbringenden Gesellschafft Vorhaben/ auch dero Nahmen/ Gemählde und Wörter	Ludwig von Anhalt-Köthen	Wissenschaft	1628
+anthus_esskunst_1838_minimal	Vorlesungen über Esskunst	Gustav Blumröder	Gebrauchsliteratur	1838
+anzengruber_gwissenswurm_1874_minimal	Der G'wissenswurm	Ludwig Anzengruber	Belletristik	1874
+arends_exter_1708_minimal	Eines zehen-jährigen Knabens Christlieb Leberecht von Exter/ aus Zerbst/ Christlich geführter Lebens-Lauff 	Arnds Wilhelm Erasmus	Gebrauchsliteratur	1708
+arndt_christentum01_1610_minimal	Von wahrem Christenthumb	Johann Arndt	Gebrauchsliteratur	1610
+arndt_christentum02_1610_minimal	Vom wahren Christenthumb	Johann Arndt	Gebrauchsliteratur	1610
+arndt_christentum03_1610_minimal	Vom wahren Christenthumb	Johann Arndt	Gebrauchsliteratur	1610
+arnold_cyprian_1700_minimal	Erklärung/ Vom gemeinen Secten-wesen/ Kirchen- und Abendmahl-gehen; Wie auch Vom recht-Evangel. Lehr-Amt/ und recht-Christl. Freyheit	Gottfried Arnold	Wissenschaft	1700
+arnold_ketzerhistorie02_1700_minimal	Gottfrid Arnolds Fortsetzung und Erläuterung Oder Dritter und Vierdter Theil der unpartheyischen Kirchen- und Ketzer-Historie	Gottfried Arnold	Wissenschaft	1700
+aston_emancipation_1846_minimal	Meine Emancipation, Verweisung und Rechtfertigung	Louise Aston	Gebrauchsliteratur	1846
+aston_leben_1847_minimal	Aus dem Leben einer Frau	Louise Aston	Gebrauchsliteratur	1847
+bacmeister_predigt_1614_minimal	Leichpredigt/ Bey der Volckreichen und ansehnlichen Begrebnuß des Weiland Edlen/ Gestrengen und Ehrnuesten Tessen Von Parsow/ Fürstlichen Meckelnburgischen bestalten Obristen und geheimen Rath/ auff Parsow und Vpall Erbgesessen.	Lucas Bacmeister	Gebrauchsliteratur	1614
+barclay_argenis_1626_minimal	Johann Barclaÿens Argenis Deutsch gemacht durch Martin Opitzen	John Barclay	Belletristik	1626
+basteln_kichote_1648_minimal	Don Kichote de la Mantzscha	Cervantes Miguel de	Belletristik	1648
+bauller_lasterspiegel_1681_minimal	Hell-Polirter Laster-Spiegel/ Underschiedlich in sich haltend alle und jede Fugienda, Was ein Christ Böses fliehen soll	Johann Jacob Bauller	Gebrauchsliteratur	1681
+becher_narrheit_1682_minimal	Närrische Weißheit Und Weise Narrheit	Johann Joachim Becher	Wissenschaft	1682
+benner_herrnhuterey02_1747_minimal	Die Herrnhuterey in ihrer Schalkheit	Johann Hermann Benner	Wissenschaft	1747
+benner_herrnhuterey03_1748_minimal	Herrnhuterey in ihrer Schalkheit	Johann Hermann Benner	Wissenschaft	1748
+berlepsch_alpen_1861_minimal	Die Alpen in Natur- und Lebensbildern	Hermann Alexander von Berlepsch	Gebrauchsliteratur	1861
+bierbaum_stilpe_1897_minimal	Stilpe	Otto Julius Bierbaum	Belletristik	1897
+birken_gespraechspiel_1665_minimal	Pegnesische Gesprächspiel-Gesellschaft von Nymfen und Hirten	Sigmund von Birken	Belletristik	1665
+birken_sonntagswandel_1681_minimal	Heiliger Sonntags-Handel und Kirch-Wandel	Sigmund von Birken	Gebrauchsliteratur	1681
+blumenbach_anatomie_1815_minimal	Handbuch der vergleichenden Anatomie	Johann Friedrich Blumenbach	Wissenschaft	1815
+blumenbach_physiologie_1795_minimal	Anfangsgründe der Physiologie	Johann Friedrich Blumenbach	Wissenschaft	1795
+bodmer_sammlung02_1741_minimal	Sammlung Critischer, Poetischer, und andrer geistvollen Schriften	Johann Jacob Bodmer	Belletristik	1741
+bodmer_sammlung03_1742_minimal	Sammlung Critischer, Poetischer, und anderer geistvollen Schriften	Johann Jacob Bodmer	Belletristik	1742
+bodmer_sammlung04_1742_minimal	Sammlung Critischer, Poetischer, und anderer geistvollen Schriften	Johann Jacob Bodmer	Belletristik	1742
+bodmer_sammlung07_1743_minimal	Sammlung Critischer, Poetischer, und anderer geistvollen Schriften	Johann Jacob Bodmer	Belletristik	1743
+bodmer_sammlung09_1743_minimal	Sammlung Critischer, Poetischer, und anderer geistvollen Schriften	Johann Jacob Bodmer	Belletristik	1743
+bodmer_sammlung12_1744_minimal	Sammlung Critischer, Poetischer, und anderer geistvollen Schriften	Johann Jacob Bodmer	Belletristik	1744
+boerne_paris01_1832_minimal	Briefe aus Paris	Ludwig Börne	Belletristik	1832
+bose_electricitaet_1744_minimal	Die Electricität nach ihrer Entdeckung und Fortgang	Georg Matthias Bose	Wissenschaft	1744
+brandes_naturlehre01_1830_minimal	Vorlesungen über die Naturlehre	Heinrich Wilhelm Brandes	Gebrauchsliteratur	1830
+brandes_naturlehre02_1831_minimal	Vorlesungen über die Naturlehre	Heinrich Wilhelm Brandes	Gebrauchsliteratur	1831
+brandes_naturlehre03_1832_minimal	Vorlesungen über die Naturlehre	Heinrich Wilhelm Brandes	Gebrauchsliteratur	1832
+brentano_kasperl_1838_minimal	Geschichte vom braven Kasperl und dem schönen Annerl	Clemens Brentano	Belletristik	1838
+brockes_vergnuegen05_1736_minimal	Jrdisches Vergnügen in Gott	Barthold Heinrich Brockes	Belletristik	1736
+brockes_vergnuegen06_1740_minimal	Jrdisches Vergnügen in Gott, bestehend in Physicalisch- und Moralischen Gedichten	Barthold Heinrich Brockes	Belletristik	1740
+buchholtz_herkules01_1659_minimal	Des Christlichen Teutschen Groß-Fürsten Herkules Und der Böhmischen Königlichen Fräulein Valjska Wunder-Geschichte	Andreas Heinrich Bucholtz	Belletristik	1659
+buchner_theoria03_1685_minimal	Theoria Et Praxis Artilleriæ	Johann Siegmund Buchner	Wissenschaft	1685
+buechner_werke_1879_minimal	Sämmtliche Werke und handschriftlicher Nachlaß	Georg Büchner	Belletristik	1879
+buerger_gedichte_1778_minimal	Gedichte	Gottfried August Bürger	Belletristik	1778
+calvi_beutelschneider01_1627_minimal	Beutelschneider/ Oder Neue/ warhaffte/ vnd eigentliche Beschreibung Der Diebs Historien	François de Calvi	Belletristik	1627
+calvi_beutelschneider02_1627_minimal	Beutelschneider/ Oder Neue/ warhaffte/ vnd eigentliche Beschreibung Der Diebs Historjen	François de Calvi	Belletristik	1627
+campe_theophron01_1783_minimal	Theophron, oder der erfahrne Rathgeber für die unerfahrne Jugend	Joachim Heinrich Campe	Gebrauchsliteratur	1783
+campe_theophron02_1783_minimal	Theophron, oder der erfahrne Rathgeber für die unerfahrne Jugend	Joachim Heinrich Campe	Gebrauchsliteratur	1783
+cancrin_beschreibung_1767_minimal	Beschreibung der vorzüglichsten Bergwerke in Hessen, in dem Waldekkischen, an dem Haarz, in dem Mansfeldischen, in Chursachsen, und in dem Saalfeldischen	Franz Ludwig von Cancrin	Wissenschaft	1767
+carus_gynaekologie01_1820_minimal	Lehrbuch der Gynäkologie	Carl Gustav Carus	Wissenschaft	1820
+carus_zoologie_1872_minimal	Geschichte der Zoologie bis auf Joh. Müller und Charl. Darwin	Julius Victor Carus	Gebrauchsliteratur	1872
+caselius_leichpredigt_1649_minimal	Christliche Leich-Predigt über die thewre werthe Wort S. Pauli/ die Er uns in seiner ersten Epistel an Timotheum Cap. 1/ 12. seqq. hinterlassen hat	Martin Caselius	Gebrauchsliteratur	1649
+clausewitz_krieg03_1834_minimal	Vom Kriege	Carl von Clausewitz	Wissenschaft	1834
+crueger_cupediae_1631_minimal	Cupediæ Astrosophicæ [...] Darinnen die allerkunstreichesten vnd tieffesten Geheimbnüsse/ der Astronomiæ, deß Calender-Schreibens/ der Astrologiæ, vnd der Geographiæ, [...] außgeführet sind	Peter Crüger	Wissenschaft	1631
+curtius_sprachforschung_1885_minimal	Zur Kritik der neuesten Sprachforschung	Georg Curtius	Wissenschaft	1885
+czepko_siebengestirne_1671_minimal	Sieben-Gestirne Königlicher Busse/ das ist/ Die Sieben Buß-Psalmen/ Des Königes und Propheten Davids	Daniel von Czepko	Wissenschaft	1671
+czepko_triumphbogen_1641_minimal	Triumph Bogen	Daniel von Czepko	Belletristik	1641
+d_untreue_1763_minimal	Die in der Liebe herumschweifende oder bestrafte Untreue	unknown	Belletristik	1763
+daguerre_daguerrereotyp_1839_minimal	Das Daguerreotyp und das Diorama,	Louis Jacques Mandé Daguerre	Gebrauchsliteratur	1839
+dannhauer_catechismus08_1666_minimal	Catechismvs-Milch/ Oder Der Erklärung deß Christlichen Catechismi/ Achter Theil	Johann Conrad Dannhauer	Gebrauchsliteratur	1666
+dannhauer_catechismus11_1678_minimal	Index Catecheticus, Oder Vollständiges und Außführliches Register über das herrliche gantze Werck der Catechismus-Milch	Johann Conrad Dannhauer	Gebrauchsliteratur	1678
+darwin_pflanzen_1876_minimal	Insectenfressende Pflanzen	Charles Darwin	Wissenschaft	1876
+deckhardt_kochbuch_1611_minimal	New/ Kunstreich vnd Nützliches Kochbuch	Johann Deckhardt	Gebrauchsliteratur	1611
+dilger_arndes_1620_minimal	Des Ehrwürdigen/ Achtbaren vnd Hochgelarten Herrn Johannis Arndes [...] Richtige/ vnd in Gottes Wort wolgegründete Lehre/ in den vier Büchern vom wahren Christenthumb	Daniel Dilger	Wissenschaft	1620
+dubois_naturerkennen_1872_minimal	Über die Grenzen des Naturerkennens	Emil Heinrich Du Bois-Reymond	Wissenschaft	1872
+eckarth_bertzdorff_1749_minimal	Chronica, oder: historische Beschreibung des Dorffes Bertzdorff, eine halbe Meile von Zittau in der Ober-Lausitz gelegen	Gotthülff Traugott Eckarth	Gebrauchsliteratur	1749
+eckarth_chronica_1732_minimal	Chronica Oder Historische Beschreibung Derer Zwey nächst an Zittau anstossenden Dörffer Eckersberg Und Olbersdorff	Friedrich Eckarth	Gebrauchsliteratur	1732
+eckarth_chronica_1737_minimal	Chronica Oder Historische Beschreibung Des Dorffes Herwigsdorff	Friedrich Eckarth	Gebrauchsliteratur	1737
+erbkam_tagebuch02_1843_minimal	Tagebuch meiner egyptischen Reise	Georg Gustav Erbkam	Wissenschaft	1843
+eschstruth_katz_1886_minimal	Katz' und Maus	Nataly von Eschstruth	Belletristik	1886
+euler_algebra02_1770_minimal	Vollständige Anleitung zur Algebra	Leonhard Euler	Wissenschaft	1770
+euler_rechenkunst01_1738_minimal	Einleitung zur Rechen-Kunst	Leonhard Euler	Wissenschaft	1738
+falke_trachten01_1858_minimal	Die deutsche Trachten- und Modenwelt	Jakob von Falke	Gebrauchsliteratur	1858
+faulhaber_instrument_1610_minimal	Newe Geometrische vnd Perspectiuische Inuentiones Etlicher sonderbahrer Instrument/ die zum Perspectiuischen Grundreissen der Pasteyen vnnd Vestungen/ wie auch zum Planimetrischen Grundlegen der Stätt/ Feldläger vnd Landtschafften/ deßgleichen zur Büchsenmeisterey sehr nützlich vnnd gebrauchsam seynd	Johannes Faulhaber	Wissenschaft	1610
+ferdinand_copia_1621_minimal	Copia, Kayserl: Aachts Erklerung / wider Pfaltzgraff Friderich Churfürst	II. Ferdinand	Gebrauchsliteratur	1621
+fleming_jaeger01_1719_minimal	Der vollkommene teutsche Jäger	Hans Friedrich von Fleming	Wissenschaft	1719
+fontane_briest_1896_minimal	Effi Briest	Theodor Fontane	Belletristik	1896
+fontane_kinderjahre_1894_minimal	Meine Kinderjahre	Theodor Fontane	Belletristik	1894
+fontane_stechlin_1899_minimal	Der Stechlin	Theodor Fontane	Belletristik	1899
+francois_reckenburgerin01_1871_minimal	Die letzte Reckenburgerin	Louise von François	Belletristik	1871
+friderici_musica_1619_minimal	Musica Figuralis, Oder Newe Klärliche Richtige/ vnd vorstentliche vnterweisung/ Der SingeKunst	Daniel Friderici	Wissenschaft	1619
+geier_schuetz_1672_minimal	Die köstlichste Arbeit/ aus dem 119. Psalm v. 54. bei Ansehnlicher und Volckreicher Leichbestattung Des Herrn Henrich Schützens	Martin Geier	Gebrauchsliteratur	1672
+gercke_torpedowaffe_1898_minimal	Die Torpedowaffe	Hermann Gercke	Gebrauchsliteratur	1898
+glauber_furni01_1646_minimal	Furni Novi Philosophici Oder Beschreibung einer New-erfundenen Distillir-Kunst	Johann Rudolph Glauber	Wissenschaft	1646
+glauber_furni03_1648_minimal	Furni Philosophici, oder Philosophischer Oefen Dritter Theil	Johann Rudolph Glauber	Wissenschaft	1648
+glauber_furni04_1648_minimal	Furni Philosophici Oder Philosophischer Oefen Vierdter Theil	Johann Rudolph Glauber	Wissenschaft	1648
+glueck_pandecten01verbesserungen_1798_minimal	Verbesserungen und Zusätze zum ersten Bande des Glückischen Commentars über die Pandecten	Christian Friedrich von Glück	Wissenschaft	1798
+glueck_pandecten02verbesserungen_1800_minimal	Berichtigungen und Zusätze zum zweyten Bande des Glückischen Commentars über die Pandecten	Christian Friedrich von Glück	Wissenschaft	1800
+goethe_faust01_1808_minimal	Faust	Johann Wolfgang von Goethe	Belletristik	1808
+goethe_faustfragment_1790_minimal	Faust	Johann Wolfgang von Goethe	Belletristik	1790
+goethe_lehrjahre02_1795_minimal	Wilhelm Meisters Lehrjahre	Johann Wolfgang von Goethe	Belletristik	1795
+goethe_lehrjahre04_1796_minimal	Wilhelm Meisters Lehrjahre	Johann Wolfgang von Goethe	Belletristik	1796
+goethe_wahlverw01_1809_minimal	Die Wahlverwandtschaften	Johann Wolfgang von Goethe	Belletristik	1809
+gottfried_historia_1631_minimal	Newe Welt Vnd Americanische Historien/ Jnhaltende Warhafftige vnd volkommene Beschreibungen Aller West-Jndianischen Landschafften [...] zusampt der Natur vnd Eigenschafft deß Erdrichs [...] wie auch der Thier [...] sampt andern Wunderbaren Creaturen vnd Miraculn der Natur/ in diesem halben Theil deß Erdkreyses	Johann Ludwig Gottfried	Wissenschaft	1631
+gottsched_versuch_1730_minimal	Versuch einer Critischen Dichtkunst vor die Deutschen	Johann Christoph Gottsched	Gebrauchsliteratur	1730
+grabbe_napoleon_1831_minimal	Napoleon oder Die hundert Tage	Christian Dietrich Grabbe	Belletristik	1831
+greflinger_krieg_1657_minimal	Der Deutschen Dreyßig-Jähriger Krjeg/ Poetisch erzählet	Georg Greflinger	Belletristik	1657
+griesinger_psychische_1845_minimal	Die Pathologie und Therapie der psychischen Krankheiten, für Aerzte und Studirende	Wilhelm Griesinger	Wissenschaft	1845
+grimm_odenwald_1843_minimal	Die malerischen und romantischen Stellen des Odenwaldes	Albert Ludwig Grimm	Gebrauchsliteratur	1843
+grimmelshausen_continuatio_1669_minimal	Continuatio des abentheurlichen Simplicissimi Oder Der Schluß desselben	Hans Jakob Christoffel von Grimmelshausen	Belletristik	1669
+grimmelshausen_michel_1673_minimal	Deß Weltberuffenen SIMPLICISSIMI Pralerey und Gepräng mit seinem Teutschen Michel	Hans Jakob Christoffel von Grimmelshausen	Belletristik	1673
+grimmelshausen_simplicissimus_1669_minimal	Der Abentheurliche Simplicissimus Teutsch	Hans Jakob Christoffel von Grimmelshausen	Belletristik	1669
+grimmelshausen_trutzsimplex_1670_minimal	Trutz Simplex: Oder Ausführliche und wunderseltzame Lebensbeschreibung Der Ertzbetrügerin und Landstörtzerin Courasche/ Wie sie anfangs eine Rittmeisterin/ hernach eine Hauptmännin/ ferner eine Leutenantin/ bald eine Marcketenterin/ Mußquetirerin/ und letzlich eine Ziegeunerin abgegeben	Hans Jakob Christoffel von Grimmelshausen	Belletristik	1670
+gruber_examen_1703_minimal	Examen Fortificatorium oder Gründlicher Unterricht von der Theoria und Praxi Der heutigen Kriegs-Bau-Kunst	Johann Sebastian Gruber	Wissenschaft	1703
+gryphius_rechtsgelehrter_1659_minimal	Großmüttiger Rechts-Gelehrter/ Oder Sterbender Æmilius Paulus Papinianus	Andreas Gryphius	Belletristik	1659
+gundling_discours_1733_minimal	Ausführlicher und mit Illustren Exempeln aus der Historie und Staaten Notiz erläuterter Discovrs über Weyl. Herrn D. Io. Franc. Bvddei, SS. Th. Prof., Philosophiæ Practicæ Part. III. Die Politic	Nicolaus Hieronymus Gundling	Wissenschaft	1733
+haarer_bawrenkrieg_1625_minimal	Eigentliche Warhafftige beschreibung deß Bawrenkriegs/ 	Peter Harer	Wissenschaft	1625
+hagedorn_sammlung02_1744_minimal	Sammlung Neuer Oden und Lieder	Friedrich von Hagedorn	Belletristik	1744
+haller_anfangsgruende03_1766_minimal	Anfangsgründe der Phisiologie des menschlichen Körpers	Albrecht von Haller	Wissenschaft	1766
+haller_anfangsgruende05_1772_minimal	Anfangsgründe der Phisiologie des menschlichen Körpers	Albrecht von Haller	Wissenschaft	1772
+hasak_predigtkirche_1893_minimal	Die Predigtkirche im Mittelalter	Max Hasak	Gebrauchsliteratur	1893
+hegel_logik0101_1812_minimal	Wissenschaft der Logik	Georg Wilhelm Friedrich Hegel	Wissenschaft	1812
+heine_reisebilder01_1826_minimal	Reisebilder	Heinrich Heine	Belletristik	1826
+herder_artundkunst_1773_minimal	Von Deutscher Art und Kunst	Johann Gottfried von Herder	Wissenschaft	1773
+herder_humanitaet08_1796_minimal	Briefe zu Beförderung der Humanität	Johann Gottfried von Herder	Wissenschaft	1796
+herder_philosophie_1774_minimal	Auch eine Philosophie der Geschichte zur Bildung der Menschheit	Johann Gottfried von Herder	Wissenschaft	1774
+herwegh_gedichte01_1841_minimal	Gedichte eines Lebendigen	Georg Herwegh	Belletristik	1841
+hobrecht_polytechnikum_1878_minimal	Vortrag gehalten im Architekten-Verein zu Berlin am 7. October 1878	James Hobrecht	Gebrauchsliteratur	1878
+hoffmann_elixiere01_1815_minimal	Die Elixiere des Teufels	E. T. A.  Hoffmann	Belletristik	1815
+hoffmannswaldau_gedichte03_1703_minimal	Herrn von Hoffmannswaldau und anderer Deutschen auserlesener und bißher ungedruckter Gedichte	Christian Hofmann von Hofmannswaldau	Belletristik	1703
+holz_phantasus01_1898_minimal	Phantasus	Arno Holz	Belletristik	1898
+hug_familie_1896_minimal	Die christliche Familie im Kampfe gegen feindliche Mächte	Gallus Joseph Hug	Gebrauchsliteratur	1896
+hulsius_schifffahrt_1649_minimal	Die fünff vnd zweyntzigste Schifffahrt/ Nach dem Königreich Chili in West-Jndien	Levinus Hulsius	Gebrauchsliteratur	1649
+humboldt_chinawaelder_1807_minimal	Über die Chinawälder in Südamerika	Alexander von Humboldt	Wissenschaft	1807
+humboldt_kosmos02_1847_minimal	Kosmos	Alexander von Humboldt	Wissenschaft	1847
+ideler_wahnsinn_1847_minimal	Der religiöse Wahnsinn	Karl Wilhelm Ideler	Wissenschaft	1847
+jahn_rede_1849_minimal	Gottfried Herrmann. Eine Gedächnissrede	Otto Jahn	Gebrauchsliteratur	1849
+justi_abhandlung01_1758_minimal	Vollständige Abhandlung von denen Manufakturen und Fabriken	Johann Heinrich Gottlob von Justi	Gebrauchsliteratur	1758
+justi_velazquez01_1888_minimal	Diego Velazquez und sein Jahrhundert	Carl Justi	Wissenschaft	1888
+kaempfer_japan01_1777_minimal	Geschichte und Beschreibung von Japan	Engelbert Kaempfer	Wissenschaft	1777
+kentz_handwerksboden_1629_minimal	Güldener Handwercksboden. Das ist: Eine Allgemeine Wolgegründte/ Nützliche vnd Anmutige Betrachtung/ aller vnd jeden/ zu Nutz/ Nothdurfft/ vnd Wolfahrt/ auch Zierd/ Wolstand/ vnd Ergetzligkeit des Menschlichen Lebens/ Wandels/ vnd Auffenthalt/ Erfundenen/ verbesserten/ vnd bißhero getriebnen Handwercks Künsten	Paul Kentz	Wissenschaft	1629
+kepler_messekunst_1616_minimal	Außzug auß der Vralten Messe Kunst Archimedis Vnd deroselben newlich in Latein außgangener Ergentzung/ Vnd deroselben newlich in Latein außgangener Ergentzung/ betreffend Rechnung der Cörperlichen Figuren/ holen Gefessen vnd Weinfässer [...]	Johannes Kepler	Wissenschaft	1616
+klaj_lobrede_1645_minimal	Lobrede der Teutschen Poetery	Johann Klaj	Gebrauchsliteratur	1645
+klopstock_messias03_1769_minimal	Der Messias	Friedrich Gottlieb Klopstock	Belletristik	1769
+klopstock_oden_1771_minimal	Oden	Friedrich Gottlieb Klopstock	Belletristik	1771
+klueber_voelkerrecht01_1821_minimal	Europäisches Völkerrecht	Johann Ludwig Klüber	Wissenschaft	1821
+knigge_umgang01_1788_minimal	Ueber den Umgang mit Menschen	Adolph von Knigge	Gebrauchsliteratur	1788
+knigge_umgang02_1788_minimal	Ueber den Umgang mit Menschen	Adolph von Knigge	Gebrauchsliteratur	1788
+kortum_jobsiade02_1799_minimal	Die Jobsiade	Carl Arnold Kortum	Belletristik	1799
+kosegarten_poesieen02_1798_minimal	Poesieen	Ludwig Gotthard Kosegarten	Belletristik	1798
+krafft_landwirthschaft03_1876_minimal	Lehrbuch der Landwirthschaft auf wissenschaftlicher und praktischer Grundlage	Guido Krafft	Wissenschaft	1876
+krueger_weltweisheit_1746_minimal	Geschichte der Erde in den allerältesten Zeiten	Johann Gottlob Krüger	Wissenschaft	1746
+kunckel_glasmacher_1679_minimal	Ars Vitraria Experimentalis, Oder Vollkommene Glasmacher-Kunst/ Lehrende [...] Die allerkurtz-bündigsten Manieren/ das reineste Chrystall-Glas; alle gefärbte oder tingirte Gläser; künstliche Edelstein oder Flüsse; Amausen/ oder Schmeltze; Doubleten; Spiegeln/ das Tropff-Glas; die schönste Ultramarin, Lacc- und andere nützliche Mahler-Farben; Jngleichen wie die Saltze zu den allerreinesten Chrystallinen Gut/ nach der besten Weise an allen Orten Deutschlands mit geringer Müh und Unkosten copieus und compendieus zu machen/ auch wie das Glas zu mehrer Perfection und Härte zu bringen	Johannes Kunckel	Wissenschaft	1679
+lambert_organon02_1764_minimal	Neues Organon	Johann Heinrich Lambert	Wissenschaft	1764
+lange_schachspiel_1856_minimal	Lehrbuch des Schachspiels	Max Lange	Gebrauchsliteratur	1856
+laukhard_leben02_1792_minimal	F. C. Laukhards Leben und Schicksale	Friedrich Christian Laukhard	Belletristik	1792
+lessing_fabeln_1759_minimal	Fabeln	Gotthold Ephraim Lessing	Belletristik	1759
+lichtenberg_timorus_1773_minimal	Timorus, das ist, Vertheidigung zweyer Israeliten, die durch die Kräftigkeit der Lavaterischen Beweisgründe und der Göttingischen Mettwürste bewogen den wahren Glauben angenommen haben	Georg Christoph Lichtenberg	Gebrauchsliteratur	1773
+liliencron_adjutantenritte_1883_minimal	Adjutantenritte und andere Gedichte	Detlev von Liliencron	Belletristik	1883
+littrow_weltsystem03_1836_minimal	Die Wunder des Himmels, oder gemeinfaßliche Darstellung des Weltsystems	Joseph Johann von Littrow	Gebrauchsliteratur	1836
+loehe_predigt_1873_minimal	Erste Predigt zu Neuendettelsau	Wilhelm Löhe	Gebrauchsliteratur	1873
+loescher_historie_1705_minimal	Historie Des Römischen Huren-Regiments Der Theodoræ und Maroziæ	Valentin Ernst Löscher	Wissenschaft	1705
+lohenstein_ibrahim_1673_minimal	Ibrahim Sultan	Daniel Casper von Lohenstein	Belletristik	1673
+lucius_canaan_1731_minimal	Das Schweitzerische Von Milch und Honig fliessende Canaan	Samuel Lucius	Gebrauchsliteratur	1731
+lucius_warnung_1747_minimal	Warnung An Die liebe Jugend, Vor der schrecklichen Gefahr Der mannigfaltigen Verführung zum Bösen	Samuel Lutz	Gebrauchsliteratur	1747
+marx_kapital01_1867_minimal	Das Kapital	Karl Marx	Wissenschaft	1867
+marx_manifestws_1848_minimal	Manifest der Kommunistischen Partei	Karl Marx	Gebrauchsliteratur	1848
+milichius_1617_minimal	Dominus abstulit. Das ist: Wer doch die lieben Kinder durch den Zeitlichen todt von den Eltern abfodere/ Nemlichen/ GOtt der HERRE/ vnd auß waß vrsachen. Bey dem Begräbnüß Des Edlen/ Ehrenvesten vnnd Wolbenambten Herren Caspar Latowsken/ von Kowallen auff Ottendorff	Daniel Milichius	Gebrauchsliteratur	1617
+modestinus_unterredungen_1737_minimal	Freymüthige Doch Bescheidene Unterredungen Von Kirchen- Religions- Politischen- und Natur-Sachen	Theophilus Modestinus	Gebrauchsliteratur	1737
+moerike_gedichte_1838_minimal	Gedichte	Eduard Mörike	Belletristik	1838
+moerike_nolten01_1832_minimal	Maler Nolten	Eduard Mörike	Belletristik	1832
+moeser_phantasien01_1775_minimal	Patriotische Phantasien	Justus Möser	Gebrauchsliteratur	1775
+moeser_phantasien02_1776_minimal	Patriotische Phantasien	Justus Möser	Gebrauchsliteratur	1776
+morhof_unterricht_1682_minimal	Unterricht Von Der Teutschen Sprache und Poesie/ deren Uhrsprung/ Fortgang und Lehrsätzen	Daniel Georg Morhof	Wissenschaft	1682
+mosen_galerie_1844_minimal	Die Dresdener Gemälde-Galerie	Julius Mosen	Gebrauchsliteratur	1844
+muehlpfort_gedichte01_1686_minimal	Teutsche Gedichte	Heinrich Mühlpfort	Belletristik	1686
+mueller_festigkeitslehre_1886_minimal	Die neueren Methoden der Festigkeitslehre und der Statik der Baukonstruktionen	Heinrich F. B. Müller-Breslau	Wissenschaft	1886
+mueller_hellenische03_1824_minimal	Die Dorier	Karl Otfried Müller	Wissenschaft	1824
+mueller_waldhornist_1821_minimal	Sieben und siebzig Gedichte aus den hinterlassenen Papieren eines reisenden Waldhornisten	Wilhelm Müller	Belletristik	1821
+mutach_underricht_1709_minimal	Substantzlicher Vnderricht/ Von Gerichts- und Rechts-Sachen	Samuel Mutach	Wissenschaft	1709
+nietzsche_homer_1869_minimal	Homer und die klassische Philologie	Friedrich Nietzsche	Wissenschaft	1869
+nimwegen_friede_1679_minimal	Käyserl. und Frantzösischer Friedensschluß	NA o. A.	Gebrauchsliteratur	1679
+nn_kobald_1691_minimal	Eigentliche und warhafftige Erzehlung von dem Kobald/ Polter-Geist oder Hexen-Gespenst	unknown	Gebrauchsliteratur	1691
+nn_marcipan_1632_minimal	Jahrgedächtnis der Leipzigischen Schlacht: Leipzigischer Studenten-Marcipan	unknown	Gebrauchsliteratur	1632
+oa_artzneybuch_1688_minimal	Ein Koch- und Artzney-Buch	NA N. N.	Gebrauchsliteratur	1688
+oa_cartouche_1722_minimal	Der berühmte Ertz-Dieb und Strassen-Räuber Cartouche, Derer Strassen-Räuber, Diebe und Spitz-Buben Ober-Haupt und Commandeur in Franckreich, in denen merckwürdigsten Begebenheiten seines bösen Lebens, endlichen aufrichtigen Bekäntnisses und schwehren Todes vorgestellet	NA N. N.	Belletristik	1722
+oa_jubilaeum_1640_minimal	Jubilaeum Typographorum Lipsiensium Oder Zweyhundert-Jähriges Buchdrucker JubelFest	NA N. N.	Wissenschaft	1640
+oa_policeij_1628_minimal	Der Statt Straßburg PoliceijOrdnung	NA N. N.	Wissenschaft	1628
+oa_vierlinge_1616_minimal	Historische warhaffte Relation Von einem Christlichen Eheweibe im Marggraffthumb Oberlausitz vnd Budissimschen Kreisse im Dorffe Jazeba/ welche Vier lebendige vnd wol proportionirte Töchter den 10. Januarij, Anno 1616. zur Welt geboren/ so alle die H. Tauffe erlanget/ vnd etliche Wochen gelebet haben	NA N. N.	Gebrauchsliteratur	1616
+oberwinder_buschoff_1892_minimal	Der Fall Buschoff	Heinrich Oberwinder	Gebrauchsliteratur	1892
+obrecht_secreta_1617_minimal	Fünff Vnderschiedliche Secreta Politica Von Anstellung/ Erhaltung vnd Vermehrung guter Policey/ vnd von billicher/ rechtmässiger vnd nothwendiger Erhöhung/ eines jeden Regenten Jährlichen Gefällen vnd Einkommmen	Georg Obrecht	Gebrauchsliteratur	1617
+olearius_reise_1647_minimal	Offt begehrte Beschreibung Der Newen Orientalischen Rejse/ So durch Gelegenheit einer Holsteinischen Legation an den König in Persien geschehen	Adam Olearius	Belletristik	1647
+opitz_poemata_1624_minimal	Teutsche Pöemata und: Aristarchvs Wieder die verachtung Teutscher Sprach	Martin Opitz	Belletristik	1624
+opitz_schaefferey_1630_minimal	Schäfferey Von der Nimfen Hercinie	Martin Opitz	Belletristik	1630
+pahl_geheimnisse_1797_minimal	Geheimnisse eines mehr als fünfzigjährigen wirtembergischen Staatsmannes	Johann Gottfried Pahl	Gebrauchsliteratur	1799
+pahl_gutachten_1797_minimal	Wohlgemeyntes, in Vernunft und Schrift bestgegründetes, jedoch unmaaßgebliches Gutachten, über die Wahlfähigkeit eines Landtagsdeputirten in Wirtemberg	Johann Gottfried Pahl	Gebrauchsliteratur	1797
+pahl_libell_1797_minimal	Vernunft- und schriftmäßiges Schutz- Trutz- und Vertheidigungs-Libell für den Wirtembergischen Adel, gegen die demokratischen und jakobinischen Belialssöhne unserer Zeit	Sebastian Käsbohrer	Gebrauchsliteratur	1797
+pasch_voltesiren_1660_minimal	Kurtze iedoch gründliche Beschreibung Des Voltesirens/ So wohl auf dem Pferde als über den Tisch	Johann Georg Pascha	Gebrauchsliteratur	1660
+paul_hesperus01_1795_minimal	Hesperus, oder 45 Hundsposttage	Jean Paul	Belletristik	1795
+paul_titan03_1802_minimal	Titan	Jean Paul	Belletristik	1802
+pestalozzi_lienhard01_1781_minimal	Lienhard und Gertrud	Johann Heinrich Pestalozzi	Belletristik	1781
+pfizer_einheit_1849_minimal	Die deutsche Einheit und der Preußenhaß	Gustav Pfizer	Gebrauchsliteratur	1849
+philippi_reimschmiedekunst_1743_minimal	Regeln und Maximen der edlen Reimschmiede-Kunst, auch kriechender Poesie	Johann Ernst Philippi	Gebrauchsliteratur	1743
+praetorius_verrichtung_1668_minimal	Blockes-Berges Verrichtung	Johannes Praetorius	Belletristik	1668
+puetter_staatsverfassung03_1787_minimal	Historische Entwickelung der heutigen Staatsverfassung des Teutschen Reichs	Johann Stephan Pütter	Wissenschaft	1787
+pufendorf_einleitung_1682_minimal	Einleitung zu der Historie der Vornehmsten Reiche und Staaten/ so itziger Zeit in Europa sich befinden	Samuel von Pufendorf	Gebrauchsliteratur	1682
+pufendorf_einleitung_1691_minimal	Einleitung zur Sitten- und Stats-Lehre	Samuel von Pufendorf	Wissenschaft	1691
+purmann_feldscher_1680_minimal	Der rechte und wahrhafftige Feldscher	Matthäus Gottfried Purmann	Wissenschaft	1680
+purtscheller_alpinismus_1894_minimal	Zur Entwicklungsgeschichte des Alpinismus und der alpinen Technik in den Deutschen und Oesterreichischen Alpen	Ludwig Purtscheller	Wissenschaft	1894
+quenstedt_mineralogie_1854_minimal	Handbuch der Mineralogie	Friedrich August Quenstedt	Wissenschaft	1855
+ramdohr_venus0301_1798_minimal	Venus Urania	Basilius von Ramdohr	Gebrauchsliteratur	1798
+raschdorff_hochbau_1880_minimal	Die Hochbau-Ausführungen des Preußischen Staates. Denkschrift der Vereinigung zur Vertretung baukünstlerischer Interessen in Berlin	Julius Raschdorff	Gebrauchsliteratur	1880
+reinkingk_policey_1653_minimal	Biblische Policey	Theodor von Reinkingk	Gebrauchsliteratur	1653
+riemann_teichbau_1798_minimal	Praktische Anweisung zum Teichbau	Johann Friedrich Riemann	Gebrauchsliteratur	1798
+rochow_versuch_1772_minimal	Versuch eines Schulbuches für Kinder der Landleute, oder zum Gebrauch in Dorffschulen	Friedrich Eberhard von Rochow	Wissenschaft	1772
+rollenhagen_reysen_1603_minimal	Vier Bücher Wunderbarlicher biß daher vnerhörter/ vnd vngleublicher Jndianischer reysen/ durch die Lufft/ Wasser/ Land/ Helle/ Paradiß/ vnd den Himmel	Gabriel Rollenhagen	Belletristik	1603
+rosegger_waldschulmeister_1875_minimal	Die Schriften des Waldschulmeisters	Peter Rosegger	Belletristik	1875
+rossmaessler_wald_1863_minimal	Der Wald	Emil Adolf Roßmäßler	Gebrauchsliteratur	1863
+rotth_bedencken_1692_minimal	Eylfertiges Bedencken über M. August Hermann Franckens/ Pastoris zu Glauche vor Halle/Seine Schutz-Predigt/ Ob Er Durch dieselbe seinen Zweck/ den er auf dem Titul gedachter Predigt/ berühret hat/ erlanget oder nicht?	Albrecht Christian Rotth	Gebrauchsliteratur	1692
+rueckert_brahmane01_1836_minimal	Die Weisheit des Brahmanen	Friedrich Rückert	Belletristik	1836
+rueckert_brahmane02_1837_minimal	Die Weisheit des Brahmanen	Friedrich Rückert	Belletristik	1837
+sander_beschreibung01_1783_minimal	Heinrich Sanders Beschreibung seiner Reisen durch Frankreich, die Niederlande, Holland, Deutschland und Italien	Heinrich Sander	Gebrauchsliteratur	1783
+sandrart_academie0101_1675_minimal	L’Academia Todesca. della Architectura, Scultura & Pittura: Oder Teutsche Academie der Edlen Bau- Bild- und Mahlerey-Künste	Joachim von Sandrart	Wissenschaft	1675
+sandrart_academie0103_1675_minimal	L’Academia Todesca. della Architectura, Scultura & Pittura: Oder Teutsche Academie der Edlen Bau- Bild- und Mahlerey-Künste	Joachim von Sandrart	Wissenschaft	1675
+sandrart_iconologia_1680_minimal	ICONOLOGIA DEORUM	Joachim von Sandrart	Wissenschaft	1680
+santa_judas01_1686_minimal	Judas Der Ertz-Schelm/ Für ehrliche Leuth/ Oder: Eigentlicher Entwurff/ vnd Lebens-Beschreibung deß Iscariotischen Bößwicht	Abraham a Sancta Clara	Gebrauchsliteratur	1686
+schauberg_freimaurerei02_1861_minimal	Vergleichendes Handbuch der Symbolik der Freimaurerei	Joseph Schauberg	Gebrauchsliteratur	1861
+schauberg_freimaurerei03_1863_minimal	Vergleichendes Handbuch der Symbolik der Freimaurerei	Joseph Schauberg	Gebrauchsliteratur	1863
+schmidt_rockenphilosophia01_1705_minimal	Die gestriegelte Rocken-Philosophia, Oder Auffrichtige Untersuchung derer Von vielen super-klugen Weibern hochgehaltenen Aberglauben	Johann Georg Schmidt	Gebrauchsliteratur	1705
+schmolck_sabbath_1712_minimal	Der Lustige Sabbath/ Jn der Stille Zu Zion Mit Heiligen Liedern gefeyert	Benjamin Schmolck	Belletristik	1712
+schurz_studentencongress_1848_minimal	Der Studentencongreß zu Eisenach am 25. September 1848	Karl Schurz	Gebrauchsliteratur	1848
+semmelweis_kindbettfieber_1861_minimal	Die Aetiologie, der Begriff und die Prophylaxis des Kindbettfiebers	Ignaz Philipp Semmelweis	Wissenschaft	1861
+silesius_schlussrime_1657_minimal	Geistreiche Sinn- vnd Schlussrime	Angelus Silesius	Belletristik	1657
+silesius_wandersmann_1675_minimal 1	Cherubinischer Wandersmann oder Geist-Reiche Sinn- und Schluß-Reime zur Göttlichen beschauligkeit anleitende	Angelus Silesius	Belletristik	1675
+spee_cautio_1647_minimal 1	Gewissens-Buch: Von Processen Gegen die Hexen	Friedrich von Spee	Wissenschaft	1647
+spener_bedencken02_1701_minimal	Theologische Bedencken	Philipp Jakob Spener	Gebrauchsliteratur	1701
+spener_bedencken04_1702_minimal	Theologische Bedencken	Philipp Jakob Spener	Gebrauchsliteratur	1715
+sperander_negotiant_1706_minimal	Sorgfältiger Negotiant und Wechßler	Friedrich Gladov	Wissenschaft	1706
+spielhagen_problematische04_1861_minimal	Problematische Naturen	Friedrich Spielhagen	Belletristik	1861
+spindler_jugendfruechte_1745_minimal	Unschuldige Jugend-Früchte	Christian Gotthold Spindler	Belletristik	1745
+stieber_magni_1716_minimal	Leben Des Hertzogs Magni zu Mecklenburg, Ersten Evangelischen Bischoffs zu Schwerin	Georg Friedrich Stieber	Belletristik	1716
+stieler_venus_1660_minimal	Die Geharnschte Venus oder Liebes-Lieder im Kriege gedichtet mit neuen Gesang-Weisen zu singen und zu spielen gesezzet	Kaspar von Stieler	Belletristik	1660
+stifter_nachsommer03_1857_minimal	Der Nachsommer	Adalbert Stifter	Belletristik	1857
+stifter_steine01_1853_minimal	Bunte Steine	Adalbert Stifter	Belletristik	1853
+storch_petersburg02_1794_minimal	Gemählde von St. Petersburg	Heinrich Friedrich von Storch	Gebrauchsliteratur	1794
+storm_immensee_1852_minimal	Immensee	Theodor Storm	Belletristik	1852
+strauss_jesus02_1836_minimal	Das Leben Jesu, kritisch bearbeitet	David Friedrich Strauß	Wissenschaft	1836
+strouhal_tonerregung_1878_minimal	Ueber eine besondere Art der Tonerregung	Vincenz Strouhal	Wissenschaft	1878
+suppius_oden_1749_minimal 1	Oden und Lieder	Christoph Eusebius Suppius	Belletristik	1749
+swift_unterricht_1748_minimal	Des Herrn Dr. Jonathan Swifts wo nicht unverbesserlicher doch wohlgemeynter Unterricht für alle Arten unerfahrner Bedienten, aus vieljähriger sorgfältiger Aufmerksamkeit und Erfahrung zusammengetragen	Jonathan Swift	Gebrauchsliteratur	1748
+thaer_landwirthschaft01_1809_minimal	Grundsätze der rationellen Landwirthschaft	Albrecht Daniel Thaer	Wissenschaft	1809
+thomasius_ausuebungvernunfftlehre_1691_minimal	Außübung Der Vernunfft-Lehre	Christian Thomasius	Wissenschaft	1691
+thomasius_discours_1690_minimal	Christian Thomas eröffnet Der Studirenden Jugend zu Leipzig in einem Discours Welcher Gestalt man denen Frantzosen im gemeinen Leben und Wandel nachahmen solle?	Christian Thomasius	Gebrauchsliteratur	1690
+thomasius_einleitungvernufftlehre_1691_minimal	Einleitung zu der Vernunfft-Lehre	Christian Thomasius	Wissenschaft	1691
+trichter_ritterexercitienlexikon_1742_minimal	Curiöses Reit- Jagd- Fecht- Tantz- oder Ritter-Exercitien-Lexicon	Valentin Trichter	Gebrauchsliteratur	1742
+tulla_rhein_1822_minimal	Der Rhein von Basel bis Mannheim mit Begründung der Nothwendigkeit, diesen Strom zu regulieren	Johann Gottfried Tulla	Gebrauchsliteratur	1822
+uhse_poet_1719_minimal	Wohl-informirter Poët	Erdmann Uhse	Gebrauchsliteratur	1719
+unknown_civilprozessordnung_1877_minimal	Civilprozeßordnung	NA N. N.	Gebrauchsliteratur	1877
+unzer_erstegruende_1771_minimal	Erste Gründe einer Physiologie der eigentlichen thierischen Natur thierischer Körper	Johann August Unzer	Wissenschaft	1771
+vertrag_westfaelischer_1648_minimal	Friedens-Schluß / So von der Römischen Käyserlichen / Vnd  Aller-Christl. Königl. Mayst. Mayst. Als auch Deß Heyl. Römischen Reichs Extraordinari-Deputirten, vnd anderer Chur:Fürsten vnd Ständ Gevollmächtigten vnd Hochansehenlichen Herren Abgesandten zu Münster in Westphalen / am 24/14. Octobris Im Jahr 1648. in offentlicher Versamblung vnderschrieben vnd bekräfftiget / auch den 25/15. eiusdem solenniter publicirt worden / etc.	unknown	Gebrauchsliteratur	1649
+virchow_cellularpathologie_1858_minimal	Die Cellularpathologie in ihrer Begründung auf physiologische und pathologische Gewebelehre	Rudolf Virchow	Wissenschaft	1858
+vischer_aesthetik030204_1857_minimal	Ästhetik oder Wissenschaft des Schönen	Friedrich Theodor von Vischer	Wissenschaft	1857
+voss_ini_1810_minimal	Ini	Julius von Voß	Belletristik	1810
+wartmann_germania0203_1650_minimal	Germaniae Pertvrbatae et Restavratae sive Vnpartheyischer wolmeynender Theologo-Politicorum Discvrsvm Ander vnd dritter Theil	Sigismund Friedrich Wartmann	Wissenschaft	1650
+wartmann_germania05_1653_minimal	De Statu Pertvrbato Franciae et Germaniae: Vnpartheyischer wolmeynender Discursuum Supplementum, oder Fünffter Theil	Sigismund Friedrich Wartmann	Wissenschaft	1653
+weckherlin_gedichte_1641_minimal	Gaistliche und Weltliche Gedichte	Georg Rodolf Weckherlin	Belletristik	1641
+weckherlin_oden01_1618_minimal	Oden vnd Gesäng	Georg Rodolf Weckherlin	Belletristik	1618
+weckherlin_oden02_1619_minimal	Oden vnd Gesäng	Georg Rodolf Weckherlin	Belletristik	1619
+weigel_gueldenergriff_1613_minimal	Der güldene Griff/ Alle Ding ohne Jrrthumb zuerkennen/ vielen Hochgelährten vnbekandt/ vnd doch allen Menschen nothwendig zu wissen	Valentin Weigel	Gebrauchsliteratur	1613
+wienbarg_feldzuege_1834_minimal	Aesthetische Feldzüge	Ludolf Wienbarg	Wissenschaft	1834
+winckelmann_kunstgeschichte01_1764_minimal	Geschichte der Kunst des Alterthums	Johann Joachim Winckelmann	Wissenschaft	1764
+woyt_gazophylacium_1737_minimal	Gazophylacium Medico-Physicum, Oder Schatz-Kammer, Medicinisch- und Natürlicher Dinge	Johann Jacob Woyt	Wissenschaft	1737
+wrangel_luxusfuhrwerk_1898_minimal	Das Luxus-Fuhrwerk	Carl Gustav Wrangel	Wissenschaft	1898
+zachariae_schriften05_1764_minimal	Poetische Schriften	Justus Friedrich Wilhelm Zachariae	Belletristik	1764
+zachariae_schriften06_1764_minimal	Poetische Schriften	Justus Friedrich Wilhelm Zachariae	Belletristik	1764
+zeiller_centuria02_1659_minimal	Centuria II. Variarvm Quæstionum	Martin Zeiller	Wissenschaft	1659
+zesen_helikon01_1640_minimal	Deütscher Helicon	Philipp von Zesen	Belletristik	1640
+zesen_rosemund_1645_minimal	Adriatische Rosemund	Philipp von Zesen	Belletristik	1645
+zwinger_theatrum_1690_minimal	Theatrvm Botanicvm, Das ist: Neu Vollkommenes Kräuter-Buch	Pietro Andrea Mattioli 	Gebrauchsliteratur	1690
