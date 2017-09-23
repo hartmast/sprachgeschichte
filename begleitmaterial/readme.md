@@ -1,0 +1,1 @@
+Hier findet sich das digitale Begleitmaterial zur Einführung "Deutsche Sprachgeschichte. Grundzüge und Methoden". Es bietet einige Tutorials mit Schwerpunkt Korpuslinguistik sowie Lösungshinweise zu den Übungsaufgaben im Buch.
