@@ -2,9 +2,16 @@
 if(!is.element("dplyr", installed.packages())) { install.packages("dplyr") }
 library(dplyr)
 
+# Optionen
+options(stringsAsFactors = F)
+
+
+#############################
+## zu 2.2.1: Daten filtern ##
+#############################
+
 # Daten einlesen
 ung <- read.delim("ung_bsp.csv", fileEncoding = "UTF-8", quote="")
-
 
 # in welchen Zeilen hat die Spalte "Anmerkungen" den Wert "Fehltreffer"?
 which(ung$Anmerkungen=="Fehltreffer")
@@ -38,3 +45,43 @@ ung3 <- filter(ung, Anmerkungen!="Fehltreffer")
 # ueberpruefen, dass beide das gleiche Ergebnis generieren
 ung2==ung3 # zeigt Ergebnis fuer jede Zelle einzeln
 all(ung2==ung3) # zeigt Ergebnis fuer alle Zellen
+
+
+################################################
+# zu 2.2.2: Tabellen gleichen Typs kombinieren #
+################################################
+
+# die beiden Dataframes einlesen
+gv <- read.csv("gehoert_verboten.csv")
+vg <- read.csv("verboten_gehoert.csv")
+
+# beide kombinieren
+beide <- rbind(gv, vg)
+
+# beide kombinieren und dabei eine Spalte hinzufuegen, die angibt,
+# aus welchem df es urspruenglich stammt
+# (mit der Funktion mutate aus dem Paket dplyr)
+
+beide <- rbind(mutate(gv, DF="gv"),
+               mutate(vg, DF="vg"))
+beide
+
+#####################################################
+# 2.2.3 Tabellen unterschiedlichen Typs kombinieren #
+#####################################################
+
+# Dataframes einlesen:
+farben <- read.csv("farben.csv")
+farben_lemmas <- read.delim("farben_lemmas.csv")
+
+# dafuer sorgen, dass beide einen Spaltennamen teilen:
+colnames(farben) # hier ist "Hit" die relevante Spalte
+colnames(farben_lemmas) # hier ist "Token" die relevante Spalte
+colnames(farben_lemmas)[which(colnames(farben_lemmas)=="Token")] <- "Hit"
+
+# mergen:
+merge(farben, farben_lemmas, by = "Hit")
+
+# oder, mit den ursprünglichen Spaltennamen:
+farben_lemmas <- read.delim("farben_lemmas.csv")
+merge(farben, farben_lemmas, by.x = "Hit", by.y = "Token")
