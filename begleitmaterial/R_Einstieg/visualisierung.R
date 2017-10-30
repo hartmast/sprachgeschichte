@@ -155,7 +155,89 @@ ggplot(mf1, aes(x = Genre, y = Rel_Freq, fill = df, label = Freq)) +
   guides(fill=guide_legend(title="Lemma"))
 
 
-# Boxplot
+# Boxplot mit Base Graphics
+boxplot(mf1$Freq~mf1$Genre, las=2)
+title(expression(paste(bold("ADJA+"), bolditalic("Mann/Frau "), bold("nach Genre"), sep="")))
+
+# mit par() kann man die Raender so anpassen, dass die
+# Labels wieder sichtbar werden:
+par(mar = c(10, 4, 4, 2) + 0.1) # siehe ?par unter "mar" fuer Defaultwerte;
+                               # hier erhoehen wir den ersten Wert (= Rand unten)
+
+boxplot(mf1$Freq~mf1$Genre, las=2)
+title(expression(paste(bold("ADJA+"), bolditalic("Mann/Frau "), bold("nach Genre"), sep="")))
+par(mar = c(5, 4, 4, 2) + 0.1) # zuruecksetzen auf Standardwerte
+
+# ... oder mit schraegen Argumentnamen (fuer Fortgeschrittene):
+par(xpd=T) # damit koennen wir auch ausserhalb des Plots selbst Elemente hinzufuegen,
+           # was wir unten mit dem Text machen werden.
+
+par(mar = c(7, 4, 4, 2) + 0.1)
+boxplot(mf1$Freq~mf1$Genre, xaxt = "n")
+text(x = seq(1, length(levels(factor(mf1$Genre))), by = 1), 
+     y = rep(-150, 5), labels = levels(factor(mf1$Genre)), pos = 2,
+     srt=45)
+title(expression(paste(bold("ADJA+"), bolditalic("Mann/Frau "), bold("nach Genre"), sep="")))
 
 
+# fuer Frau/Mann:
+boxplot(mf1$Freq~mf1$df)
+title(title(expression(paste(bold("ADJA+"), bolditalic("Mann/Frau "), bold("nach Geschlecht"), sep=""))))
+
+# Boxplot mit ggplot2:
+ggplot(mf1, aes(x = df, y = Freq)) + geom_boxplot()
+
+
+
+## Scatterplot ##
+
+# Daten einlesen
+ion <- read.delim("ion_germanc.csv", quote = "")
+all <- read.delim("germanc_tokens_per_year.csv", quote="")
+
+# Tabelle: Frequenz ion-Bildungen pro Jahr
+ion_table <- table(ion$text_year) %>% as.data.frame
+colnames(ion_table) <- c("text_year", "N_ion")
+
+# beide Tabellen mergen
+all <- merge(all, ion_table, all.x = T)
+
+# NAs durch 0 ersetzen
+all[is.na(all)] <- 0
+
+# Spalte mit relativen Frequenzen
+all <- mutate(all, Freq_rel = N_ion / N)
+
+# Jahres-Spalte als numerisch
+all$text_year <- gsub("-.*", "", all$text_year)
+all$text_year <- as.numeric(all$text_year)
+
+# relative Frequenzen als Scatterplot
+plot(all$text_year, all$Freq_rel*10000, xlab="Jahr", ylab = "Frequenz pro 10 000 W\u00f6rter",
+     main = expression(paste(bold("Frequenz des Fremdsuffixes "), 
+                             bolditalic("-ion"), bold(" im GerManC"), sep="")))
+abline(lm(all$Freq_rel*10000 ~ all$text_year))
+
+
+## Lineplot ##
+
+# Spalte mit Dekaden hinzufuegen:
+all$Jahrzehnt <- (floor(all$text_year/10)*10)+5
+
+# abs. Frequenz pro Jahrzehnt:
+all_decades <- all %>% group_by(Jahrzehnt) %>% summarise(
+  n = sum(N),
+  n_ion = sum(N_ion)
+)
+
+# rel. Frequenz pro Jahrzehnt:
+all_decades <- mutate(all_decades, RelFreq = n_ion / n)
+
+
+# plot
+plot(all_decades$Jahrzehnt, all_decades$RelFreq, type="b",
+     ylim = c(0, max(all_decades$RelFreq)), lwd = 2, pch = 20,
+     ylab = "Relative Frequenz", xlab = "Jahrzehnt", 
+     main = expression(paste(bold("Rel. Freq."),
+                             bolditalic(" -ion"), bold(" nach Jahrzehnt"), sep="")))
 
