@@ -19,16 +19,16 @@ library(concordances)
 
 
 # Daten einlesen
-kraft <- getCWB("kraft_gen_dat_sg_rem.txt")
+kraft <- getCWB("kraft_gen_dat_sg_rem.txt", dt = FALSE)
 
-# welche Keywords gibt es?
-table(kraft$Keyword)
+# welche Keys gibt es?
+table(kraft$Key)
 
 # Spalte hinzufuegen:
 # kommt a in der Wortform vor?
 kraft$a <- NA
-kraft[grep(".*a.*", kraft$Keyword),]$a <- "Ja"
-kraft[grep(".*a.*", kraft$Keyword, invert = T),]$a <- "Nein"
+kraft[grep(".*a.*", kraft$Key),]$a <- "Ja"
+kraft[grep(".*a.*", kraft$Key, invert = T),]$a <- "Nein"
 
 # nach Zeit ordnen; Tabelle mit absoluten und relativen Werten
 kraft_t_abs <- kraft %>% select(text_time, a) %>% table %>% as.data.frame.matrix()
@@ -54,4 +54,4 @@ ggplot(kraft_t_rel2, aes(x=Zeit, y=value, fill=variable, label=abs)) +
   theme(panel.grid.major = element_blank()) +
   ggtitle(expression(paste(italic("Kraft, "), "REM"), sep="", collapse="")) +
   theme(plot.title = element_text(hjust=0.5))
-ggsave("kraft_gen_dat_rem.png")
+# ggsave("kraft_gen_dat_rem.svg")
