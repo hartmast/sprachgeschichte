@@ -4,3 +4,15 @@ Dieses Begleitmaterial soll Ihnen Handwerkszeug vermitteln, das Sie benötigen, 
 Ebenso wenig wie das Buch kann das Begleitmaterial jedoch eine erschöpfende Einführung in die Korpuslinguistik bieten; hierfür verweise ich auf die einschlägige Literatur. Der Schwerpunkt liegt vielmehr darauf, die spezifischen Herausforderungen in der Arbeit mit historischen Korpora kennenzulernen und außerdem ganz praktische Zugänge zur Arbeit mit (Korpus-)Daten zu finden. Letzteres setzt Kenntnisse im EDV-Bereich voraus, über die viele Germanistinnen und Germanisten erfahrungsgemäß nicht verfügen und die ich zumindest in Grundzügen zu vermitteln versuche. (Disclaimer: Damit möchte ich nicht behaupten, selbst ein wirklicher Experte im Bereich Informatik oder Computerlinguistik zu sein. Für vieles, was ich im Folgenden vermittle, mag es bessere und elegantere Lösungen geben – für Anregungen bin ich immer dankbar!)
 Im Folgenden finden Sie eine kurze Übersicht über die einzelnen Bestandteile des Begleitmaterials. Wer bereits weiß, was ein csv-Sheet ist und wie man es in Tabellenkalkulationsprogrammen öffnet, wie man versteckte Dateien und Dateinamenerweiterungen einblendet und was der Unterschied zwischen UTF-8 und ANSI ist, kann das erste Dokument getrost überspringen. Allen anderen sei es ans Herz gelegt, da es hilft, viele vermeidbare Fehler zu umgehen und wertvolle Zeit zu sparen!
 In Zukunft wird das Begleitmaterial eventuell noch um weitere Tutorials ergänzt, und die bestehenden werden laufend aktualisiert (zumindest ist das mein Plan – deshalb werden sie ja online veröffentlicht und nicht in Buchform).Wenn Sie Fragen, Kritik oder Ergänzungswünsche haben, schreiben Sie mir gern: stefan1.hartmann[at]uni-bamberg.de.
+
+# Vom Korpus zur Konkordanz
+1.	Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers
+2.	Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse
+3.	Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)
+4.	Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)
+5.	Tutorial: COSMAS II (Deutsches Referenzkorpus)
+
+# Von der Konkordanz zur Analyse
+6.	Tutorial: Tabellen und Grafiken mit Excel und Calc
+7.	Tutorial: Schnelleinstieg in R
+8.	Tutorial: R-Paket „concordances“
