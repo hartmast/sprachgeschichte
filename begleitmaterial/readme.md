@@ -6,7 +6,7 @@ Im Folgenden finden Sie eine kurze Übersicht über die einzelnen Bestandteile d
 In Zukunft wird das Begleitmaterial eventuell noch um weitere Tutorials ergänzt, und die bestehenden werden laufend aktualisiert (zumindest ist das mein Plan – deshalb werden sie ja online veröffentlicht und nicht in Buchform).Wenn Sie Fragen, Kritik oder Ergänzungswünsche haben, schreiben Sie mir gern: stefan1.hartmann[at]uni-bamberg.de.
 
 # Vom Korpus zur Konkordanz
-1.	Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers
+1.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a>
 2.	Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse
 3.	Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)
 4.	Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)
