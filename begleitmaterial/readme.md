@@ -8,9 +8,9 @@ In Zukunft wird das Begleitmaterial eventuell noch um weitere Tutorials ergänzt
 # Vom Korpus zur Konkordanz
 1.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a>
 2.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/02-Arbeitsschritte.pdf">Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse</a>
-3.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/03-ANNIS.pdf>Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)</a>
+3.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/03-ANNIS.pdf">Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)</a>
 4.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/05-FnhdC.pdf"> Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
-5.	< href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a>
+5.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a>
 
 # Von der Konkordanz zur Analyse
 6.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf">Tutorial: Tabellen und Grafiken mit Excel und Calc</a>
