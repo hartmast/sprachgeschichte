@@ -7,12 +7,15 @@ In Zukunft wird das Begleitmaterial eventuell noch um weitere Tutorials ergänzt
 
 # Vom Korpus zur Konkordanz
 1.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a>
-2.	Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse
-3.	Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)
-4.	Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)
-5.	Tutorial: COSMAS II (Deutsches Referenzkorpus)
+2.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/02-Arbeitsschritte.pdf">Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse</a>
+3.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/03-ANNIS.pdf>Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)</a>
+4.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/05-FnhdC.pdf"> Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
+5.	< href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a>
 
 # Von der Konkordanz zur Analyse
-6.	Tutorial: Tabellen und Grafiken mit Excel und Calc
-7.	Tutorial: Schnelleinstieg in R
-8.	Tutorial: R-Paket „concordances“
+6.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf">Tutorial: Tabellen und Grafiken mit Excel und Calc</a>
+7.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/07-Schnelleinstieg%20in%20R.pdf"> Tutorial: Schnelleinstieg in R</a>
+8.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/08-concordances.pdf">Tutorial: R-Paket „concordances“</a>
+
+# Sonstiges
+<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/loesungshinweise.pdf">Lösungshinweise zu den Aufgaben im Buch</a>
