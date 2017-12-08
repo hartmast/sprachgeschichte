@@ -5,3 +5,5 @@ This repository contains code for some of the analyses in my upcoming book "Deut
 <a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/readme.md">Digitales Begleitmaterial</a>
 
 <a href="https://github.com/hartmast/sprachgeschichte/tree/master/korpusanalysen">Code für die im Buch dargestellten Korpusanalysen</a>
+
+<a href="https://github.com/hartmast/sprachgeschichte/tree/master/grafiken-tabellen">Daten und Code für die im Buch dargestellten Grafiken und Tabellen</a>
