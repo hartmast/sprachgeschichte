@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="../jspsych.js"></script>
+	<script src="../plugins/jspsych-text.js"></script>
+    <script src="../plugins/jspsych-survey-likert.js"></script>
+	<script src="../plugins/jspsych-survey-text.js"></script>
+    <link rel="stylesheet" href="css/jquery-ui.css"></link>
+    <link rel="stylesheet" href="../css/jspsych.css"></link>
+	<link href="jspsych-4.3/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+  </head>
+  <body>
+    <div id="jspsych-target"></div>
+  </body>
+  <script>
+  
+
+  // generate a random subject ID
+  var subject_id = Math.floor(Math.random()*100000);
+  
+  // defining groups of questions that will go together.
+  var cointoss = [0,1]
+  var evenodd = jsPsych.randomization.sample(cointoss, 1, false);
+  var question_00 = ["Ich mache die T\u00fcr auf.", "Ich mache die T\u00fcr auf."] //distractor
+  var question_01 = ["Ich \u00f6ffne die Flasche.", "Ich bin die Flasche am \u00f6ffnen."]; //am right, short
+  var question_02 = ["Ich bin am wandern.", "Ich wandere."]; //am left, long
+  var question_03 = ["Ich kochte ein Ei ab.", "Ich kochte ein Ei ab."]; //distractor
+  var question_04 = ["Ich bin eine Suppe am kochen.", "Ich koche eine Suppe."]; //am left, medium
+  var question_05 = ["Ich schreibe einen Brief.", "Ich bin einen Brief am schreiben."]; //am right, medium
+  var question_06 = ["Ich werde haben einen Baum gef\u00e4llt.", "Ich werde haben einen Baum gef\u00e4llt."]; //distractor
+  var question_07 = ["Ich binde meine Schuhe.", "Ich bin meine Schuhe am binden."]; //am right, short
+  var question_08 = ["Ich bin mit den Fingern am schnipsen.", "Ich schnipse mit den Fingern."]; //am left, short
+  var question_09 = ["Ich werfe einen Ball.", "Ich bin einen Ball am werfen."]; //am right, short
+  var question_10 = ["Ich war im eine CD h\u00f6ren.", "Ich war im eine CD h\u00f6ren."]; //distractor
+  var question_11 = ["Ich laufe.", "Ich bin am laufen."]; //am right, long
+  var question_12 = ["Ich backe einen Kuchen.", "Ich bin einen Kuchen am backen."]; //am right, medium
+  var question_13 = ["Ich habe Geschirr gesp\u00fclt.", "Ich habe Geschirr gesp\u00fclt."]; //distractor
+  var question_14 = ["Ich werde haben die Waschmaschine einger\u00e4mt","Ich werde haben die Waschmaschine einger\u00e4mt"]; //distractor
+  var question_15 = ["Ich bin ein Haus am bauen.", "Ich baue ein Haus."]; //am left, long
+  var question_16 = ["Ich mache die Steuererkl\u00e4rung.", "Ich bin die Steuererkl\u00e4rung am machen."]; //am right, medium/long
+  var question_17 = ["Ich habe gehalten einen Vortrag.", "Ich habe einen Vortrag gehalten."]; //distractor
+  var question_18 = ["An Gleis 1 f\u00e4hrt ein der IC nach Hoyerswerda.", "An Gleis 1 f\u00e4hrt ein der IC nach Hoyerswerda."]; //distractor
+  var question_19 = ["Ich bin am aufwachen.", "Ich wache auf."]; //am left, short
+  var question_20 = ["Ich warte.", "Ich bin am warten."]; //am right, long
+  var question_21 = ["Ich bin einen Knopf am dr\u00fccken.", "Ich dr\u00fccke einen Knopf."] //am left, short
+  var question_22 = ["Ich bin am basteln.", "Ich bastle."]; //am right, long
+    
+  var questions=[question_01[evenodd], question_02[evenodd], question_03[evenodd], question_04[evenodd], question_05[evenodd], question_06[evenodd], question_07[evenodd], question_08[evenodd], question_09[evenodd], question_10[evenodd], question_11[evenodd], question_12[evenodd], question_13[evenodd], question_14[evenodd], question_15[evenodd], question_16[evenodd], question_17[evenodd], question_18[evenodd], question_19[evenodd], question_20[evenodd], question_21[evenodd], question_22[evenodd]]
+  var all_questions = jsPsych.randomization.repeat(questions, 1)
+  
+  var page_0_questions = [question_00[evenodd], "F\u00fcr wie akzeptabel halten Sie diesen Satz?"]
+  var page_1_questions = [all_questions[0], "F\u00fcr wie akzeptabel halten Sie diesen Satz?"];
+
+
+  // definiting two different response scales that can be used.
+  var scale_1 = ["sehr kurz", "sehr lang"];
+  var scale_2 = ["1\ninakzeptabel","2","3","4","5\nv\u00f6llig akzeptabel"];
+
+  var instructions_block = {
+	type: "text",
+	text: "<p>Herzlich willkommen.</p><p>Auf den folgenden Seiten werden Sie gebeten, die Dauer von Ereignissen zu sch\u00e4tzen.</p><p>Dabei gibt es keine \"richtigen\" oder \"falschen\" Antworten. Entscheiden Sie bitte intuitiv und spontan, wie Sie den Satz, wenn er in einem Gespr\u00e4ch ge\u00e4u\u00dfert w\u00fcrde, interpretieren w\u00fcrden: Wo ist das Ereignis Ihrer Meinung nach auf einer Skala von \"sehr kurz\" bis \"sehr lang\" einzuordnen?</p><p>Es geht dabei darum, wie Sie sich das Ereignis <strong>typischerweise</strong> vorstellen, nicht um den konkreten Einzelfall. Beispiel: \"eine T\u00fcr \u00f6ffnen\" kann theoretisch sehr lange dauern, wenn die T\u00fcr sehr schwer oder blockiert ist. Im Normalfall allerdings handelt es sich um einen Vorgang, der sehr wenig Zeit in Anspruch nimmt.</p><p>Au\00dferdem werden Sie gebeten, zu entscheiden, wie <strong>akzeptabel</strong> Sie den jeweiligen Satz finden. Auch hier gibt es kein Richtig oder Falsch: Es geht darum, ob Sie den Satz als grammatikalisch einwandfrei oder eher als abweichend empfinden.</p><p>Ein letzter Hinweis: Im letzten Schritt dieser Studie erfragen wir einige wenige <strong>pers\u00f6nliche Daten</strong> (Alter, Geschlecht, Region, in der Sie aufgewachsen sind). Diese werden selbstverst\u00e4ndlich <strong>anonym</strong> behandelt und nur zu wissenschaftlichen Zwecken genutzt. Die Ergebnisse der Umfrage werden im Sinne der wissenschaftlichen Nachpr\u00fcfbarkeit \u00f6ffentlich zug\u00e4nglich gemacht, die im letzten Schritt erhobenen pers\u00f6nlichen Daten sind hiervon jedoch ausgenommen.</p><p>Bereit? <strong>Dr\u00fccken Sie eine beliebige Taste, um fortzufahren.</strong></p>"
+	};
+  
+  var likert_block = {
+      type: 'survey-likert',
+      questions: [page_0_questions, page_1_questions],
+      labels: [[scale_1, scale_2], [scale_1, scale_2]], // need one scale for every question on a page
+      intervals: [[1000, 5], [1000, 5]], // note the the intervals and labels don't necessarily need to match.
+	  show_ticks: [[false,true], [false, true]],
+	  data: [{ question_order: questions[0] }, { question_order: questions[1] }]
+	};
+	
+  /*Metadata block*/
+  var survey_questions = ["Ihr Alter", "Ihr Geschlecht", "Ihre Muttersprache", "In Welcher Region sind Sie aufgewachsen? (z.B. Stadt oder Bundesland. Bei mehreren Regionen: Die Region, von der Sie denken, dass Sie sie in Ihrem Sprachgebrauch am meisten beeinflusst hat.)", "Fragen? Anmerkungen?"]
+
+  var survey_block = {
+	type: 'survey-text',
+	preamble: ["<p><strong>Vielen Dank f\u00fcr Ihre Teilnahme!</strong></p><p>Abschliessend bitten wir Sie noch um einige wenige Angaben.</p><p>Bitte dr\u00fccken Sie nach dem Ausf\u00fcllen den Button \"Abschicken\", da Ihre Antworten sonst nicht erfasst werden.</p>"],
+	questions: [survey_questions],
+	rows: [1,1,1,1,10]
+  };
+
+  
+	/*savedata*/
+	function saveData(filename, filedata){
+           $.ajax({
+              type:'post',
+              cache: false,
+              url: 'save_data.php',
+              data: {filename: filename, filedata: filedata}
+           });
+        } 
+  
+  /*create experiment definition array*/
+  var experiment = [];
+  experiment.push(instructions_block);
+  experiment.push(likert_block);
+  experiment.push(survey_block);
+  
+  /*filename*/
+  var str = "amprog";
+  var str1 = ".csv"
+  
+  jsPsych.init({
+    display_element: $('#jspsych-target'),
+    experiment_structure: experiment,
+	on_finish: function(data){ 
+		saveData(str.concat(subject_id, str1), jsPsych.data.dataAsCSV()) 
+	}
+  });
+
+
+  </script>
+</html>
