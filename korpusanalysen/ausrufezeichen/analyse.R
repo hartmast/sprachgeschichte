@@ -22,13 +22,26 @@ if(!is.element("concordances", installed.packages())) {
 }
 
 # collostructions
+# Diese Funktion ueberprueft, ob der Link zum Paket "collostructions" noch aktuell ist.
+# Wenn nicht, gibt sie eine Fehlermeldung aus. In diesem Fall muessen
+# Sie den Link durch den aktuellen Link ersetzen (zu finden unter bit.ly/sflach)
+
 if(!is.element("collostructions", installed.packages())) {
-  if(.Platform$OS.type!="Windows") {
-    install.packages("http://userpage.fu-berlin.de/~flach/wp-content/uploads/collostructions_0.0.10.tar.gz", repos = NULL)
-  } else {
-    install.packages("http://userpage.fu-berlin.de/~flach/wp-content/uploads/collostructions_0.0.10.zip", repos = NULL)
+  if(.Platform$OS.type=="Windows") {
+    cxlink <- "http://userpage.fu-berlin.de/~flach/wp-content/uploads/collostructions_0.1.0.zip"
+    } else {
+      cxlink <- "http://userpage.fu-berlin.de/~flach/wp-content/uploads/collostructions_0.1.0.tar.gz"
+    }
+  
+  # print error message if link is not up to date
+  if(!RCurl::url.exists(cxlink)) { 
+      stop("Link to package 'collostructions' is not up to date any more.\n 
+       Please update the link. You should find the package on bit.ly/sflach")
   }
+  
+  install.packages(cxlink, repos = NULL, type="source")
 }
+
 
 
 # Zusatzpakete laden
