@@ -8,23 +8,23 @@ Im Folgenden finden Sie eine kurze Übersicht über die einzelnen Bestandteile d
 In Zukunft wird das Begleitmaterial eventuell noch um weitere Tutorials ergänzt, und die bestehenden werden laufend aktualisiert (zumindest ist das mein Plan – deshalb werden sie ja online veröffentlicht und nicht in Buchform).Wenn Sie Fragen, Kritik oder Ergänzungswünsche haben, schreiben Sie mir gern: stefan1.hartmann[at]uni-bamberg.de.
 
 # Vom Korpus zur Konkordanz
-1.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a>
-2.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/02-Arbeitsschritte.pdf">Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse</a>
-3.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/03-ANNIS.pdf">Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)</a>
-4. <a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/04-CosmasII_Tutorial.pdf">Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
-5.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/05-FnhdC.pdf">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a>
+1.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a>
+2.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/02-Arbeitsschritte.pdf">Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse</a>
+3.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/03-ANNIS.pdf">Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)</a>
+4. <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/04-CosmasII_Tutorial.pdf">Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
+5.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/05-FnhdC.pdf">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a>
 
 # Von der Konkordanz zur Analyse
-6.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf">Tutorial: Tabellen und Grafiken mit Excel und Calc</a>
-7.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/07-Schnelleinstieg%20in%20R.pdf"> Tutorial: Schnelleinstieg in R</a>
-8.	<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/08-concordances.pdf">Tutorial: R-Paket „concordances“</a>
+6.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf">Tutorial: Tabellen und Grafiken mit Excel und Calc</a>
+7.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/07-Schnelleinstieg%20in%20R.pdf"> Tutorial: Schnelleinstieg in R</a>
+8.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/08-concordances.pdf">Tutorial: R-Paket „concordances“</a>
 
 # Tutorials für die "Schreibphase"
 10. <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/hausarbeiten.pdf">Wie man eine sprachwissenschaftliche (Seminar-)Arbeit scheribt</a>
 11. <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/Beispielsa%CC%88tze%20mit%20Hilfe%20von%20Makros%20formatieren.pdf">Beispielsätze mit Hilfe von Makros formatieren: Ein Tutorial für Microsoft Word</a>
 
 # Sonstiges
-<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/loesungshinweise.pdf">Lösungshinweise zu den Aufgaben im Buch</a>
+<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/loesungshinweise.pdf">Lösungshinweise zu den Aufgaben im Buch</a>
 
 Die Rohdaten und Skripts zu den Korpusanalysen sowie die Ergebnisse der experimentellen Studie zum am-Progressiv finden Sie <a href="https://github.com/hartmast/sprachgeschichte/tree/master/korpusanalysen">hier</a>.
 
