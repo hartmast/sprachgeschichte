@@ -22,6 +22,7 @@ In Zukunft wird das Begleitmaterial eventuell noch um weitere Tutorials ergänzt
 # Tutorials für die "Schreibphase"
 10. <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/hausarbeiten.pdf">Wie man eine sprachwissenschaftliche (Seminar-)Arbeit scheribt</a>
 11. <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/Beispielsa%CC%88tze%20mit%20Hilfe%20von%20Makros%20formatieren.pdf">Beispielsätze mit Hilfe von Makros formatieren: Ein Tutorial für Microsoft Word</a>
+12. <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/Wissenschaftliches%20Zitieren%20mit%20Zotero.pdf">Wissenschafliches Zitieren mit Zotero</a>
 
 # Sonstiges
 <a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/loesungshinweise.pdf">Lösungshinweise zu den Aufgaben im Buch</a>
